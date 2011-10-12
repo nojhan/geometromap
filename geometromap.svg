@@ -83,11 +83,11 @@ claire.laudy@yahoo.fr</dc:title>
      id="base"
      showgrid="false"
      inkscape:zoom="1.0949153"
-     inkscape:cx="1032.5469"
-     inkscape:cy="734.22378"
+     inkscape:cx="983.25079"
+     inkscape:cy="688.36615"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:current-layer="layer23"
+     inkscape:current-layer="g6311"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="0"
@@ -2218,18 +2218,18 @@ claire.laudy@yahoo.fr</dc:title>
        id="g6311">
       <path
          id="path3260"
-         style="fill:none;stroke:#ec222c;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow1Send)"
+         style="fill:none;stroke:#ec222c;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.25,1.25;marker-start:none;marker-end:url(#Arrow1Send);stroke-dashoffset:0"
          d="m 1664.7658,1016.9805 c 8.2693,1.6102 15.7803,1.0868 28.3884,-3.5227 12.479,-4.5623 35.3114,-24.93998 67.7594,-52.42539 32.3626,-27.41307 63.5689,-54.33292 66.3799,-56.64081 2.7245,-2.23682 17.0876,-12.67999 29.2615,-14.1305 12.3782,-1.47485 26.6672,1.71689 37.1834,3.84085"
          inkscape:connector-curvature="0" />
       <path
          id="path8183"
          style="fill:none;stroke:#ec222c;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.25, 1.25;stroke-dashoffset:0;marker-start:url(#Arrow1Sstart);marker-end:url(#Arrow1Send)"
-         d="m 1897.2611,1338.9927 c -26.4199,5.5948 -67.6557,14.7123 -107.3374,22.3792 -39.8889,7.6669 -68.4846,-1.9686 -80.3995,-9.1175 -3.0169,-1.8101 -10.6127,-6.936 -16.8886,-14.1657 -6.3122,-7.2716 -14.7898,-27.0995 -20.5062,-41.3504 -12.8671,-32.4955 -16.3536,-57.6573 -11.0935,-81.8674 2.6348,-12.1269 7.9416,-23.52 10.8556,-35.6124 2.8806,-11.9539 5.9068,-23.8047 18.477,-41.7127 12.5221,-17.8393 18.0477,-25.5337 18.913,-44.7038 0.8657,-19.1783 -22.0959,-54.9203 -36.6415,-69.2306 -14.6506,-14.4135 -24.3478,-12.8474 -65.0656,-24.45142 C 1566.6649,987.5013 1532.2992,985.5874 1480.8063,982.79 l -98.7898,19.3487 -92.3646,-14.13933 -33.9439,-16.6809 -18.0625,17.48945 -93.1662,21.58058 c -16.1378,-5.8123 -25.039,-6.6291 -27.5747,-8.4585 l -17.5759,-19.75602 -45.9509,-87.1493 -75.15062,-33.49368 -11.84326,-11.72166 -24.8415,-29.47791 c -23.80607,-28.24924 -80.5558,-38.06666 -84.3049,-56.09238 -101.72258,-30.7992 -51.70719,29.41472 -200.42538,-25.60004 l -20.3076,6.17185 -324.85309,-158.63049 c -5.98537,-2.23931 -19.06073,-11.42323 -39.16364,-14.71227 -20.05825,-3.28173 -31.3931,-10.9824 -47.45226,-17.40607 -16.23795,-6.49519 -20.78227,-7.88291 -30.04618,-13.8834 -4.55873,-2.95281 -6.57908,-11.39683 0.41443,-17.44492 6.90758,-5.97378 6.06104,-5.9283 5.59481,-21.3043 -0.46647,-15.38368 -21.39496,-6.68268 -24.45138,-5.38759 -3.23295,1.3699 -95.160155,45.65471 -109.616766,53.6687 -14.297838,7.92597 -34.345896,17.09525 -45.794528,22.79366"
+         d="m 1897.2611,1338.9927 c -26.4199,5.5948 -67.6557,14.7123 -107.3374,22.3792 -39.8889,7.6669 -68.4846,-1.9686 -80.3995,-9.1175 -3.0169,-1.8101 -10.6127,-6.936 -16.8886,-14.1657 -6.3122,-7.2716 -14.7898,-27.0995 -20.5062,-41.3504 -12.8671,-32.4955 -16.3536,-57.6573 -11.0935,-81.8674 2.6348,-12.1269 7.9416,-23.52 10.8556,-35.6124 2.8806,-11.9539 5.9068,-23.8047 18.477,-41.7127 12.5221,-17.8393 18.0477,-25.5337 18.913,-44.7038 0.8657,-19.1783 -22.0959,-54.9203 -36.6415,-69.2306 -14.6506,-14.4135 -24.3478,-12.8474 -65.0656,-24.45142 C 1566.6649,987.5013 1532.2992,985.5874 1480.8063,982.79 l -98.7898,19.3487 -92.3646,-14.13933 -33.9439,-16.6809 -18.0625,17.48945 -93.1662,21.58058 c -16.1378,-5.8123 -25.039,-6.6291 -27.5747,-8.4585 l -17.5759,-19.75602 -45.9509,-87.1493 -75.15062,-33.49368 -11.84326,-11.72166 -24.8415,-29.47791 c -23.80607,-28.24924 -80.5558,-38.06666 -84.3049,-56.09238 -101.72258,-30.7992 -51.70719,29.41472 -200.42538,-25.60004 l -26.11989,6.81766 -310.07848,-151.41545 -6.37908,-10.12118 c -5.98537,-2.23931 -21.64397,-9.1629 -41.74688,-12.45194 -20.05825,-3.28173 -31.3931,-10.9824 -47.45226,-17.40607 -16.23795,-6.49519 -20.78227,-7.88291 -30.04618,-13.8834 -4.55873,-2.95281 -6.57908,-11.39683 0.41443,-17.44492 6.90758,-5.97378 6.06104,-5.9283 5.59481,-21.3043 -0.46647,-15.38368 -21.39496,-6.68268 -24.45138,-5.38759 -3.23295,1.3699 -95.160155,45.65471 -109.616766,53.6687 -14.297838,7.92597 -34.345896,17.09525 -45.794528,22.79366"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccsscsssssscccccccccccsccccsssssssc" />
+         sodipodi:nodetypes="ccsscsssssscccccccccccscccccsssssssc" />
       <path
          id="path2289"
-         style="fill:none;stroke:#ec222c;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Sstart);marker-end:none"
+         style="fill:none;stroke:#ec222c;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.25,1.25;marker-start:url(#Arrow1Sstart);marker-end:none;stroke-dashoffset:0"
          d="m 21.343151,335.24294 c 6.682686,4.86955 22.273016,16.22931 26.523528,19.89264 4.132885,3.56196 13.485132,14.35045 16.794833,24.18525 3.36877,10.01033 1.273695,37.52456 1.025662,44.61015 -0.248159,7.0892 -0.439048,20.56389 8.384846,34.15062 8.89093,13.68994 20.390827,18.0653 26.01285,21.1758 5.5095,3.04824 32.84765,16.36887 37.19815,18.12395 4.22419,1.70414 25.14108,2.80172 35.3774,0.41443"
          inkscape:connector-curvature="0" />
     </g>
@@ -2330,9 +2330,9 @@ claire.laudy@yahoo.fr</dc:title>
     <path
        id="path3147"
        style="fill:none;stroke:#ffbf00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 314.2845,579.96759 328.19209,159.40134 14.17993,-0.0702 9.72678,10.62673 231.5917,96.95938 62.92176,32.49259 8.58382,2.73284 22.31665,8.88081 57.48467,21.40899 48.2027,18.31219 23.1279,70.73304 135.3185,-30.06226 88.1663,14.19618 c 43.4384,5.87835 71.9265,9.66363 103.835,13.50053 31.9085,3.83695 52.7613,8.48755 71.672,10.12545"
+       d="m 314.2845,583.51954 10.6233,1.60774 317.56879,154.24165 14.17993,-0.0702 9.72678,10.62673 231.5917,96.95938 62.92176,32.49259 8.58382,2.73284 22.31665,8.88081 57.48467,21.40899 48.2027,18.31219 23.1279,70.73304 135.3185,-30.06226 88.1663,14.19618 c 43.4384,5.87835 71.9265,9.66363 103.835,13.50053 31.9085,3.83695 52.7613,8.48755 71.672,10.12545"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccsc" />
+       sodipodi:nodetypes="ccccccccccccccsc" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2460,6 +2460,19 @@ claire.laudy@yahoo.fr</dc:title>
          id="tspan5060"
          x="1162.717"
          y="703.3277"
+         style="stroke-width:0.20399822;stroke-miterlimit:4;stroke-dasharray:none">FIXME : indiquer le sens de la boucle</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.52750063px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:#ff0000;stroke-width:0.20399822;stroke-miterlimit:4;stroke-dasharray:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="375.04333"
+       y="1011.3217"
+       id="text5058-1"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0183845,0.98194739)"><tspan
+         sodipodi:role="line"
+         id="tspan5060-7"
+         x="375.04333"
+         y="1011.3217"
          style="stroke-width:0.20399822;stroke-miterlimit:4;stroke-dasharray:none">FIXME : indiquer le sens de la boucle</tspan></text>
   </g>
   <g
@@ -4435,21 +4448,32 @@ claire.laudy@yahoo.fr</dc:title>
          style="fill:#ffbf00;fill-opacity:1;stroke:none;display:inline"
          id="path4984" />
     </g>
-    <path
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;display:inline"
-       d="m 314.96875,573.125 c -3.62425,0 -6.5625,2.93808 -6.5625,6.5625 0,0.86217 0.16651,1.68329 0.46875,2.4375 -1.34981,1.20196 -2.21875,2.95663 -2.21875,4.90625 0,3.62425 2.93825,6.5625 6.5625,6.5625 3.62442,0 6.5625,-2.93825 6.5625,-6.5625 0,-0.8723 -0.15977,-1.70735 -0.46875,-2.46875 1.34437,-1.20174 2.21875,-2.92998 2.21875,-4.875 0,-3.62442 -2.93808,-6.5625 -6.5625,-6.5625 z"
-       id="use3916-6"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 317.68811,587.03035 c 0,2.46168 -1.99562,4.45741 -4.45741,4.45741 -2.46168,0 -4.45741,-1.99573 -4.45741,-4.45741 0,-2.46179 1.99573,-4.45741 4.45741,-4.45741 2.46179,0 4.45741,1.99562 4.45741,4.45741 z"
-       style="fill:#ec222c;fill-opacity:1;stroke:none;display:inline"
-       id="use2420" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 319.41661,579.68416 c 0,2.46168 -1.99562,4.45741 -4.45741,4.45741 -2.46168,0 -4.45741,-1.99573 -4.45741,-4.45741 0,-2.46179 1.99573,-4.45741 4.45741,-4.45741 2.46179,0 4.45741,1.99562 4.45741,4.45741 z"
-       style="fill:#ffbf00;fill-opacity:1;stroke:none;display:inline"
-       id="use2418" />
+    <g
+       id="g5083"
+       transform="matrix(0,-1,1,0,-473.86028,1323.4266)">
+      <path
+         id="path5086"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;display:inline"
+         d="m 746.56633,788.08306 c 0,3.62425 -2.93808,6.5625 -6.5625,6.5625 -3.62425,0 -6.5625,-2.93825 -6.5625,-6.5625 0,-3.62442 2.93825,-6.5625 6.5625,-6.5625 3.62442,0 6.5625,2.93808 6.5625,6.5625 z"
+         inkscape:connector-curvature="0" />
+      <g
+         style="fill:#ffbf00;fill-opacity:1;stroke:#ffffff;stroke-width:0.53349447;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+         id="g5088"
+         transform="matrix(-0.93721682,0,0,0.93721682,1355.7827,95.411733)">
+        <path
+           inkscape:connector-curvature="0"
+           style="color:#000000;fill:#e20021;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.49999997;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 771.375,740.59375 0,4.40625 0,4.40625 c 2.43847,0 4.40625,-1.96778 4.40625,-4.40625 0,-2.43847 -1.96778,-4.40625 -4.40625,-4.40625 z"
+           transform="matrix(1.066989,0,0,1.066989,-166.01915,-55.833714)"
+           id="path5091" />
+        <path
+           inkscape:connector-curvature="0"
+           style="color:#000000;fill:#ffbf00;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.49999997;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 771.375,740.59375 c -2.43847,0 -4.40625,1.96778 -4.40625,4.40625 0,2.43847 1.96778,4.40625 4.40625,4.40625 l 0,-4.40625 0,-4.40625 z"
+           transform="matrix(1.066989,0,0,1.066989,-166.01915,-55.833714)"
+           id="path5100" />
+      </g>
+    </g>
     <g
        id="g5113"
        transform="translate(4.3140778,-7.6690711)">
@@ -4943,7 +4967,7 @@ claire.laudy@yahoo.fr</dc:title>
     <path
        id="path3667"
        style="fill:#ffbf00;fill-opacity:1;stroke:none;display:inline"
-       d="m 391.08653,614.49309 c 0,2.24375 -1.81875,4.0625 -4.0625,4.0625 -2.24363,0 -4.0625,-1.81875 -4.0625,-4.0625 0,-2.24363 1.81887,-4.0625 4.0625,-4.0625 2.24375,0 4.0625,1.81887 4.0625,4.0625 z"
+       d="m 390.76363,614.97745 c 0,2.24375 -1.81875,4.0625 -4.0625,4.0625 -2.24363,0 -4.0625,-1.81875 -4.0625,-4.0625 0,-2.24363 1.81887,-4.0625 4.0625,-4.0625 2.24375,0 4.0625,1.81887 4.0625,4.0625 z"
        inkscape:connector-curvature="0" />
     <use
        xlink:href="#path3667"
@@ -4952,7 +4976,7 @@ claire.laudy@yahoo.fr</dc:title>
        y="0"
        x="0"
        id="use3669"
-       transform="matrix(1.25,0,0,1.25,-45.014297,-128.36354)" />
+       transform="matrix(1.25,0,0,1.25,-44.772118,-128.64609)" />
     <use
        xlink:href="#path3667"
        height="1770"
@@ -4960,7 +4984,7 @@ claire.laudy@yahoo.fr</dc:title>
        y="0"
        x="0"
        id="use3671"
-       transform="matrix(1.25,0,0,1.25,32.801972,-90.066525)" />
+       transform="matrix(1.25,0,0,1.25,33.528508,-90.51052)" />
     <use
        xlink:href="#path3667"
        height="1770"
@@ -4968,7 +4992,7 @@ claire.laudy@yahoo.fr</dc:title>
        y="0"
        x="0"
        id="use3673"
-       transform="matrix(1.25,0,0,1.25,136.4891,-40.769302)" />
+       transform="matrix(1.25,0,0,1.25,136.73128,-40.08313)" />
     <use
        xlink:href="#path3667"
        height="1770"
@@ -4976,7 +5000,7 @@ claire.laudy@yahoo.fr</dc:title>
        y="0"
        x="0"
        id="use3675"
-       transform="matrix(1.25,0,0,1.25,207.45181,-8.1369434)" />
+       transform="matrix(1.25,0,0,1.25,207.85544,-8.7423899)" />
     <use
        xlink:href="#path3667"
        height="1770"
@@ -4984,7 +5008,7 @@ claire.laudy@yahoo.fr</dc:title>
        y="0"
        x="0"
        id="use3679"
-       transform="matrix(1.25,0,0,1.25,372.32806,62.211705)" />
+       transform="matrix(1.25,0,0,1.25,372.73169,61.606258)" />
     <use
        xlink:href="#path3667"
        height="1770"
@@ -4992,7 +5016,7 @@ claire.laudy@yahoo.fr</dc:title>
        y="0"
        x="0"
        id="use3681"
-       transform="matrix(1.25,0,0,1.25,444.10201,94.012337)" />
+       transform="matrix(1.25,0,0,1.25,444.50564,93.40689)" />
     <use
        xlink:href="#path3667"
        height="1770"
@@ -5000,7 +5024,7 @@ claire.laudy@yahoo.fr</dc:title>
        y="0"
        x="0"
        id="use3683"
-       transform="matrix(1.25,0,0,1.25,565.49714,143.99343)" />
+       transform="matrix(1.25,0,0,1.25,565.90077,143.38798)" />
     <use
        xlink:href="#path3667"
        height="1770"
@@ -5008,7 +5032,7 @@ claire.laudy@yahoo.fr</dc:title>
        y="0"
        x="0"
        id="use3685"
-       transform="matrix(1.25,0,0,1.25,860.26193,216.71701)" />
+       transform="matrix(1.25,0,0,1.25,860.66556,216.11156)" />
     <use
        xlink:href="#path3667"
        height="1770"
@@ -5016,7 +5040,7 @@ claire.laudy@yahoo.fr</dc:title>
        y="0"
        x="0"
        id="use3687"
-       transform="matrix(1.25,0,0,1.25,905.28129,223.23565)" />
+       transform="matrix(1.25,0,0,1.25,905.68492,222.6302)" />
     <use
        xlink:href="#path3667"
        height="1770"
@@ -5024,7 +5048,7 @@ claire.laudy@yahoo.fr</dc:title>
        y="0"
        x="0"
        id="use3689"
-       transform="matrix(1.25,0,0,1.25,1035.8578,240.9582)" />
+       transform="matrix(1.25,0,0,1.25,1036.2614,240.35275)" />
     <use
        xlink:href="#path3667"
        height="1770"
@@ -5032,7 +5056,7 @@ claire.laudy@yahoo.fr</dc:title>
        y="0"
        x="0"
        id="use3691"
-       transform="matrix(1.25,0,0,1.25,964.15279,230.97653)" />
+       transform="matrix(1.25,0,0,1.25,964.55642,230.37108)" />
     <use
        xlink:href="#path2647"
        height="1770"
