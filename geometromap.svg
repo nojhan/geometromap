@@ -82,12 +82,12 @@ claire.laudy@yahoo.fr</dc:title>
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="2.2908588"
-     inkscape:cx="1111.5782"
-     inkscape:cy="895.84859"
+     inkscape:zoom="4.5817176"
+     inkscape:cx="1257.9303"
+     inkscape:cy="1021.0714"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer26"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="0"
@@ -2491,9 +2491,9 @@ claire.laudy@yahoo.fr</dc:title>
     <path
        id="path5097"
        style="fill:none;stroke:#753d0a;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 966.90338,875.41261 26.66975,10.24881 28.63907,-66.59422 c 0,0 23.4766,0.98755 31.0529,-3.34386 7.5763,-4.33142 11.78,-13.51867 11.78,-13.51867 l 41.2761,-23.1071 c 13.3144,-7.45363 30.0571,-15.68416 35.3302,-18.54575 5.3172,-2.88548 37.4826,-15.42112 43.5151,-14.91948 5.9296,0.49308 8.6771,-3.39315 11.6041,-6.21645 2.981,-2.87551 5.037,-3.14377 10.2572,-3.52265 5.2117,-0.37827 18.6447,-7.46376 19.789,-11.29323 1.1362,-3.80223 3.0728,-5.80476 12.3293,-7.35614 9.2729,-1.55411 16.2664,-1.32099 19.0637,6.32007 2.8309,7.73249 9.1153,5.76484 13.1582,5.69841 4.1465,-0.0664 22.6662,-4.32771 46.3126,-15.2303 23.6465,-10.9026 42.5568,-17.89821 56.7769,-23.51892"
+       d="m 966.90338,875.41261 26.66975,10.24881 28.63907,-66.59422 c 0,0 12.5637,3.82492 27.9973,-2.03431 15.4336,-5.85922 14.8356,-14.82822 14.8356,-14.82822 l 174.101,-84.9608 32.2219,12.01848 103.0895,-38.74922"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccczcssscsssccsc" />
+       sodipodi:nodetypes="ccczcccc" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4044,22 +4044,32 @@ claire.laudy@yahoo.fr</dc:title>
        x="0"
        id="use2268"
        transform="matrix(1.25,0,0,1.25,-277.94087,-385.78386)" />
-    <use
-       xlink:href="#path2328"
-       height="1770"
-       width="1927"
-       y="0"
-       x="0"
-       id="use2306"
-       transform="matrix(1.25,0,0,1.25,-191.07327,-714.06058)" />
-    <use
-       xlink:href="#path2328"
-       height="1770"
-       width="1927"
-       y="0"
-       x="0"
-       id="use2308"
-       transform="matrix(1.25,0,0,1.25,-190.2754,-711.46181)" />
+    <g
+       transform="matrix(0,-1,1,0,438.66516,1484.6086)"
+       id="g4091">
+      <path
+         id="path4093"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;display:inline"
+         d="m 774.17319,801.67735 c 0,3.62425 -2.93808,6.5625 -6.5625,6.5625 -3.62425,0 -6.5625,-2.93825 -6.5625,-6.5625 0,-3.62442 2.93825,-6.5625 6.5625,-6.5625 3.62442,0 6.5625,2.93808 6.5625,6.5625 z"
+         inkscape:connector-curvature="0" />
+      <g
+         style="fill:#b8268f;fill-opacity:1;stroke:#ffffff;stroke-width:0.53349447;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+         id="g4095"
+         transform="matrix(0.93721682,0,0,0.93721682,151.83132,109.00602)">
+        <path
+           inkscape:connector-curvature="0"
+           style="color:#000000;fill:#6eba6f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.49999997000000002;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 771.375,740.59375 0,4.40625 0,4.40625 c 2.43847,0 4.40625,-1.96778 4.40625,-4.40625 0,-2.43847 -1.96778,-4.40625 -4.40625,-4.40625 z"
+           transform="matrix(1.066989,0,0,1.066989,-166.01915,-55.833714)"
+           id="path4097" />
+        <path
+           inkscape:connector-curvature="0"
+           style="color:#000000;fill:#753d0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.49999997;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 771.375,740.59375 c -2.43847,0 -4.40625,1.96778 -4.40625,4.40625 0,2.43847 1.96778,4.40625 4.40625,4.40625 l 0,-4.40625 0,-4.40625 z"
+           transform="matrix(1.066989,0,0,1.066989,-166.01915,-55.833714)"
+           id="path4099" />
+      </g>
+    </g>
     <g
        transform="translate(322.77186,-150.9305)"
        id="g5033">
@@ -4254,22 +4264,32 @@ claire.laudy@yahoo.fr</dc:title>
            id="path5019" />
       </g>
     </g>
-    <use
-       xlink:href="#path2328"
-       height="1770"
-       width="1927"
-       y="0"
-       x="0"
-       id="use2348"
-       transform="matrix(1.25,0,0,1.25,-290.95416,-668.31253)" />
-    <use
-       xlink:href="#path2328"
-       height="1770"
-       width="1927"
-       y="0"
-       x="0"
-       id="use2350"
-       transform="matrix(1.25,0,0,1.25,-289.65778,-670.76126)" />
+    <g
+       id="g4081"
+       transform="translate(377.35274,-38.845119)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 774.17319,801.67735 c 0,3.62425 -2.93808,6.5625 -6.5625,6.5625 -3.62425,0 -6.5625,-2.93825 -6.5625,-6.5625 0,-3.62442 2.93825,-6.5625 6.5625,-6.5625 3.62442,0 6.5625,2.93808 6.5625,6.5625 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;display:inline"
+         id="path4083" />
+      <g
+         transform="matrix(-0.93721682,0,0,0.93721682,1383.3895,109.00602)"
+         id="g4085"
+         style="fill:#b8268f;fill-opacity:1;stroke:#ffffff;stroke-width:0.53349447;stroke-miterlimit:4;stroke-dasharray:none;display:inline">
+        <path
+           id="path4087"
+           transform="matrix(1.066989,0,0,1.066989,-166.01915,-55.833714)"
+           d="m 771.375,740.59375 0,4.40625 0,4.40625 c 2.43847,0 4.40625,-1.96778 4.40625,-4.40625 0,-2.43847 -1.96778,-4.40625 -4.40625,-4.40625 z"
+           style="color:#000000;fill:#0b4a9e;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.49999997;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4089"
+           transform="matrix(1.066989,0,0,1.066989,-166.01915,-55.833714)"
+           d="m 771.375,740.59375 c -2.43847,0 -4.40625,1.96778 -4.40625,4.40625 0,2.43847 1.96778,4.40625 4.40625,4.40625 l 0,-4.40625 0,-4.40625 z"
+           style="color:#000000;fill:#753d0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.49999997;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
     <g
        id="g5082">
       <path
@@ -4556,22 +4576,32 @@ claire.laudy@yahoo.fr</dc:title>
            id="path5795" />
       </g>
     </g>
-    <use
-       xlink:href="#path2328"
-       height="1770"
-       width="1927"
-       y="0"
-       x="0"
-       id="use2530"
-       transform="matrix(1.25,0,0,1.25,-114.08879,-715.73967)" />
-    <use
-       xlink:href="#path2328"
-       height="1770"
-       width="1927"
-       y="0"
-       x="0"
-       id="use2532"
-       transform="matrix(1.25,0,0,1.25,-114.2925,-712.07293)" />
+    <g
+       id="g4101"
+       transform="matrix(0,1,1,0,515.27398,-54.75968)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 774.17319,801.67735 c 0,3.62425 -2.93808,6.5625 -6.5625,6.5625 -3.62425,0 -6.5625,-2.93825 -6.5625,-6.5625 0,-3.62442 2.93825,-6.5625 6.5625,-6.5625 3.62442,0 6.5625,2.93808 6.5625,6.5625 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;display:inline"
+         id="path4103" />
+      <g
+         transform="matrix(0.93721682,0,0,0.93721682,151.83132,109.00602)"
+         id="g4105"
+         style="fill:#b8268f;fill-opacity:1;stroke:#ffffff;stroke-width:0.53349447;stroke-miterlimit:4;stroke-dasharray:none;display:inline">
+        <path
+           id="path4107"
+           transform="matrix(1.066989,0,0,1.066989,-166.01915,-55.833714)"
+           d="m 771.375,740.59375 0,4.40625 0,4.40625 c 2.43847,0 4.40625,-1.96778 4.40625,-4.40625 0,-2.43847 -1.96778,-4.40625 -4.40625,-4.40625 z"
+           style="color:#000000;fill:#6ebfb9;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.49999997000000002;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4109"
+           transform="matrix(1.066989,0,0,1.066989,-166.01915,-55.833714)"
+           d="m 771.375,740.59375 c -2.43847,0 -4.40625,1.96778 -4.40625,4.40625 0,2.43847 1.96778,4.40625 4.40625,4.40625 l 0,-4.40625 0,-4.40625 z"
+           style="color:#000000;fill:#753d0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.49999997;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
     <use
        xlink:href="#path2328"
        height="1770"
@@ -6398,7 +6428,7 @@ claire.laudy@yahoo.fr</dc:title>
        y="0"
        x="0"
        id="use2821"
-       transform="matrix(1.25,0,0,1.25,-504.29303,-129.18143)" />
+       transform="matrix(1.25,0,0,1.25,-504.72954,-133.11009)" />
     <use
        xlink:href="#path2817"
        height="1770"
@@ -6406,7 +6436,7 @@ claire.laudy@yahoo.fr</dc:title>
        y="0"
        x="0"
        id="use2823"
-       transform="matrix(1.25,0,0,1.25,-533.17047,-116.53857)" />
+       transform="matrix(1.25,0,0,1.25,-534.91654,-118.28464)" />
     <use
        xlink:href="#path2817"
        height="1770"
@@ -6414,7 +6444,7 @@ claire.laudy@yahoo.fr</dc:title>
        y="0"
        x="0"
        id="use2825"
-       transform="matrix(1.25,0,0,1.25,-613.19401,-83.2074)" />
+       transform="matrix(1.25,0,0,1.25,-612.32097,-80.151777)" />
     <use
        xlink:href="#path2817"
        height="1770"
