@@ -82,12 +82,12 @@ claire.laudy@yahoo.fr</dc:title>
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="1.552587"
-     inkscape:cx="1067.2976"
-     inkscape:cy="718.11286"
+     inkscape:zoom="3.1051741"
+     inkscape:cx="1351.4341"
+     inkscape:cy="1094.9546"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:current-layer="layer26"
+     inkscape:current-layer="layer16"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="0"
@@ -2434,9 +2434,32 @@ claire.laudy@yahoo.fr</dc:title>
     <path
        id="path3157"
        style="fill:none;stroke:#6eba6f;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 1068.9923,678.33817 37.3256,-15.05656 18.7563,17.49241 c 14.5753,13.59315 39.1285,29.68006 42.2719,28.69929 3.2377,-1.01017 22.4993,-15.81947 25.3838,-16.5772 2.8657,-0.75279 13.1838,-0.40528 18.9602,-0.51804 5.8496,-0.11276 22.4051,-19.94445 24.6585,-21.03233 2.3379,-1.12861 29.3948,6.67224 34.426,11.94826 5.1794,5.43147 -3.8236,11.37511 -11.5688,18.34954 -7.7453,6.97443 -14.1554,14.36441 -20.6302,14.36441 -6.4737,0 -9.2323,-4.28864 -13.3971,-8.79444 -4.7652,-5.14859 -9.629,-10.40622 -13.2812,-14.52462"
+       d="m 1068.9923,678.33817 37.3256,-15.05656 64.2486,44.90353 41.1236,-15.80707"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccsssccssscc" />
+       sodipodi:nodetypes="cccc" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#6eba6f;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path5056"
+       sodipodi:cx="1236.9677"
+       sodipodi:cy="690.51141"
+       sodipodi:rx="27.051624"
+       sodipodi:ry="27.051624"
+       d="m 1264.0193,690.51141 a 27.051624,27.051624 0 1 1 -54.1033,0 27.051624,27.051624 0 1 1 54.1033,0 z"
+       transform="translate(1.6102157,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.52750063px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:#ff0000;stroke-width:0.20399822;stroke-miterlimit:4;stroke-dasharray:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="1162.717"
+       y="703.3277"
+       id="text5058"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0183845,0.98194739)"><tspan
+         sodipodi:role="line"
+         id="tspan5060"
+         x="1162.717"
+         y="703.3277"
+         style="stroke-width:0.20399822;stroke-miterlimit:4;stroke-dasharray:none">FIXME : indiquer le sens de la boucle</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -6344,7 +6367,7 @@ claire.laudy@yahoo.fr</dc:title>
     <path
        id="path2807"
        style="fill:#6eba6f;fill-opacity:1;stroke:none;display:inline"
-       d="m 1128.9455,680.42227 c 0,2.24375 -1.8187,4.0625 -4.0625,4.0625 -2.2436,0 -4.0625,-1.81875 -4.0625,-4.0625 0,-2.24362 1.8189,-4.0625 4.0625,-4.0625 2.2438,0 4.0625,1.81888 4.0625,4.0625 z"
+       d="m 1133.7761,679.45614 c 0,2.24375 -1.8187,4.0625 -4.0625,4.0625 -2.2436,0 -4.0625,-1.81875 -4.0625,-4.0625 0,-2.24362 1.8189,-4.0625 4.0625,-4.0625 2.2438,0 4.0625,1.81888 4.0625,4.0625 z"
        inkscape:connector-curvature="0" />
     <use
        xlink:href="#path2807"
@@ -6353,7 +6376,7 @@ claire.laudy@yahoo.fr</dc:title>
        y="0"
        x="0"
        id="use2809"
-       transform="matrix(1.25,0,0,1.25,-235.30243,-142.4733)" />
+       transform="matrix(1.25,0,0,1.25,-241.34074,-141.26564)" />
     <use
        xlink:href="#path2807"
        height="1770"
@@ -6361,7 +6384,7 @@ claire.laudy@yahoo.fr</dc:title>
        y="0"
        x="0"
        id="use2811"
-       transform="matrix(1.25,0,0,1.25,-195.0731,-157.91486)" />
+       transform="matrix(1.25,0,0,1.25,-201.11141,-156.7072)" />
     <use
        xlink:href="#path2807"
        height="1770"
@@ -6369,7 +6392,7 @@ claire.laudy@yahoo.fr</dc:title>
        y="0"
        x="0"
        id="use2813"
-       transform="matrix(1.25,0,0,1.25,-168.25355,-179.04542)" />
+       transform="matrix(1.25,0,0,1.25,-175.58003,-185.24475)" />
     <use
        xlink:href="#path2807"
        height="1770"
@@ -6377,7 +6400,7 @@ claire.laudy@yahoo.fr</dc:title>
        y="0"
        x="0"
        id="use2815"
-       transform="matrix(1.25,0,0,1.25,-136.96407,-167.66743)" />
+       transform="matrix(1.25,0,0,1.25,-147.18894,-165.49364)" />
     <path
        id="path2817"
        style="fill:#753d0a;fill-opacity:1;stroke:none;display:inline"
