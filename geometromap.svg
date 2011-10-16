@@ -82,12 +82,12 @@ claire.laudy@yahoo.fr</dc:title>
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="2.1956896"
-     inkscape:cx="1078.8075"
-     inkscape:cy="1024.8878"
+     inkscape:zoom="4.8554421"
+     inkscape:cx="863.8786"
+     inkscape:cy="1004.082"
      inkscape:window-x="649"
      inkscape:window-y="0"
-     inkscape:current-layer="layer25"
+     inkscape:current-layer="layer3"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="0"
@@ -1447,7 +1447,7 @@ claire.laudy@yahoo.fr</dc:title>
     <g
        style="display:inline"
        id="g4822"
-       transform="matrix(0.435328,0,0,0.435328,790.97759,698.52066)">
+       transform="matrix(0.22809281,0,0,0.22809281,826.51175,701.14203)">
       <path
          id="path4824"
          d="M 0,26.703 C 0,11.953 11.953,0 26.705,0 41.453,0 53.408,11.953 53.408,26.703 53.408,41.453 41.453,53.408 26.705,53.408 11.953,53.408 0,41.453 0,26.703"
@@ -1780,7 +1780,7 @@ claire.laudy@yahoo.fr</dc:title>
     <g
        style="display:inline"
        id="g5188"
-       transform="matrix(0.4354014,0,0,0.4354014,846.00588,698.73662)">
+       transform="matrix(0.22813272,0,0,0.22813272,846.55554,696.82162)">
       <path
          id="path5190"
          d="M 0,26.703 C 0,11.951 11.918,0 26.68,0 41.438,0 53.399,11.951 53.399,26.703 53.399,41.447 41.438,53.406 26.68,53.406 11.918,53.406 0,41.447 0,26.703"
@@ -8345,5 +8345,95 @@ claire.laudy@yahoo.fr</dc:title>
          x="1032.8062"
          y="691.6571"
          style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Magenta</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text4491"
+       y="778.50867"
+       x="790.61469"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+       xml:space="preserve"><tspan
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+         y="778.50867"
+         x="790.61469"
+         sodipodi:role="line"
+         id="tspan4493">Madeleine</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+       x="774.30396"
+       y="727.8288"
+       id="text4495"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan4497"
+         sodipodi:role="line"
+         x="774.30396"
+         y="727.8288"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">St.-Augustin</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text4499"
+       y="720.25592"
+       x="805.37781"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+       xml:space="preserve"><tspan
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+         y="720.25592"
+         x="805.37781"
+         sodipodi:role="line"
+         id="tspan4501">St.-Lazare</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+       x="584.63812"
+       y="943.53345"
+       id="text4503"
+       sodipodi:linespacing="100%"
+       transform="matrix(0.95105652,-0.30901699,0.30901699,0.95105652,0,0)"><tspan
+         id="tspan4505"
+         sodipodi:role="line"
+         x="584.63812"
+         y="943.53345"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Haussman</tspan><tspan
+         sodipodi:role="line"
+         x="584.63812"
+         y="951.53345"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+         id="tspan4507">St.-Lazare</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+       x="783.61224"
+       y="752.97034"
+       id="text4509"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan4511"
+         sodipodi:role="line"
+         x="783.61224"
+         y="752.97034"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Havre Caumartin</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text4513"
+       y="767.79907"
+       x="825.83289"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+       xml:space="preserve"><tspan
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+         y="767.79907"
+         x="825.83289"
+         sodipodi:role="line"
+         id="tspan4515">Auber</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+       x="883.70612"
+       y="769.03479"
+       id="text4517"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan4519"
+         sodipodi:role="line"
+         x="883.70612"
+         y="769.03479"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Opéra</tspan></text>
   </g>
 </svg>
