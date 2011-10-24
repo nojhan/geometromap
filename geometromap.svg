@@ -84,10 +84,10 @@ claire.laudy@yahoo.fr</dc:title>
      showgrid="false"
      inkscape:zoom="3.2110022"
      inkscape:cx="1069.2942"
-     inkscape:cy="521.03987"
+     inkscape:cy="1019.3267"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:current-layer="layer28"
+     inkscape:current-layer="layer13"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="0"
@@ -95,6 +95,10 @@ claire.laudy@yahoo.fr</dc:title>
      inkscape:snap-to-guides="false" />
   <defs
      id="defs3">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4934"
+       is_visible="true" />
     <inkscape:path-effect
        effect="spiro"
        id="path-effect4931"
@@ -828,11 +832,11 @@ claire.laudy@yahoo.fr</dc:title>
      inkscape:label="Ligne 5"
      style="display:inline">
     <path
+       style="fill:none;stroke:#fd7929;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;display:inline"
+       d="m 1016.2619,1131.5197 c 0.7565,-1.1119 1.4821,-2.2448 2.1757,-3.397 7.3824,-12.2644 10.9552,-26.3663 15.5832,-39.9124 4.2374,-12.4028 9.6032,-24.7618 18.5952,-34.2975 4.3246,-4.5861 9.3843,-8.4058 14.0653,-12.6276 4.681,-4.2217 9.0758,-8.9822 11.5615,-14.775 2.1134,-4.9252 2.743,-10.364 2.8315,-15.7227 0.089,-5.3587 -0.3397,-10.7166 -0.2344,-16.075 0.4352,-22.14153 9.8497,-42.95008 16.1287,-64.18711 3.2508,-10.99503 5.6837,-22.22954 9.2816,-33.11594 3.4352,-10.39402 7.9901,-20.85766 7.2999,-31.78284 -0.4351,-6.88697 -2.9801,-13.53082 -6.6161,-19.39587 -3.6361,-5.86505 -8.3392,-11.00137 -13.3435,-15.7529 -10.048,-9.54055 -21.4548,-17.71722 -30.3697,-28.3242 -8.0009,-9.51946 -13.8098,-20.86175 -16.9161,-32.90275 -2.3101,-8.95465 -3.2412,-18.20582 -5.166,-27.25112 -1.9248,-9.04529 -5.0201,-17.79773 -8.5511,-26.3449 l -11.9981,-29.04257 c 4.016,-7.71481 14.4983,-21.70245 30.0028,-27.22942 15.5044,-5.52697 34.5921,-8.63729 39.6885,-5.69489 l 13.3731,10.79051 c 27.7123,6.29779 37.5201,-6.45453 50.8287,-21.50638 4.6541,-5.20213 11.1273,-8.46405 17.7735,-10.59746 6.6462,-2.13342 13.5692,-3.24773 20.3567,-4.87658 21.3942,-5.13415 41.1739,-15.29784 61.2547,-24.28854 14.213,-6.36352 28.6806,-12.17638 43.4487,-17.11683 42.951,-14.36867 88.1943,-21.28326 130.6987,-36.92384 55.7453,-20.51293 105.86,-56.10458 143.5927,-101.98013"
        id="path3149"
-       style="fill:none;stroke:#fd7929;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 1016.2619,1131.5197 c 1.5793,-1.3512 1.3684,0.043 2.1757,-3.397 0,0 9.5707,-26.9574 15.5832,-39.9124 5.4747,-11.7962 10.9928,-23.7464 18.5952,-34.2975 7.3109,-10.1466 25.6268,-27.4026 25.6268,-27.4026 0,0 0.8626,-21.3056 2.5971,-31.7977 3.5982,-21.7654 16.1287,-64.18711 16.1287,-64.18711 0,0 4.3063,-16.28184 9.2816,-33.11594 3.4242,-11.58559 8.5083,-22.76122 7.2999,-31.78284 -1.7887,-13.35426 -19.9596,-35.14877 -19.9596,-35.14877 l -30.3697,-28.3242 c 0,0 -12.5821,-21.35722 -16.9161,-32.90275 -6.4691,-17.23341 -13.7171,-53.59602 -13.7171,-53.59602 l -12.9324,-31.534 68.757,-31.6786 15.2417,12.03623 c 2.7056,-0.92839 42.5789,-18.63925 88.9589,-36.98042 l 104.7034,-41.40537 130.6987,-36.92384 143.5927,-101.98013"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccsscscssccsccccsccc" />
+       sodipodi:nodetypes="ccsssscsssscsssssczcccsssssc" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -10230,15 +10234,15 @@ claire.laudy@yahoo.fr</dc:title>
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       x="1147.2306"
-       y="647.55438"
+       x="1142.7441"
+       y="638.17206"
        id="text4403-6"
        sodipodi:linespacing="103%"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan4405-3"
          sodipodi:role="line"
-         x="1147.2306"
-         y="647.55438"
+         x="1142.7441"
+         y="638.17206"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Jaurès</tspan></text>
     <text
        sodipodi:linespacing="103%"
