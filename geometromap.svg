@@ -82,12 +82,12 @@ claire.laudy@yahoo.fr</dc:title>
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="4.0865129"
-     inkscape:cx="813.47843"
-     inkscape:cy="800.86809"
+     inkscape:zoom="3.2110022"
+     inkscape:cx="1069.2942"
+     inkscape:cy="521.03987"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:current-layer="layer12"
+     inkscape:current-layer="layer28"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="0"
@@ -95,6 +95,22 @@ claire.laudy@yahoo.fr</dc:title>
      inkscape:snap-to-guides="false" />
   <defs
      id="defs3">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4931"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4928"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4926"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4923"
+       is_visible="true" />
     <inkscape:path-effect
        effect="spiro"
        id="path-effect4920"
@@ -839,17 +855,15 @@ claire.laudy@yahoo.fr</dc:title>
        style="display:inline;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
        id="g6303">
       <path
+         style="fill:none;stroke:#f989af;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.94117647"
+         d="m 1341.1176,319.66132 c -33.4738,50.43586 -69.3636,101.56908 -103.7551,153.87907 -12.6494,19.24001 -24.0088,39.40625 -38.5874,57.229 -7.6065,9.29916 -15.9065,18.00347 -24.1392,26.7531 -28.5464,30.33883 -56.3858,61.33871 -83.7141,92.77917 -7.7289,8.8919 -15.4619,17.88106 -21.4374,28.03464 -4.8626,8.26256 -8.5186,17.22707 -13.8872,25.17019 -2.7738,4.10394 -6.0155,7.93253 -9.9136,10.98887 -3.8981,3.05639 -8.482,5.32272 -13.3723,6.11139 -7.7432,1.24876 -15.5573,-1.2288 -22.9573,-3.82809 -7.3988,-2.59889 -15.01115,-5.39426 -22.83712,-4.89294 -7.29326,0.46719 -14.06499,3.75785 -20.63619,6.95617 -6.56836,3.19694 -13.25248,6.15345 -20.06552,8.78903 l -21.03849,8.13861 c -13.83795,5.35313 -27.54071,11.18322 -40.31337,18.73332 -3.58911,5.36038 -5.98669,11.5139 -6.97023,17.88948 -2.02462,13.12408 1.89906,26.34582 5.5397,39.11634 3.61853,12.69295 7.02198,25.5208 12.51497,37.52213 3.62132,7.91201 8.21488,15.51523 14.57206,21.45662 6.35718,5.94139 14.63357,10.12382 23.33077,10.39318 5.29902,0.16412 10.52773,-1.09916 15.80459,-1.61034 2.63843,-0.25559 5.31039,-0.32214 7.93186,0.071 2.62147,0.39314 5.19932,1.26074 7.38648,2.7584 2.75823,1.88871 4.77241,4.68294 6.4033,7.60103 1.63089,2.91809 2.93492,6.01177 4.61433,8.90221 5.22292,8.98921 13.86837,15.59463 23.23335,20.10927 9.36501,4.51464 19.51171,7.12578 29.57921,9.71995 4.5341,1.16832 9.1018,2.35117 13.318,4.38752 4.2161,2.03635 8.1079,5.00878 10.4728,9.04982 1.5725,2.687 2.4211,5.77532 2.5751,8.88481 0.154,3.10949 -0.3765,6.23805 -1.4216,9.17069 -2.0902,5.86531 -6.1777,10.8525 -10.9025,14.90799 -9.4496,8.11094 -21.4694,12.81934 -30.7565,21.11587 -7.7334,6.90858 -13.29283,16.17888 -15.92361,26.20948 -1.90392,7.2592 -2.29997,14.8202 -2.52696,22.3215 -0.40224,13.2924 -0.27669,26.8001 3.36929,39.5891 4.53868,15.9202 14.23568,29.7728 21.84208,44.4765 6.7637,13.0747 4.3901,28.0536 8.3296,42.1786 3.5297,12.6553 2.551,20.0444 6.3661,32.8389 4.1425,13.892 4.1285,18.3518 6.2078,32.5204 6.1714,42.0512 20.8509,99.7648 28.191,139.6929 4.4101,23.9896 19.5752,44.9058 25.0882,68.6663 6.072,26.1696 4.3419,54.0985 -4.9136,79.3187"
          id="path2161"
-         style="fill:none;stroke:#f989af;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none"
-         d="m 1341.1176,319.66132 c 0,0 -69.1701,102.58604 -103.7551,153.87907 -12.8625,19.07633 -24.4146,39.10496 -38.5874,57.229 -7.399,9.46175 -24.1392,26.7531 -24.1392,26.7531 l -83.7141,92.77917 -21.4374,28.03464 c 0,0 -7.5632,17.97103 -13.8872,25.17019 -6.3556,7.23505 -23.2859,17.10026 -23.2859,17.10026 0,0 -30.3188,-10.12485 -45.79442,-8.72103 -14.48753,1.31419 -27.13447,10.4968 -40.70171,15.7452 l -21.03849,8.13861 c 4.42104,5.51422 -29.43132,17.14398 -40.31337,18.73332 l -6.97023,17.88948 5.5397,39.11634 12.51497,37.52213 c 0,0 22.51096,25.8977 37.90283,31.8498 9.68345,3.74463 31.12293,1.21901 31.12293,1.21901 0,0 6.16964,12.00364 11.01763,16.50324 14.81892,13.75399 52.81256,29.82922 52.81256,29.82922 l 23.7908,13.43734 -40.5055,54.07936 c 0,0 -12.61745,16.53633 -15.92361,26.20943 -2.42177,7.0856 -2.42278,14.8342 -2.52696,22.3215 -0.18426,13.2428 -0.17224,26.8273 3.36929,39.5891 4.41668,15.9153 21.84208,44.4765 21.84208,44.4765 l 49.0945,247.2308 25.0882,68.6663 -4.9136,79.3187"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="csscccscsccccccscscccssscccc" />
+         sodipodi:nodetypes="cssssssssssssscsssssssssssssssssssssssssssc" />
       <path
-         id="path3134"
-         style="fill:none;stroke:#f989af;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.94117647000000004;stroke-dasharray:none"
-         d="m 1032.9462,1203.2864 c 0,0 21.4242,23.3131 35.9525,25.4883 11.312,1.6937 32.5781,-10.7766 32.5781,-10.7766 l 81.8096,91.8833"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cscc" />
+         style="fill:none;stroke:#f989af;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.94117647"
+         d="m 1032.9462,1203.2864 c 1.2615,8.0924 5.9108,15.6019 12.5922,20.3386 6.6814,4.7367 15.3066,6.6381 23.3603,5.1497 5.6547,-1.045 10.88,-3.643 16.1177,-6.0165 5.2378,-2.3735 10.7128,-4.5815 16.4604,-4.7601 5.9031,-0.1834 11.7568,1.8347 16.6667,5.117 4.9099,3.2822 8.9229,7.7786 12.1847,12.7021 6.5237,9.847 10.1059,21.3093 15.3921,31.8723 8.5256,17.0361 21.6298,31.7539 37.5661,42.1919"
+         id="path3134" />
     </g>
   </g>
   <g
@@ -6585,58 +6599,58 @@ claire.laudy@yahoo.fr</dc:title>
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       x="1165.4386"
-       y="1232.7782"
+       x="1172.4886"
+       y="1233.6862"
        id="text4819-9"
        sodipodi:linespacing="105%"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan4821-5"
          sodipodi:role="line"
-         x="1165.4386"
-         y="1232.7782"
+         x="1172.4886"
+         y="1233.6862"
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Pierre et Marie Curie</tspan></text>
     <text
        sodipodi:linespacing="105%"
        id="text4823-6"
-       y="1183.2174"
-       x="1137.9758"
-       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
+       y="1181.7041"
+       x="1139.1807"
+       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
-         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         y="1183.2174"
-         x="1137.9758"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
+         y="1181.7041"
+         x="1139.1807"
          sodipodi:role="line"
          id="tspan4825-4">Porte d'Ivry</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       x="1100.0938"
+       x="1100.5693"
        y="1204.8417"
        id="text4827-8"
        sodipodi:linespacing="105%"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan4829-2"
          sodipodi:role="line"
-         x="1100.0938"
+         x="1100.5693"
          y="1204.8417"
-         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Porte de</tspan><tspan
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:middle;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Porte de</tspan><tspan
          sodipodi:role="line"
-         x="1100.0938"
+         x="1100.5693"
          y="1212.1887"
-         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:middle;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
          id="tspan4831-1">Choisy</tspan></text>
     <text
        sodipodi:linespacing="105%"
        id="text5625-1"
-       y="1274.887"
-       x="1208.5725"
+       y="1276.0975"
+       x="1211.1362"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         y="1274.887"
-         x="1208.5725"
+         y="1276.0975"
+         x="1211.1362"
          sodipodi:role="line"
          id="tspan5627-4">Mairie d'Ivry</tspan></text>
     <text
@@ -10899,7 +10913,7 @@ claire.laudy@yahoo.fr</dc:title>
     <g
        style="display:inline"
        id="g3609"
-       transform="matrix(0.05841708,0,0,0.05841708,1158.9281,1316.1625)">
+       transform="matrix(0.05841708,0,0,0.05841708,1138.9966,1316.4739)">
       <path
          style="fill:#14489e;fill-opacity:1"
          id="path3611"
@@ -11700,7 +11714,7 @@ claire.laudy@yahoo.fr</dc:title>
     <g
        style="display:inline"
        id="g4746"
-       transform="matrix(0.4352791,0,0,0.4352791,1183.9845,1316.2218)">
+       transform="matrix(0.4352791,0,0,0.4352791,1164.053,1316.5332)">
       <path
          id="path4748"
          d="M 0,26.707 C 0,11.965 11.961,0 26.707,0 41.453,0 53.414,11.965 53.414,26.707 53.414,41.457 41.453,53.41 26.707,53.41 11.961,53.41 0,41.457 0,26.707"
