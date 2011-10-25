@@ -70,8 +70,8 @@ claire.laudy@yahoo.fr</dc:title>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:window-height="1175"
-     inkscape:window-width="1199"
+     inkscape:window-height="1158"
+     inkscape:window-width="1427"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      guidetolerance="10.0"
@@ -82,10 +82,10 @@ claire.laudy@yahoo.fr</dc:title>
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="0.42345615"
-     inkscape:cx="963.5"
-     inkscape:cy="885"
-     inkscape:window-x="713"
+     inkscape:zoom="1.8702647"
+     inkscape:cx="942.18559"
+     inkscape:cy="770.63331"
+     inkscape:window-x="485"
      inkscape:window-y="0"
      inkscape:current-layer="layer31"
      showguides="true"
@@ -4949,7 +4949,7 @@ claire.laudy@yahoo.fr</dc:title>
     </g>
     <g
        id="g5167"
-       transform="translate(-5.8646254,-38.274397)">
+       transform="matrix(1.2,0,0,1.2,-258.14912,-240.17168)">
       <g
          transform="translate(493.81179,207.80904)"
          id="g5154"
@@ -4962,12 +4962,12 @@ claire.laudy@yahoo.fr</dc:title>
       </g>
       <g
          id="g5142"
-         transform="matrix(0.75822433,-0.55088222,0.55088222,0.75822433,356.10104,811.05212)">
+         transform="matrix(0.9098692,-0.66105866,0.66105866,0.9098692,175.03697,771.36475)">
         <path
            sodipodi:end="1.5707963"
            sodipodi:start="0.31415927"
            transform="matrix(1.0714286,0,0,1.0714286,-46.930696,-52.790904)"
-           d="m 661.21147,740.43136 a 4.3969483,4.3969483 0 0 1 -4.18175,3.03822 l 0,-4.39695 z"
+           d="m 661.21147,740.43136 c -0.58864,1.81165 -2.27687,3.03822 -4.18175,3.03822 l 0,-4.39695 z"
            sodipodi:ry="4.3969483"
            sodipodi:rx="4.3969483"
            sodipodi:cy="739.07263"
@@ -4985,7 +4985,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:cy="739.07263"
            sodipodi:rx="4.3969483"
            sodipodi:ry="4.3969483"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -3.03821,4.18175 l -1.35874,-4.18175 z"
+           d="m 661.42667,739.07263 c 0,1.90488 -1.22657,3.59311 -3.03821,4.18175 l -1.35874,-4.18175 z"
            transform="matrix(-0.62976992,-0.86680393,0.86680393,-0.62976992,430.17623,1774.0343)"
            sodipodi:start="0"
            sodipodi:end="1.2566371" />
@@ -4993,7 +4993,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:end="1.3613568"
            sodipodi:start="0.10471976"
            transform="matrix(-0.97879872,0.43578927,-0.43578927,-0.97879872,1622.2188,1176.1456)"
-           d="m 661.40259,739.53224 a 4.3969483,4.3969483 0 0 1 -3.45869,3.84126 l -0.91418,-4.30087 z"
+           d="m 661.40259,739.53224 c -0.19912,1.89444 -1.59544,3.44521 -3.45869,3.84126 l -0.91418,-4.30087 z"
            sodipodi:ry="4.3969483"
            sodipodi:rx="4.3969483"
            sodipodi:cy="739.07263"
@@ -5013,7 +5013,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:cy="739.07263"
            sodipodi:rx="4.3969483"
            sodipodi:ry="4.3969483"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -3.03821,4.18175 l -1.35874,-4.18175 z"
+           d="m 661.42667,739.07263 c 0,1.90488 -1.22657,3.59311 -3.03821,4.18175 l -1.35874,-4.18175 z"
            transform="matrix(0,1.0714286,-1.0714286,0,1448.8933,35.112193)"
            sodipodi:start="0"
            sodipodi:end="1.2566371" />
@@ -5021,7 +5021,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:end="1.2566371"
            sodipodi:start="0"
            transform="matrix(0.62976992,-0.86680393,0.86680393,0.62976992,-397.37888,843.14288)"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -3.03821,4.18175 l -1.35874,-4.18175 z"
+           d="m 661.42667,739.07263 c 0,1.90488 -1.22657,3.59311 -3.03821,4.18175 l -1.35874,-4.18175 z"
            sodipodi:ry="4.3969483"
            sodipodi:rx="4.3969483"
            sodipodi:cy="739.07263"
@@ -5166,21 +5166,21 @@ claire.laudy@yahoo.fr</dc:title>
     <g
        style="display:inline"
        id="g5600-3"
-       transform="translate(250.78284,326.82216)">
+       transform="matrix(1.2,0,0,1.2,97.260702,166.48669)">
       <path
          inkscape:connector-curvature="0"
          d="m 774.17319,801.67735 c 0,3.62425 -2.93808,6.5625 -6.5625,6.5625 -3.62425,0 -6.5625,-2.93825 -6.5625,-6.5625 0,-3.62442 2.93825,-6.5625 6.5625,-6.5625 3.62442,0 6.5625,2.93808 6.5625,6.5625 z"
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;display:inline"
          id="path5602-3" />
       <g
-         transform="matrix(0.93721682,0,0,0.93721682,151.81576,108.94761)"
+         transform="matrix(1.1246602,0,0,1.1246602,28.659966,-29.586683)"
          id="g5604-8"
          style="stroke:#ffffff;stroke-width:0.53349447;stroke-miterlimit:4;stroke-dasharray:none;display:inline">
         <path
            sodipodi:end="2.1991149"
            sodipodi:start="0"
            transform="matrix(0,-1.0714286,1.0714286,0,-134.83381,1443.0331)"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -6.98141,3.55721 l 2.58446,-3.55721 z"
+           d="m 661.42667,739.07263 c 0,2.42837 -1.96858,4.39695 -4.39695,4.39695 -0.92854,0 -1.83325,-0.29396 -2.58446,-0.83974 l 2.58446,-3.55721 z"
            sodipodi:ry="4.3969483"
            sodipodi:rx="4.3969483"
            sodipodi:cy="739.07263"
@@ -5200,7 +5200,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:cy="739.07263"
            sodipodi:rx="4.3969483"
            sodipodi:ry="4.3969483"
-           d="m 660.83759,736.87416 a 4.3969483,4.3969483 0 0 1 -3.80787,6.59542 l 0,-4.39695 z"
+           d="m 660.83759,736.87416 c 1.21419,2.10303 0.49364,4.79216 -1.60939,6.00634 -0.66842,0.38591 -1.42665,0.58908 -2.19848,0.58908 l 0,-4.39695 z"
            transform="matrix(-1.0714286,0,0,-1.0714286,1360.9902,1530.9362)"
            sodipodi:start="5.7595865"
            sodipodi:end="7.8539816" />
@@ -5208,7 +5208,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:end="7.3303829"
            sodipodi:start="5.3407075"
            transform="matrix(0,1.0714286,-1.0714286,0,1448.8933,35.112193)"
-           d="m 659.61419,735.51543 a 4.3969483,4.3969483 0 0 1 -0.38599,7.36507 l -2.19848,-3.80787 z"
+           d="m 659.61419,735.51543 c 1.96459,1.42735 2.4001,4.17707 0.97274,6.14166 -0.36218,0.49851 -0.8251,0.91532 -1.35873,1.22341 l -2.19848,-3.80787 z"
            sodipodi:ry="4.3969483"
            sodipodi:rx="4.3969483"
            sodipodi:cy="739.07263"
@@ -5393,21 +5393,21 @@ claire.laudy@yahoo.fr</dc:title>
     </g>
     <g
        id="g5600"
-       transform="translate(-93.198742,163.61409)">
+       transform="matrix(1.2,0,0,1.2,-246.72088,3.27862)">
       <path
          inkscape:connector-curvature="0"
          d="m 774.17319,801.67735 c 0,3.62425 -2.93808,6.5625 -6.5625,6.5625 -3.62425,0 -6.5625,-2.93825 -6.5625,-6.5625 0,-3.62442 2.93825,-6.5625 6.5625,-6.5625 3.62442,0 6.5625,2.93808 6.5625,6.5625 z"
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;display:inline"
          id="path5602" />
       <g
-         transform="matrix(0.93721682,0,0,0.93721682,151.81576,108.94761)"
+         transform="matrix(1.1246602,0,0,1.1246602,28.659966,-29.586683)"
          id="g5604"
          style="stroke:#ffffff;stroke-width:0.53349447;stroke-miterlimit:4;stroke-dasharray:none;display:inline">
         <path
            sodipodi:end="2.1991149"
            sodipodi:start="0"
            transform="matrix(0,-1.0714286,1.0714286,0,-134.83381,1443.0331)"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -6.98141,3.55721 l 2.58446,-3.55721 z"
+           d="m 661.42667,739.07263 c 0,2.42837 -1.96858,4.39695 -4.39695,4.39695 -0.92854,0 -1.83325,-0.29396 -2.58446,-0.83974 l 2.58446,-3.55721 z"
            sodipodi:ry="4.3969483"
            sodipodi:rx="4.3969483"
            sodipodi:cy="739.07263"
@@ -5427,7 +5427,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:cy="739.07263"
            sodipodi:rx="4.3969483"
            sodipodi:ry="4.3969483"
-           d="m 660.83759,736.87416 a 4.3969483,4.3969483 0 0 1 -3.80787,6.59542 l 0,-4.39695 z"
+           d="m 660.83759,736.87416 c 1.21419,2.10303 0.49364,4.79216 -1.60939,6.00634 -0.66842,0.38591 -1.42665,0.58908 -2.19848,0.58908 l 0,-4.39695 z"
            transform="matrix(-1.0714286,0,0,-1.0714286,1360.9902,1530.9362)"
            sodipodi:start="5.7595865"
            sodipodi:end="7.8539816" />
@@ -5435,7 +5435,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:end="7.3303829"
            sodipodi:start="5.3407075"
            transform="matrix(0,1.0714286,-1.0714286,0,1448.8933,35.112193)"
-           d="m 659.61419,735.51543 a 4.3969483,4.3969483 0 0 1 -0.38599,7.36507 l -2.19848,-3.80787 z"
+           d="m 659.61419,735.51543 c 1.96459,1.42735 2.4001,4.17707 0.97274,6.14166 -0.36218,0.49851 -0.8251,0.91532 -1.35873,1.22341 l -2.19848,-3.80787 z"
            sodipodi:ry="4.3969483"
            sodipodi:rx="4.3969483"
            sodipodi:cy="739.07263"
@@ -5585,12 +5585,12 @@ claire.laudy@yahoo.fr</dc:title>
        inkscape:connector-curvature="0" />
     <g
        id="g5423"
-       transform="matrix(0.93721682,0,0,0.93721682,349.50899,187.15905)">
+       transform="matrix(1.1246602,0,0,1.1246602,226.35226,48.624787)">
       <path
          sodipodi:end="1.5707963"
          sodipodi:start="0.31415927"
          transform="matrix(1.0714286,0,0,1.0714286,-46.930696,-52.790904)"
-         d="m 661.21147,740.43136 a 4.3969483,4.3969483 0 0 1 -4.18175,3.03822 l 0,-4.39695 z"
+         d="m 661.21147,740.43136 c -0.58864,1.81165 -2.27687,3.03822 -4.18175,3.03822 l 0,-4.39695 z"
          sodipodi:ry="4.3969483"
          sodipodi:rx="4.3969483"
          sodipodi:cy="739.07263"
@@ -5608,7 +5608,7 @@ claire.laudy@yahoo.fr</dc:title>
          sodipodi:cy="739.07263"
          sodipodi:rx="4.3969483"
          sodipodi:ry="4.3969483"
-         d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -3.03821,4.18175 l -1.35874,-4.18175 z"
+         d="m 661.42667,739.07263 c 0,1.90488 -1.22657,3.59311 -3.03821,4.18175 l -1.35874,-4.18175 z"
          transform="matrix(-0.62976992,-0.86680393,0.86680393,-0.62976992,430.17623,1774.0343)"
          sodipodi:start="0"
          sodipodi:end="1.2566371" />
@@ -5616,7 +5616,7 @@ claire.laudy@yahoo.fr</dc:title>
          sodipodi:end="1.3613568"
          sodipodi:start="0.10471976"
          transform="matrix(-0.97879872,0.43578927,-0.43578927,-0.97879872,1622.2188,1176.1456)"
-         d="m 661.40259,739.53224 a 4.3969483,4.3969483 0 0 1 -3.45869,3.84126 l -0.91418,-4.30087 z"
+         d="m 661.40259,739.53224 c -0.19912,1.89444 -1.59544,3.44521 -3.45869,3.84126 l -0.91418,-4.30087 z"
          sodipodi:ry="4.3969483"
          sodipodi:rx="4.3969483"
          sodipodi:cy="739.07263"
@@ -5636,7 +5636,7 @@ claire.laudy@yahoo.fr</dc:title>
          sodipodi:cy="739.07263"
          sodipodi:rx="4.3969483"
          sodipodi:ry="4.3969483"
-         d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -3.03821,4.18175 l -1.35874,-4.18175 z"
+         d="m 661.42667,739.07263 c 0,1.90488 -1.22657,3.59311 -3.03821,4.18175 l -1.35874,-4.18175 z"
          transform="matrix(0,1.0714286,-1.0714286,0,1448.8933,35.112193)"
          sodipodi:start="0"
          sodipodi:end="1.2566371" />
@@ -5644,7 +5644,7 @@ claire.laudy@yahoo.fr</dc:title>
          sodipodi:end="1.2566371"
          sodipodi:start="0"
          transform="matrix(0.62976992,-0.86680393,0.86680393,0.62976992,-397.37888,843.14288)"
-         d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -3.03821,4.18175 l -1.35874,-4.18175 z"
+         d="m 661.42667,739.07263 c 0,1.90488 -1.22657,3.59311 -3.03821,4.18175 l -1.35874,-4.18175 z"
          sodipodi:ry="4.3969483"
          sodipodi:rx="4.3969483"
          sodipodi:cy="739.07263"
@@ -5658,7 +5658,7 @@ claire.laudy@yahoo.fr</dc:title>
     <g
        style="stroke:#ffffff;stroke-width:0.53349447;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        id="g5411"
-       transform="matrix(0,0.93721682,-0.93721682,0,1662.911,238.83691)">
+       transform="matrix(0,1.1246602,-1.1246602,0,1801.4453,115.68112)">
       <path
          inkscape:transform-center-y="-2.3554968"
          inkscape:transform-center-x="-2.3555119"
@@ -5669,7 +5669,7 @@ claire.laudy@yahoo.fr</dc:title>
          sodipodi:cy="739.07263"
          sodipodi:rx="4.3969483"
          sodipodi:ry="4.3969483"
-         d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -6.98141,3.55721 l 2.58446,-3.55721 z"
+         d="m 661.42667,739.07263 c 0,2.42837 -1.96858,4.39695 -4.39695,4.39695 -0.92854,0 -1.83325,-0.29396 -2.58446,-0.83974 l 2.58446,-3.55721 z"
          transform="matrix(0,-1.0714286,1.0714286,0,-134.83381,1443.0331)"
          sodipodi:start="0"
          sodipodi:end="2.1991149" />
@@ -5677,7 +5677,7 @@ claire.laudy@yahoo.fr</dc:title>
          sodipodi:end="7.8539816"
          sodipodi:start="5.7595865"
          transform="matrix(-1.0714286,0,0,-1.0714286,1360.9902,1530.9362)"
-         d="m 660.83759,736.87416 a 4.3969483,4.3969483 0 0 1 -3.80787,6.59542 l 0,-4.39695 z"
+         d="m 660.83759,736.87416 c 1.21419,2.10303 0.49364,4.79216 -1.60939,6.00634 -0.66842,0.38591 -1.42665,0.58908 -2.19848,0.58908 l 0,-4.39695 z"
          sodipodi:ry="4.3969483"
          sodipodi:rx="4.3969483"
          sodipodi:cy="739.07263"
@@ -5697,7 +5697,7 @@ claire.laudy@yahoo.fr</dc:title>
          sodipodi:cy="739.07263"
          sodipodi:rx="4.3969483"
          sodipodi:ry="4.3969483"
-         d="m 659.61419,735.51543 a 4.3969483,4.3969483 0 0 1 -0.38599,7.36507 l -2.19848,-3.80787 z"
+         d="m 659.61419,735.51543 c 1.96459,1.42735 2.4001,4.17707 0.97274,6.14166 -0.36218,0.49851 -0.8251,0.91532 -1.35873,1.22341 l -2.19848,-3.80787 z"
          transform="matrix(0,1.0714286,-1.0714286,0,1448.8933,35.112193)"
          sodipodi:start="5.3407075"
          sodipodi:end="7.3303829" />
@@ -5729,7 +5729,7 @@ claire.laudy@yahoo.fr</dc:title>
       </g>
     </g>
     <g
-       transform="translate(52.617212,10.403816)"
+       transform="matrix(1.2,0,0,1.2,-100.90493,-149.93165)"
        id="g5303">
       <path
          id="path5305"
@@ -5739,7 +5739,7 @@ claire.laudy@yahoo.fr</dc:title>
       <g
          style="stroke:#ffffff;stroke-width:0.53349447;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
          id="g5307"
-         transform="matrix(0.93721682,0,0,0.93721682,151.81576,108.94761)">
+         transform="matrix(1.1246602,0,0,1.1246602,28.659966,-29.586683)">
         <path
            inkscape:transform-center-y="-2.3554968"
            inkscape:transform-center-x="-2.3555119"
@@ -5750,7 +5750,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:cy="739.07263"
            sodipodi:rx="4.3969483"
            sodipodi:ry="4.3969483"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -6.98141,3.55721 l 2.58446,-3.55721 z"
+           d="m 661.42667,739.07263 c 0,2.42837 -1.96858,4.39695 -4.39695,4.39695 -0.92854,0 -1.83325,-0.29396 -2.58446,-0.83974 l 2.58446,-3.55721 z"
            transform="matrix(0,-1.0714286,1.0714286,0,-134.83381,1443.0331)"
            sodipodi:start="0"
            sodipodi:end="2.1991149" />
@@ -5758,7 +5758,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:end="7.8539816"
            sodipodi:start="5.7595865"
            transform="matrix(-1.0714286,0,0,-1.0714286,1360.9902,1530.9362)"
-           d="m 660.83759,736.87416 a 4.3969483,4.3969483 0 0 1 -3.80787,6.59542 l 0,-4.39695 z"
+           d="m 660.83759,736.87416 c 1.21419,2.10303 0.49364,4.79216 -1.60939,6.00634 -0.66842,0.38591 -1.42665,0.58908 -2.19848,0.58908 l 0,-4.39695 z"
            sodipodi:ry="4.3969483"
            sodipodi:rx="4.3969483"
            sodipodi:cy="739.07263"
@@ -5778,7 +5778,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:cy="739.07263"
            sodipodi:rx="4.3969483"
            sodipodi:ry="4.3969483"
-           d="m 659.61419,735.51543 a 4.3969483,4.3969483 0 0 1 -0.38599,7.36507 l -2.19848,-3.80787 z"
+           d="m 659.61419,735.51543 c 1.96459,1.42735 2.4001,4.17707 0.97274,6.14166 -0.36218,0.49851 -0.8251,0.91532 -1.35873,1.22341 l -2.19848,-3.80787 z"
            transform="matrix(0,1.0714286,-1.0714286,0,1448.8933,35.112193)"
            sodipodi:start="5.3407075"
            sodipodi:end="7.3303829" />
@@ -5838,21 +5838,21 @@ claire.laudy@yahoo.fr</dc:title>
     </g>
     <g
        id="g5271"
-       transform="translate(69.874219,-24.110199)">
+       transform="matrix(1.2,0,0,1.2,-83.647919,-184.44567)">
       <path
          inkscape:connector-curvature="0"
          d="m 774.17319,801.67735 c 0,3.62425 -2.93808,6.5625 -6.5625,6.5625 -3.62425,0 -6.5625,-2.93825 -6.5625,-6.5625 0,-3.62442 2.93825,-6.5625 6.5625,-6.5625 3.62442,0 6.5625,2.93808 6.5625,6.5625 z"
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;display:inline"
          id="path5273" />
       <g
-         transform="matrix(0.93721682,0,0,0.93721682,151.81576,108.94761)"
+         transform="matrix(1.1246602,0,0,1.1246602,28.659966,-29.586683)"
          id="g5275"
          style="stroke:#ffffff;stroke-width:0.53349447;stroke-miterlimit:4;stroke-dasharray:none;display:inline">
         <path
            sodipodi:end="2.1991149"
            sodipodi:start="0"
            transform="matrix(0,-1.0714286,1.0714286,0,-134.83381,1443.0331)"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -6.98141,3.55721 l 2.58446,-3.55721 z"
+           d="m 661.42667,739.07263 c 0,2.42837 -1.96858,4.39695 -4.39695,4.39695 -0.92854,0 -1.83325,-0.29396 -2.58446,-0.83974 l 2.58446,-3.55721 z"
            sodipodi:ry="4.3969483"
            sodipodi:rx="4.3969483"
            sodipodi:cy="739.07263"
@@ -5872,7 +5872,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:cy="739.07263"
            sodipodi:rx="4.3969483"
            sodipodi:ry="4.3969483"
-           d="m 660.83759,736.87416 a 4.3969483,4.3969483 0 0 1 -3.80787,6.59542 l 0,-4.39695 z"
+           d="m 660.83759,736.87416 c 1.21419,2.10303 0.49364,4.79216 -1.60939,6.00634 -0.66842,0.38591 -1.42665,0.58908 -2.19848,0.58908 l 0,-4.39695 z"
            transform="matrix(-1.0714286,0,0,-1.0714286,1360.9902,1530.9362)"
            sodipodi:start="5.7595865"
            sodipodi:end="7.8539816" />
@@ -5880,7 +5880,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:end="7.3303829"
            sodipodi:start="5.3407075"
            transform="matrix(0,1.0714286,-1.0714286,0,1448.8933,35.112193)"
-           d="m 659.61419,735.51543 a 4.3969483,4.3969483 0 0 1 -0.38599,7.36507 l -2.19848,-3.80787 z"
+           d="m 659.61419,735.51543 c 1.96459,1.42735 2.4001,4.17707 0.97274,6.14166 -0.36218,0.49851 -0.8251,0.91532 -1.35873,1.22341 l -2.19848,-3.80787 z"
            sodipodi:ry="4.3969483"
            sodipodi:rx="4.3969483"
            sodipodi:cy="739.07263"
@@ -5920,7 +5920,7 @@ claire.laudy@yahoo.fr</dc:title>
     </g>
     <g
        id="g5246"
-       transform="translate(408.18575,61.665043)">
+       transform="matrix(1.2,0,0,1.2,276.78545,-86.129127)">
       <path
          id="path5248"
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;display:inline"
@@ -5928,13 +5928,13 @@ claire.laudy@yahoo.fr</dc:title>
          inkscape:connector-curvature="0" />
       <g
          id="g5250"
-         transform="matrix(0.93721682,0,0,0.93721682,41.222169,46.29953)"
+         transform="matrix(1.1246602,0,0,1.1246602,-81.934566,-92.234733)"
          style="stroke:#ffffff;stroke-width:0.53349447;stroke-miterlimit:4;stroke-dasharray:none">
         <path
            sodipodi:end="1.5707963"
            sodipodi:start="0.31415927"
            transform="matrix(1.0714286,0,0,1.0714286,-46.930696,-52.790904)"
-           d="m 661.21147,740.43136 a 4.3969483,4.3969483 0 0 1 -4.18175,3.03822 l 0,-4.39695 z"
+           d="m 661.21147,740.43136 c -0.58864,1.81165 -2.27687,3.03822 -4.18175,3.03822 l 0,-4.39695 z"
            sodipodi:ry="4.3969483"
            sodipodi:rx="4.3969483"
            sodipodi:cy="739.07263"
@@ -5952,7 +5952,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:cy="739.07263"
            sodipodi:rx="4.3969483"
            sodipodi:ry="4.3969483"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -3.03821,4.18175 l -1.35874,-4.18175 z"
+           d="m 661.42667,739.07263 c 0,1.90488 -1.22657,3.59311 -3.03821,4.18175 l -1.35874,-4.18175 z"
            transform="matrix(-0.62976992,-0.86680393,0.86680393,-0.62976992,430.17623,1774.0343)"
            sodipodi:start="0"
            sodipodi:end="1.2566371" />
@@ -5960,7 +5960,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:end="1.3613568"
            sodipodi:start="0.10471976"
            transform="matrix(-0.97879872,0.43578927,-0.43578927,-0.97879872,1622.2188,1176.1456)"
-           d="m 661.40259,739.53224 a 4.3969483,4.3969483 0 0 1 -3.45869,3.84126 l -0.91418,-4.30087 z"
+           d="m 661.40259,739.53224 c -0.19912,1.89444 -1.59544,3.44521 -3.45869,3.84126 l -0.91418,-4.30087 z"
            sodipodi:ry="4.3969483"
            sodipodi:rx="4.3969483"
            sodipodi:cy="739.07263"
@@ -5980,7 +5980,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:cy="739.07263"
            sodipodi:rx="4.3969483"
            sodipodi:ry="4.3969483"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -3.03821,4.18175 l -1.35874,-4.18175 z"
+           d="m 661.42667,739.07263 c 0,1.90488 -1.22657,3.59311 -3.03821,4.18175 l -1.35874,-4.18175 z"
            transform="matrix(0,1.0714286,-1.0714286,0,1448.8933,35.112193)"
            sodipodi:start="0"
            sodipodi:end="1.2566371" />
@@ -5988,7 +5988,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:end="1.2566371"
            sodipodi:start="0"
            transform="matrix(0.62976992,-0.86680393,0.86680393,0.62976992,-397.37888,843.14288)"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -3.03821,4.18175 l -1.35874,-4.18175 z"
+           d="m 661.42667,739.07263 c 0,1.90488 -1.22657,3.59311 -3.03821,4.18175 l -1.35874,-4.18175 z"
            sodipodi:ry="4.3969483"
            sodipodi:rx="4.3969483"
            sodipodi:cy="739.07263"
@@ -6203,7 +6203,7 @@ claire.laudy@yahoo.fr</dc:title>
        inkscape:connector-curvature="0" />
     <g
        id="g5099"
-       transform="translate(461.14475,264.21681)">
+       transform="matrix(1.2,0,0,1.2,329.74445,116.42264)">
       <path
          id="path5101"
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;display:inline"
@@ -6212,12 +6212,12 @@ claire.laudy@yahoo.fr</dc:title>
       <g
          style="stroke:#ffffff;stroke-width:0.53349447;stroke-miterlimit:4;stroke-dasharray:none"
          id="g5103"
-         transform="matrix(0.93721682,0,0,0.93721682,41.222169,46.29953)">
+         transform="matrix(1.1246602,0,0,1.1246602,-81.933697,-92.234733)">
         <path
            sodipodi:end="1.5707963"
            sodipodi:start="0"
            transform="matrix(1.0714286,0,0,-1.0714286,-46.930696,1530.9362)"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -4.39695,4.39695 l 0,-4.39695 z"
+           d="m 661.42667,739.07263 c 0,2.42837 -1.96858,4.39695 -4.39695,4.39695 l 0,-4.39695 z"
            sodipodi:ry="4.3969483"
            sodipodi:rx="4.3969483"
            sodipodi:cy="739.07263"
@@ -6235,7 +6235,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:cy="739.07263"
            sodipodi:rx="4.3969483"
            sodipodi:ry="4.3969483"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -4.39695,4.39695 l 0,-4.39695 z"
+           d="m 661.42667,739.07263 c 0,2.42837 -1.96858,4.39695 -4.39695,4.39695 l 0,-4.39695 z"
            transform="matrix(0,1.0714286,1.0714286,0,-134.83381,35.112214)"
            sodipodi:start="0"
            sodipodi:end="1.5707963" />
@@ -6243,7 +6243,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:end="1.5707963"
            sodipodi:start="0"
            transform="matrix(-1.0714286,0,0,-1.0714286,1360.9902,1530.9362)"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -4.39695,4.39695 l 0,-4.39695 z"
+           d="m 661.42667,739.07263 c 0,2.42837 -1.96858,4.39695 -4.39695,4.39695 l 0,-4.39695 z"
            sodipodi:ry="4.3969483"
            sodipodi:rx="4.3969483"
            sodipodi:cy="739.07263"
@@ -6263,7 +6263,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:cy="739.07263"
            sodipodi:rx="4.3969483"
            sodipodi:ry="4.3969483"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -4.39695,4.39695 l 0,-4.39695 z"
+           d="m 661.42667,739.07263 c 0,2.42837 -1.96858,4.39695 -4.39695,4.39695 l 0,-4.39695 z"
            transform="matrix(0,1.0714286,-1.0714286,0,1448.8933,35.112193)"
            sodipodi:start="0"
            sodipodi:end="1.5707963" />
@@ -6298,21 +6298,21 @@ claire.laudy@yahoo.fr</dc:title>
     <g
        style="display:inline"
        id="g5600-8"
-       transform="translate(306.85041,223.51523)">
+       transform="matrix(1.2,0,0,1.2,153.32827,63.17976)">
       <path
          inkscape:connector-curvature="0"
          d="m 774.17319,801.67735 c 0,3.62425 -2.93808,6.5625 -6.5625,6.5625 -3.62425,0 -6.5625,-2.93825 -6.5625,-6.5625 0,-3.62442 2.93825,-6.5625 6.5625,-6.5625 3.62442,0 6.5625,2.93808 6.5625,6.5625 z"
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;display:inline"
          id="path5602-2" />
       <g
-         transform="matrix(0.93721682,0,0,0.93721682,151.81576,108.94761)"
+         transform="matrix(1.1246602,0,0,1.1246602,28.659966,-29.586683)"
          id="g5604-3"
          style="stroke:#ffffff;stroke-width:0.53349447;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline">
         <path
            sodipodi:end="2.1991149"
            sodipodi:start="0"
            transform="matrix(0,-1.0714286,1.0714286,0,-134.83381,1443.0331)"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -6.98141,3.55721 l 2.58446,-3.55721 z"
+           d="m 661.42667,739.07263 c 0,2.42837 -1.96858,4.39695 -4.39695,4.39695 -0.92854,0 -1.83325,-0.29396 -2.58446,-0.83974 l 2.58446,-3.55721 z"
            sodipodi:ry="4.3969483"
            sodipodi:rx="4.3969483"
            sodipodi:cy="739.07263"
@@ -6332,7 +6332,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:cy="739.07263"
            sodipodi:rx="4.3969483"
            sodipodi:ry="4.3969483"
-           d="m 660.83759,736.87416 a 4.3969483,4.3969483 0 0 1 -3.80787,6.59542 l 0,-4.39695 z"
+           d="m 660.83759,736.87416 c 1.21419,2.10303 0.49364,4.79216 -1.60939,6.00634 -0.66842,0.38591 -1.42665,0.58908 -2.19848,0.58908 l 0,-4.39695 z"
            transform="matrix(-1.0714286,0,0,-1.0714286,1360.9902,1530.9362)"
            sodipodi:start="5.7595865"
            sodipodi:end="7.8539816" />
@@ -6340,7 +6340,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:end="7.3303829"
            sodipodi:start="5.3407075"
            transform="matrix(0,1.0714286,-1.0714286,0,1448.8933,35.112193)"
-           d="m 659.61419,735.51543 a 4.3969483,4.3969483 0 0 1 -0.38599,7.36507 l -2.19848,-3.80787 z"
+           d="m 659.61419,735.51543 c 1.96459,1.42735 2.4001,4.17707 0.97274,6.14166 -0.36218,0.49851 -0.8251,0.91532 -1.35873,1.22341 l -2.19848,-3.80787 z"
            sodipodi:ry="4.3969483"
            sodipodi:rx="4.3969483"
            sodipodi:cy="739.07263"
@@ -6353,7 +6353,7 @@ claire.laudy@yahoo.fr</dc:title>
       </g>
     </g>
     <g
-       transform="translate(328.67629,128.79093)"
+       transform="matrix(1.2,0,0,1.2,175.15415,-31.54454)"
        id="g5130"
        style="display:inline">
       <path
@@ -6364,7 +6364,7 @@ claire.laudy@yahoo.fr</dc:title>
       <g
          style="stroke:#ffffff;stroke-width:0.53349447;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          id="g5134"
-         transform="matrix(-0.93721682,0,0,0.93721682,1383.3737,108.94761)">
+         transform="matrix(-1.1246602,0,0,1.1246602,1506.5295,-29.586683)">
         <path
            inkscape:transform-center-y="-2.3554968"
            inkscape:transform-center-x="-2.3555119"
@@ -6375,7 +6375,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:cy="739.07263"
            sodipodi:rx="4.3969483"
            sodipodi:ry="4.3969483"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -6.98141,3.55721 l 2.58446,-3.55721 z"
+           d="m 661.42667,739.07263 c 0,2.42837 -1.96858,4.39695 -4.39695,4.39695 -0.92854,0 -1.83325,-0.29396 -2.58446,-0.83974 l 2.58446,-3.55721 z"
            transform="matrix(0,-1.0714286,1.0714286,0,-134.83381,1443.0331)"
            sodipodi:start="0"
            sodipodi:end="2.1991149" />
@@ -6383,7 +6383,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:end="7.8539816"
            sodipodi:start="5.7595865"
            transform="matrix(-1.0714286,0,0,-1.0714286,1360.9902,1530.9362)"
-           d="m 660.83759,736.87416 a 4.3969483,4.3969483 0 0 1 -3.80787,6.59542 l 0,-4.39695 z"
+           d="m 660.83759,736.87416 c 1.21419,2.10303 0.49364,4.79216 -1.60939,6.00634 -0.66842,0.38591 -1.42665,0.58908 -2.19848,0.58908 l 0,-4.39695 z"
            sodipodi:ry="4.3969483"
            sodipodi:rx="4.3969483"
            sodipodi:cy="739.07263"
@@ -6403,7 +6403,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:cy="739.07263"
            sodipodi:rx="4.3969483"
            sodipodi:ry="4.3969483"
-           d="m 659.61419,735.51543 a 4.3969483,4.3969483 0 0 1 -0.38599,7.36507 l -2.19848,-3.80787 z"
+           d="m 659.61419,735.51543 c 1.96459,1.42735 2.4001,4.17707 0.97274,6.14166 -0.36218,0.49851 -0.8251,0.91532 -1.35873,1.22341 l -2.19848,-3.80787 z"
            transform="matrix(0,1.0714286,-1.0714286,0,1448.8933,35.112193)"
            sodipodi:start="5.3407075"
            sodipodi:end="7.3303829" />
@@ -6436,7 +6436,7 @@ claire.laudy@yahoo.fr</dc:title>
       </g>
     </g>
     <g
-       transform="translate(322.77186,-150.9305)"
+       transform="matrix(1.2,0,0,1.2,169.24972,-311.26597)"
        id="g5033">
       <path
          id="path5035"
@@ -6446,7 +6446,7 @@ claire.laudy@yahoo.fr</dc:title>
       <g
          style="display:inline"
          id="g5037"
-         transform="matrix(0,-0.93721682,-0.93721682,0,1460.2662,1417.398)">
+         transform="matrix(0,-1.1246602,-1.1246602,0,1598.8005,1540.5538)">
         <path
            inkscape:transform-center-y="-2.3554968"
            inkscape:transform-center-x="-2.3555119"
@@ -6457,7 +6457,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:cy="739.07263"
            sodipodi:rx="4.3969483"
            sodipodi:ry="4.3969483"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -6.98141,3.55721 l 2.58446,-3.55721 z"
+           d="m 661.42667,739.07263 c 0,2.42837 -1.96858,4.39695 -4.39695,4.39695 -0.92854,0 -1.83325,-0.29396 -2.58446,-0.83974 l 2.58446,-3.55721 z"
            transform="matrix(0,-1.0714286,1.0714286,0,-134.83381,1443.0331)"
            sodipodi:start="0"
            sodipodi:end="2.1991149" />
@@ -6465,7 +6465,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:end="7.8539816"
            sodipodi:start="5.7595865"
            transform="matrix(-1.0714286,0,0,-1.0714286,1360.9902,1530.9362)"
-           d="m 660.83759,736.87416 a 4.3969483,4.3969483 0 0 1 -3.80787,6.59542 l 0,-4.39695 z"
+           d="m 660.83759,736.87416 c 1.21419,2.10303 0.49364,4.79216 -1.60939,6.00634 -0.66842,0.38591 -1.42665,0.58908 -2.19848,0.58908 l 0,-4.39695 z"
            sodipodi:ry="4.3969483"
            sodipodi:rx="4.3969483"
            sodipodi:cy="739.07263"
@@ -6485,7 +6485,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:cy="739.07263"
            sodipodi:rx="4.3969483"
            sodipodi:ry="4.3969483"
-           d="m 659.61419,735.51543 a 4.3969483,4.3969483 0 0 1 -0.38599,7.36507 l -2.19848,-3.80787 z"
+           d="m 659.61419,735.51543 c 1.96459,1.42735 2.4001,4.17707 0.97274,6.14166 -0.36218,0.49851 -0.8251,0.91532 -1.35873,1.22341 l -2.19848,-3.80787 z"
            transform="matrix(0,1.0714286,-1.0714286,0,1448.8933,35.112193)"
            sodipodi:start="5.3407075"
            sodipodi:end="7.3303829" />
@@ -6493,21 +6493,21 @@ claire.laudy@yahoo.fr</dc:title>
     </g>
     <g
        id="g5021"
-       transform="translate(339.13108,-138.58393)">
+       transform="matrix(1.2,0,0,1.2,185.60894,-298.9194)">
       <path
          inkscape:connector-curvature="0"
          d="m 774.17319,801.67735 c 0,3.62425 -2.93808,6.5625 -6.5625,6.5625 -3.62425,0 -6.5625,-2.93825 -6.5625,-6.5625 0,-3.62442 2.93825,-6.5625 6.5625,-6.5625 3.62442,0 6.5625,2.93808 6.5625,6.5625 z"
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;display:inline"
          id="path5023" />
       <g
-         transform="matrix(0,-0.93721682,-0.93721682,0,1460.2662,1417.398)"
+         transform="matrix(0,-1.1246602,-1.1246602,0,1598.8005,1540.5538)"
          id="g5025"
          style="display:inline">
         <path
            sodipodi:end="2.1991149"
            sodipodi:start="0"
            transform="matrix(0,-1.0714286,1.0714286,0,-134.83381,1443.0331)"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -6.98141,3.55721 l 2.58446,-3.55721 z"
+           d="m 661.42667,739.07263 c 0,2.42837 -1.96858,4.39695 -4.39695,4.39695 -0.92854,0 -1.83325,-0.29396 -2.58446,-0.83974 l 2.58446,-3.55721 z"
            sodipodi:ry="4.3969483"
            sodipodi:rx="4.3969483"
            sodipodi:cy="739.07263"
@@ -6527,7 +6527,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:cy="739.07263"
            sodipodi:rx="4.3969483"
            sodipodi:ry="4.3969483"
-           d="m 660.83759,736.87416 a 4.3969483,4.3969483 0 0 1 -3.80787,6.59542 l 0,-4.39695 z"
+           d="m 660.83759,736.87416 c 1.21419,2.10303 0.49364,4.79216 -1.60939,6.00634 -0.66842,0.38591 -1.42665,0.58908 -2.19848,0.58908 l 0,-4.39695 z"
            transform="matrix(-1.0714286,0,0,-1.0714286,1360.9902,1530.9362)"
            sodipodi:start="5.7595865"
            sodipodi:end="7.8539816" />
@@ -6535,7 +6535,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:end="7.3303829"
            sodipodi:start="5.3407075"
            transform="matrix(0,1.0714286,-1.0714286,0,1448.8933,35.112193)"
-           d="m 659.61419,735.51543 a 4.3969483,4.3969483 0 0 1 -0.38599,7.36507 l -2.19848,-3.80787 z"
+           d="m 659.61419,735.51543 c 1.96459,1.42735 2.4001,4.17707 0.97274,6.14166 -0.36218,0.49851 -0.8251,0.91532 -1.35873,1.22341 l -2.19848,-3.80787 z"
            sodipodi:ry="4.3969483"
            sodipodi:rx="4.3969483"
            sodipodi:cy="739.07263"
@@ -6548,7 +6548,7 @@ claire.laudy@yahoo.fr</dc:title>
       </g>
     </g>
     <g
-       transform="translate(264.74294,-81.017995)"
+       transform="matrix(1.2,0,0,1.2,111.2208,-241.35346)"
        id="g4906">
       <path
          id="path4908"
@@ -6558,7 +6558,7 @@ claire.laudy@yahoo.fr</dc:title>
       <g
          style="display:inline"
          id="g4910"
-         transform="matrix(0,-0.93721682,0.93721682,0,74.923274,1417.398)">
+         transform="matrix(0,-1.1246602,1.1246602,0,-63.611019,1540.5538)">
         <path
            inkscape:transform-center-y="-2.3554968"
            inkscape:transform-center-x="-2.3555119"
@@ -6569,7 +6569,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:cy="739.07263"
            sodipodi:rx="4.3969483"
            sodipodi:ry="4.3969483"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -6.98141,3.55721 l 2.58446,-3.55721 z"
+           d="m 661.42667,739.07263 c 0,2.42837 -1.96858,4.39695 -4.39695,4.39695 -0.92854,0 -1.83325,-0.29396 -2.58446,-0.83974 l 2.58446,-3.55721 z"
            transform="matrix(0,-1.0714286,1.0714286,0,-134.83381,1443.0331)"
            sodipodi:start="0"
            sodipodi:end="2.1991149" />
@@ -6577,7 +6577,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:end="7.8539816"
            sodipodi:start="5.7595865"
            transform="matrix(-1.0714286,0,0,-1.0714286,1360.9902,1530.9362)"
-           d="m 660.83759,736.87416 a 4.3969483,4.3969483 0 0 1 -3.80787,6.59542 l 0,-4.39695 z"
+           d="m 660.83759,736.87416 c 1.21419,2.10303 0.49364,4.79216 -1.60939,6.00634 -0.66842,0.38591 -1.42665,0.58908 -2.19848,0.58908 l 0,-4.39695 z"
            sodipodi:ry="4.3969483"
            sodipodi:rx="4.3969483"
            sodipodi:cy="739.07263"
@@ -6597,7 +6597,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:cy="739.07263"
            sodipodi:rx="4.3969483"
            sodipodi:ry="4.3969483"
-           d="m 659.61419,735.51543 a 4.3969483,4.3969483 0 0 1 -0.38599,7.36507 l -2.19848,-3.80787 z"
+           d="m 659.61419,735.51543 c 1.96459,1.42735 2.4001,4.17707 0.97274,6.14166 -0.36218,0.49851 -0.8251,0.91532 -1.35873,1.22341 l -2.19848,-3.80787 z"
            transform="matrix(0,1.0714286,-1.0714286,0,1448.8933,35.112193)"
            sodipodi:start="5.3407075"
            sodipodi:end="7.3303829" />
@@ -6669,7 +6669,7 @@ claire.laudy@yahoo.fr</dc:title>
          inkscape:connector-curvature="0" />
       <g
          id="g5093"
-         transform="matrix(0,-1,-1,0,1701.4321,1701.4321)">
+         transform="matrix(0,-1.2,-1.2,0,1838.2239,1904.9267)">
         <path
            sodipodi:type="arc"
            style="color:#000000;fill:#17964c;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.49792817;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -6678,7 +6678,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:cy="739.07263"
            sodipodi:rx="4.3969483"
            sodipodi:ry="4.3969483"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -4.39695,4.39695 l 0,-4.39695 z"
+           d="m 661.42667,739.07263 c 0,2.42837 -1.96858,4.39695 -4.39695,4.39695 l 0,-4.39695 z"
            transform="matrix(1.0041609,0,0,-1.0041609,357.70958,1426.1069)"
            sodipodi:start="0"
            sodipodi:end="1.5707963" />
@@ -6686,7 +6686,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:end="1.5707963"
            sodipodi:start="0"
            transform="matrix(0,1.0041609,1.0041609,0,275.32531,24.195435)"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -4.39695,4.39695 l 0,-4.39695 z"
+           d="m 661.42667,739.07263 c 0,2.42837 -1.96858,4.39695 -4.39695,4.39695 l 0,-4.39695 z"
            sodipodi:ry="4.3969483"
            sodipodi:rx="4.3969483"
            sodipodi:cy="739.07263"
@@ -6706,7 +6706,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:cy="739.07263"
            sodipodi:rx="4.3969483"
            sodipodi:ry="4.3969483"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -4.39695,4.39695 l 0,-4.39695 z"
+           d="m 661.42667,739.07263 c 0,2.42837 -1.96858,4.39695 -4.39695,4.39695 l 0,-4.39695 z"
            transform="matrix(-1.0041609,0,0,-1.0041609,1677.2367,1426.1068)"
            sodipodi:start="0"
            sodipodi:end="1.5707963" />
@@ -6714,7 +6714,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:end="1.5707963"
            sodipodi:start="0"
            transform="matrix(0,1.0041609,-1.0041609,0,1759.621,24.195416)"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -4.39695,4.39695 l 0,-4.39695 z"
+           d="m 661.42667,739.07263 c 0,2.42837 -1.96858,4.39695 -4.39695,4.39695 l 0,-4.39695 z"
            sodipodi:ry="4.3969483"
            sodipodi:rx="4.3969483"
            sodipodi:cy="739.07263"
@@ -9181,14 +9181,15 @@ claire.laudy@yahoo.fr</dc:title>
        d="m 86.5,560.5 a 4.75,4.5 0 1 1 -9.5,0 4.75,4.5 0 1 1 9.5,0 z"
        transform="matrix(0.9647204,0,0,1.018316,1712.2356,790.62667)" />
     <g
-       id="g5238">
+       id="g5238"
+       transform="matrix(1.2,0,0,1.2,-131.4003,-147.79417)">
       <path
          inkscape:connector-curvature="0"
          d="m 663.564,738.97085 c 0,3.62425 -2.93808,6.5625 -6.5625,6.5625 -3.62425,0 -6.5625,-2.93825 -6.5625,-6.5625 0,-3.62442 2.93825,-6.5625 6.5625,-6.5625 3.62442,0 6.5625,2.93808 6.5625,6.5625 z"
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;display:inline"
          id="path4700" />
       <g
-         transform="matrix(0.93721682,0,0,0.93721682,41.222169,46.29953)"
+         transform="matrix(1.1246602,0,0,1.1246602,-81.933697,-92.234733)"
          id="g4716"
          style="stroke:#ffffff;stroke-width:0.53349447;stroke-miterlimit:4;stroke-dasharray:none">
         <path
@@ -9199,7 +9200,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:cy="739.07263"
            sodipodi:rx="4.3969483"
            sodipodi:ry="4.3969483"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -4.39695,4.39695 l 0,-4.39695 z"
+           d="m 661.42667,739.07263 c 0,2.42837 -1.96858,4.39695 -4.39695,4.39695 l 0,-4.39695 z"
            transform="matrix(1.0714286,0,0,1.0714286,-46.930696,-52.790904)"
            sodipodi:start="0"
            sodipodi:end="1.5707963" />
@@ -9207,7 +9208,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:end="1.5707963"
            sodipodi:start="0"
            transform="matrix(0,-1.0714286,1.0714286,0,-134.83381,1443.0331)"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -4.39695,4.39695 l 0,-4.39695 z"
+           d="m 661.42667,739.07263 c 0,2.42837 -1.96858,4.39695 -4.39695,4.39695 l 0,-4.39695 z"
            sodipodi:ry="4.3969483"
            sodipodi:rx="4.3969483"
            sodipodi:cy="739.07263"
@@ -9227,7 +9228,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:cy="739.07263"
            sodipodi:rx="4.3969483"
            sodipodi:ry="4.3969483"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -4.39695,4.39695 l 0,-4.39695 z"
+           d="m 661.42667,739.07263 c 0,2.42837 -1.96858,4.39695 -4.39695,4.39695 l 0,-4.39695 z"
            transform="matrix(-1.0714286,0,0,-1.0714286,1360.9902,1530.9362)"
            sodipodi:start="0"
            sodipodi:end="1.5707963" />
@@ -9235,7 +9236,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:end="1.5707963"
            sodipodi:start="0"
            transform="matrix(0,1.0714286,-1.0714286,0,1448.8933,35.112193)"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -4.39695,4.39695 l 0,-4.39695 z"
+           d="m 661.42667,739.07263 c 0,2.42837 -1.96858,4.39695 -4.39695,4.39695 l 0,-4.39695 z"
            sodipodi:ry="4.3969483"
            sodipodi:rx="4.3969483"
            sodipodi:cy="739.07263"
@@ -9326,13 +9327,13 @@ claire.laudy@yahoo.fr</dc:title>
          xlink:href="#path3719" />
       <g
          id="g4872"
-         transform="matrix(0.87443366,0,0,0.87443366,265.47262,84.125987)"
+         transform="matrix(1.0493204,0,0,1.0493204,150.56684,-45.128013)"
          style="stroke:#ffffff;stroke-width:0.57179868;stroke-miterlimit:4;stroke-dasharray:none">
         <path
            sodipodi:end="1.5707963"
            sodipodi:start="0"
            transform="matrix(1.0714286,0,0,1.0714286,-46.930696,-52.790904)"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -4.39695,4.39695 l 0,-4.39695 z"
+           d="m 661.42667,739.07263 c 0,2.42837 -1.96858,4.39695 -4.39695,4.39695 l 0,-4.39695 z"
            sodipodi:ry="4.3969483"
            sodipodi:rx="4.3969483"
            sodipodi:cy="739.07263"
@@ -9350,7 +9351,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:cy="739.07263"
            sodipodi:rx="4.3969483"
            sodipodi:ry="4.3969483"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -4.39695,4.39695 l 0,-4.39695 z"
+           d="m 661.42667,739.07263 c 0,2.42837 -1.96858,4.39695 -4.39695,4.39695 l 0,-4.39695 z"
            transform="matrix(0,-1.0714286,1.0714286,0,-134.83381,1443.0331)"
            sodipodi:start="0"
            sodipodi:end="1.5707963" />
@@ -9358,7 +9359,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:end="1.5707963"
            sodipodi:start="0"
            transform="matrix(-1.0714286,0,0,-1.0714286,1360.9902,1530.9362)"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -4.39695,4.39695 l 0,-4.39695 z"
+           d="m 661.42667,739.07263 c 0,2.42837 -1.96858,4.39695 -4.39695,4.39695 l 0,-4.39695 z"
            sodipodi:ry="4.3969483"
            sodipodi:rx="4.3969483"
            sodipodi:cy="739.07263"
@@ -9378,7 +9379,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:cy="739.07263"
            sodipodi:rx="4.3969483"
            sodipodi:ry="4.3969483"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -4.39695,4.39695 l 0,-4.39695 z"
+           d="m 661.42667,739.07263 c 0,2.42837 -1.96858,4.39695 -4.39695,4.39695 l 0,-4.39695 z"
            transform="matrix(0,1.0714286,-1.0714286,0,1448.8933,35.112193)"
            sodipodi:start="0"
            sodipodi:end="1.5707963" />
@@ -9403,21 +9404,21 @@ claire.laudy@yahoo.fr</dc:title>
     </g>
     <g
        id="g5372"
-       transform="translate(4.7577777,42.84699)">
+       transform="matrix(1.2,0,0,1.2,-148.76436,-117.48848)">
       <path
          inkscape:connector-curvature="0"
          d="m 774.17319,801.67735 c 0,3.62425 -2.93808,6.5625 -6.5625,6.5625 -3.62425,0 -6.5625,-2.93825 -6.5625,-6.5625 0,-3.62442 2.93825,-6.5625 6.5625,-6.5625 3.62442,0 6.5625,2.93808 6.5625,6.5625 z"
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;display:inline"
          id="path5374" />
       <g
-         transform="matrix(0.93721682,0,0,0.93721682,151.81576,108.94761)"
+         transform="matrix(1.1246602,0,0,1.1246602,28.659966,-29.586683)"
          id="g5376"
          style="stroke:#ffffff;stroke-width:0.53349447;stroke-miterlimit:4;stroke-dasharray:none;display:inline">
         <path
            sodipodi:end="2.1991149"
            sodipodi:start="0"
            transform="matrix(0,-1.0714286,1.0714286,0,-134.83381,1443.0331)"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -6.98141,3.55721 l 2.58446,-3.55721 z"
+           d="m 661.42667,739.07263 c 0,2.42837 -1.96858,4.39695 -4.39695,4.39695 -0.92854,0 -1.83325,-0.29396 -2.58446,-0.83974 l 2.58446,-3.55721 z"
            sodipodi:ry="4.3969483"
            sodipodi:rx="4.3969483"
            sodipodi:cy="739.07263"
@@ -9437,7 +9438,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:cy="739.07263"
            sodipodi:rx="4.3969483"
            sodipodi:ry="4.3969483"
-           d="m 660.83759,736.87416 a 4.3969483,4.3969483 0 0 1 -3.80787,6.59542 l 0,-4.39695 z"
+           d="m 660.83759,736.87416 c 1.21419,2.10303 0.49364,4.79216 -1.60939,6.00634 -0.66842,0.38591 -1.42665,0.58908 -2.19848,0.58908 l 0,-4.39695 z"
            transform="matrix(-1.0714286,0,0,-1.0714286,1360.9902,1530.9362)"
            sodipodi:start="5.7595865"
            sodipodi:end="7.8539816" />
@@ -9445,7 +9446,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:end="7.3303829"
            sodipodi:start="5.3407075"
            transform="matrix(0,1.0714286,-1.0714286,0,1448.8933,35.112193)"
-           d="m 659.61419,735.51543 a 4.3969483,4.3969483 0 0 1 -0.38599,7.36507 l -2.19848,-3.80787 z"
+           d="m 659.61419,735.51543 c 1.96459,1.42735 2.4001,4.17707 0.97274,6.14166 -0.36218,0.49851 -0.8251,0.91532 -1.35873,1.22341 l -2.19848,-3.80787 z"
            sodipodi:ry="4.3969483"
            sodipodi:rx="4.3969483"
            sodipodi:cy="739.07263"
@@ -9495,7 +9496,7 @@ claire.laudy@yahoo.fr</dc:title>
     </g>
     <g
        style="display:inline"
-       transform="translate(112.2666,299.67113)"
+       transform="matrix(1.2,0,0,1.2,-41.255538,139.33566)"
        id="g5303-1">
       <path
          id="path5305-8"
@@ -9505,7 +9506,7 @@ claire.laudy@yahoo.fr</dc:title>
       <g
          style="stroke:#ffffff;stroke-width:0.53349447;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
          id="g5307-9"
-         transform="matrix(0.93721682,0,0,0.93721682,151.81576,108.94761)">
+         transform="matrix(1.1246602,0,0,1.1246602,28.659966,-29.586683)">
         <path
            inkscape:transform-center-y="-2.3554968"
            inkscape:transform-center-x="-2.3555119"
@@ -9516,7 +9517,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:cy="739.07263"
            sodipodi:rx="4.3969483"
            sodipodi:ry="4.3969483"
-           d="m 661.42667,739.07263 a 4.3969483,4.3969483 0 0 1 -6.98141,3.55721 l 2.58446,-3.55721 z"
+           d="m 661.42667,739.07263 c 0,2.42837 -1.96858,4.39695 -4.39695,4.39695 -0.92854,0 -1.83325,-0.29396 -2.58446,-0.83974 l 2.58446,-3.55721 z"
            transform="matrix(0,-1.0714286,1.0714286,0,-134.83381,1443.0331)"
            sodipodi:start="0"
            sodipodi:end="2.1991149" />
@@ -9524,7 +9525,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:end="7.8539816"
            sodipodi:start="5.7595865"
            transform="matrix(-1.0714286,0,0,-1.0714286,1360.9902,1530.9362)"
-           d="m 660.83759,736.87416 a 4.3969483,4.3969483 0 0 1 -3.80787,6.59542 l 0,-4.39695 z"
+           d="m 660.83759,736.87416 c 1.21419,2.10303 0.49364,4.79216 -1.60939,6.00634 -0.66842,0.38591 -1.42665,0.58908 -2.19848,0.58908 l 0,-4.39695 z"
            sodipodi:ry="4.3969483"
            sodipodi:rx="4.3969483"
            sodipodi:cy="739.07263"
@@ -9544,7 +9545,7 @@ claire.laudy@yahoo.fr</dc:title>
            sodipodi:cy="739.07263"
            sodipodi:rx="4.3969483"
            sodipodi:ry="4.3969483"
-           d="m 659.61419,735.51543 a 4.3969483,4.3969483 0 0 1 -0.38599,7.36507 l -2.19848,-3.80787 z"
+           d="m 659.61419,735.51543 c 1.96459,1.42735 2.4001,4.17707 0.97274,6.14166 -0.36218,0.49851 -0.8251,0.91532 -1.35873,1.22341 l -2.19848,-3.80787 z"
            transform="matrix(0,1.0714286,-1.0714286,0,1448.8933,35.112193)"
            sodipodi:start="5.3407075"
            sodipodi:end="7.3303829" />
@@ -13648,20 +13649,20 @@ claire.laudy@yahoo.fr</dc:title>
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       x="684.53662"
-       y="710.98682"
+       x="685.1441"
+       y="708.1181"
        id="text4355-2"
        sodipodi:linespacing="103%"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan4357-6"
          sodipodi:role="line"
-         x="684.53662"
-         y="710.98682"
+         x="685.1441"
+         y="708.1181"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Charles de </tspan><tspan
          id="tspan4359-8"
          sodipodi:role="line"
-         x="684.53662"
-         y="718.19385"
+         x="685.1441"
+         y="715.32513"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Gaulle Étoile</tspan></text>
     <g
        id="g6448">
@@ -13796,15 +13797,15 @@ claire.laudy@yahoo.fr</dc:title>
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       x="1069.465"
-       y="707.21625"
+       x="1071.1356"
+       y="708.07684"
        id="text4263-6"
        sodipodi:linespacing="103%"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan4265-4"
          sodipodi:role="line"
-         x="1069.465"
-         y="707.21625"
+         x="1071.1356"
+         y="708.07684"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Gare de l'Est</tspan></text>
     <text
        xml:space="preserve"
@@ -13901,14 +13902,14 @@ claire.laudy@yahoo.fr</dc:title>
     <text
        sodipodi:linespacing="103%"
        id="text4399-4"
-       y="622.75262"
-       x="1108.2653"
+       y="621.6051"
+       x="1107.0503"
        style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-         y="622.75262"
-         x="1108.2653"
+         y="621.6051"
+         x="1107.0503"
          sodipodi:role="line"
          id="tspan4401-3">Stalingrad</tspan></text>
     <text
@@ -13997,7 +13998,7 @@ claire.laudy@yahoo.fr</dc:title>
     <g
        style="display:inline"
        id="g4960-9"
-       transform="matrix(0.59800412,0,0,0.63318083,392.5878,309.03576)">
+       transform="matrix(0.50950761,0,0,0.53947864,478.18677,388.12489)">
       <rect
          y="837.69482"
          x="976.32092"
@@ -14082,13 +14083,13 @@ claire.laudy@yahoo.fr</dc:title>
        sodipodi:linespacing="103%"
        id="text4491-3"
        y="758.1604"
-       x="818.99023"
+       x="817.88983"
        style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
          y="758.1604"
-         x="818.99023"
+         x="817.88983"
          sodipodi:role="line"
          id="tspan4493-5">Madeleine</tspan></text>
     <text
@@ -14286,25 +14287,25 @@ claire.laudy@yahoo.fr</dc:title>
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       x="693.7301"
-       y="915.15479"
+       x="694.33759"
+       y="912.8598"
        id="text4421-2"
        sodipodi:linespacing="103%"
        transform="scale(0.97182532,1.0289915)"><tspan
          sodipodi:role="line"
-         x="694.70044"
-         y="915.15479"
+         x="695.30792"
+         y="912.8598"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:middle;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
          id="tspan4427-3">La Motte </tspan><tspan
          id="tspan6512"
          sodipodi:role="line"
-         x="694.70044"
-         y="922.36182"
+         x="695.30792"
+         y="920.06683"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:middle;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Picquet </tspan><tspan
          id="tspan6510"
          sodipodi:role="line"
-         x="693.7301"
-         y="929.56891"
+         x="694.33759"
+         y="927.27393"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:middle;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Grenelle</tspan></text>
     <text
        sodipodi:linespacing="103%"
@@ -14340,15 +14341,15 @@ claire.laudy@yahoo.fr</dc:title>
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       x="1155.3171"
-       y="968.33801"
+       x="1156.5321"
+       y="966.61676"
        id="text4211-2"
        sodipodi:linespacing="103%"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan4213-9"
          sodipodi:role="line"
-         x="1155.3171"
-         y="968.33801"
+         x="1156.5321"
+         y="966.61676"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Gare de Lyon</tspan></text>
     <text
        sodipodi:linespacing="103%"
@@ -14440,19 +14441,19 @@ claire.laudy@yahoo.fr</dc:title>
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       x="917.45654"
-       y="1063.2048"
+       x="914.70563"
+       y="1060.0872"
        id="text4191-4"
        sodipodi:linespacing="103%"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan4193-8"
          sodipodi:role="line"
-         x="917.45654"
-         y="1063.2048"
+         x="914.70563"
+         y="1060.0872"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Denfert</tspan><tspan
          sodipodi:role="line"
-         x="917.45654"
-         y="1070.4119"
+         x="914.70563"
+         y="1067.2942"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
          id="tspan4197-6">Rochereau</tspan></text>
     <text
@@ -14471,19 +14472,19 @@ claire.laudy@yahoo.fr</dc:title>
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       x="1113.3638"
-       y="995.11328"
+       x="1115.1863"
+       y="993.96576"
        id="text4205-3"
        sodipodi:linespacing="103%"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan4207-0"
          sodipodi:role="line"
-         x="1113.3638"
-         y="995.11328"
+         x="1115.1863"
+         y="993.96576"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Gare</tspan><tspan
          sodipodi:role="line"
-         x="1113.3638"
-         y="1002.3203"
+         x="1115.1863"
+         y="1001.1728"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
          id="tspan4209-0">d'Austerlitz</tspan></text>
     <text
@@ -14515,15 +14516,15 @@ claire.laudy@yahoo.fr</dc:title>
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       x="1135.4479"
-       y="901.49976"
+       x="1137.6486"
+       y="899.94092"
        id="text4251-2"
        sodipodi:linespacing="103%"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan4253-0"
          sodipodi:role="line"
-         x="1135.4479"
-         y="901.49976"
+         x="1137.6486"
+         y="899.94092"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Bastille</tspan></text>
     <text
        sodipodi:linespacing="103%"
@@ -14554,14 +14555,14 @@ claire.laudy@yahoo.fr</dc:title>
     <text
        sodipodi:linespacing="103%"
        id="text4259-1"
-       y="777.97858"
-       x="1104.5854"
+       y="776.83105"
+       x="1105.8004"
        style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-         y="777.97858"
-         x="1104.5854"
+         y="776.83105"
+         x="1105.8004"
          sodipodi:role="line"
          id="tspan4261-9">République</tspan></text>
     <text
@@ -14598,15 +14599,15 @@ claire.laudy@yahoo.fr</dc:title>
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       x="1142.7441"
-       y="638.17206"
+       x="1144.5667"
+       y="636.45081"
        id="text4403-6"
        sodipodi:linespacing="103%"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan4405-3"
          sodipodi:role="line"
-         x="1142.7441"
-         y="638.17206"
+         x="1144.5667"
+         y="636.45081"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Jaurès</tspan></text>
     <text
        sodipodi:linespacing="103%"
@@ -14947,15 +14948,15 @@ claire.laudy@yahoo.fr</dc:title>
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       x="1257.3104"
-       y="940.7843"
+       x="1262.1704"
+       y="937.91559"
        id="text4235-4"
        sodipodi:linespacing="103%"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan4237-8"
          sodipodi:role="line"
-         x="1257.3104"
-         y="940.7843"
+         x="1262.1704"
+         y="937.91559"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Nation</tspan></text>
     <text
        sodipodi:linespacing="103%"
@@ -15016,15 +15017,15 @@ claire.laudy@yahoo.fr</dc:title>
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       x="918.15497"
-       y="792.61066"
+       x="917.6048"
+       y="789.49292"
        id="text4319-2"
        sodipodi:linespacing="103%"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan4321-6"
          sodipodi:role="line"
-         x="918.15497"
-         y="792.61066"
+         x="917.6048"
+         y="789.49292"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Pyramides</tspan></text>
     <text
        sodipodi:linespacing="103%"
