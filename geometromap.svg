@@ -82,12 +82,12 @@ claire.laudy@yahoo.fr</dc:title>
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="1.8702647"
-     inkscape:cx="942.18559"
-     inkscape:cy="770.63331"
+     inkscape:zoom="1.8462169"
+     inkscape:cx="764.70242"
+     inkscape:cy="801.02508"
      inkscape:window-x="485"
      inkscape:window-y="0"
-     inkscape:current-layer="layer31"
+     inkscape:current-layer="layer26"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="0"
@@ -7292,8 +7292,8 @@ claire.laudy@yahoo.fr</dc:title>
        id="use2645" />
     <path
        id="path2647"
-       style="fill:#e8ce0f;fill-opacity:1;stroke:none;display:inline"
-       d="m 1349.0372,1718.6728 c 0,2.2437 -1.8187,4.0625 -4.0625,4.0625 -2.2436,0 -4.0625,-1.8188 -4.0625,-4.0625 0,-2.2436 1.8189,-4.0625 4.0625,-4.0625 2.2438,0 4.0625,1.8189 4.0625,4.0625 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:#e8ce0f;stroke-width:3.20000005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 1348.2247,1718.6728 c 0,1.795 -1.455,3.25 -3.25,3.25 -1.7949,0 -3.25,-1.455 -3.25,-3.25 0,-1.7949 1.4551,-3.25 3.25,-3.25 1.795,0 3.25,1.4551 3.25,3.25 z"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
