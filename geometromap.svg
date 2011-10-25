@@ -73,7 +73,7 @@ claire.laudy@yahoo.fr</dc:title>
      inkscape:window-height="1175"
      inkscape:window-width="1199"
      inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      guidetolerance="10.0"
      gridtolerance="10.0"
      objecttolerance="10.0"
@@ -82,12 +82,12 @@ claire.laudy@yahoo.fr</dc:title>
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="1.1171053"
-     inkscape:cx="432.01839"
-     inkscape:cy="563.16919"
+     inkscape:zoom="0.42345615"
+     inkscape:cx="963.5"
+     inkscape:cy="885"
      inkscape:window-x="713"
      inkscape:window-y="0"
-     inkscape:current-layer="g6316"
+     inkscape:current-layer="layer31"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="0"
@@ -4440,11 +4440,56 @@ claire.laudy@yahoo.fr</dc:title>
      inkscape:label="Zones"
      style="display:inline">
     <path
-       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+       id="path8278"
+       style="fill:#e6e6e6;stroke:none;display:inline"
+       d="m 742.24678,354.80504 67.62879,-30.05724 45.92078,-67.62879 39.24139,-29.22231 44.25094,-16.69846 40.0763,-6.67939 38.40652,-147.78142 93.5114,-33.39693 70.1335,39.241393 -13.3588,111.044797 -32.562,82.6574 -45.0858,30.05723 28.3873,73.47325 59.2796,-18.36831 76.813,-60.94939 75.1431,-16.69847 188.6926,10.854 143.6068,91.00664 18.3684,84.32725 2.5047,60.11448 -7.7233,77.71182 -35.6927,374.81658 -16.6985,91.00663 0,166.1498 14.1937,85.9971 45.0859,64.2891 20.0381,14.1937 25.0477,121.8987 74.3082,84.3273 5.8445,121.8988 -20.0382,14.1937 -153.6259,-0.8349 -36.7366,-14.1937 -54.27,-112.7147 -22.543,-94.3463 -9.1841,-79.3177 -19.2032,-35.9017 -42.5811,-26.7175 -59.2796,-11.6889 -90.1717,7.5142 -47.5906,15.8635 -16.6985,55.105 -35.9017,138.5973 -75.978,50.0954 -109.3749,-1.6699 -25.04773,-4.1746 -50.93032,-38.4065 -30.05724,-139.4322 -21.708,-35.0667 -42.58109,-14.1938 -53.43509,17.5335 -96.01617,18.3683 -102.69557,-4.1746 -102.69556,-25.8827 -89.33679,-37.5715 -104.36541,-70.9685 -85.80889,-5.3027 -80.21292,-30.7685 -49.27703,-68.0682 -15.217935,-77.922 7.522453,-119.39808 35.728282,-115.47491 40.98139,-117.9971 69.16238,-131.07567 47.17106,-113.09822 87.56092,-124.28161 39.24139,-170.32435 47.59063,-33.39693 65.12402,-16.69846 79.31771,-9.18416 32.562,12.52385 27.55247,54.27001 22.54293,70.13356 36.73662,51.76524 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <path
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
        id="path8384"
-       d="m 1346.9694,1103.3822 5.8726,3.0908 13.2905,1.2364 12.3633,-3.3999 33.69,-17.6178 -7.4179,-34.3081 -5.5635,-16.9996 -0.3091,-18.5449 12.3633,-8.3453 3.0908,0.6182 11.127,22.2539 20.7086,0.3091 32.7626,8.0362 27.5085,-4.0181 2.4727,-28.7447 13.9087,0.6182 3.3998,-12.9815 31.5266,0 3.0909,9.5816 57.1802,9.8906 38.0171,10.8179 12.3635,8.0362 15.7632,21.3267 13.5996,23.7993 -3.0908,26.8902 -10.1998,3.3999 -10.8178,12.9815 -5.5636,13.2905 -1.2363,27.8175 4.3271,-1.5454 6.1817,1.8545 -2.1636,9.8906 -20.3995,66.4528 -20.3994,16.9995 -32.4536,1.2364 -20.0905,-8.3453 -47.5988,1.8545 -13.5996,-6.4907 -16.3814,0.6182 0,-6.4908 -5.5636,-5.5635 -10.5088,2.4727 -1.8544,-2.7817 0,-4.6363 -33.9991,-35.2354 -53.1622,0.6182 -15.4542,-8.0362 -29.6719,0.3091 -14.836,-5.2544 -12.9814,-7.7271 -14.5269,-19.7813 -8.9634,-8.3452 -12.3633,-0.3091 -21.6358,13.2906 -25.6539,4.3271 -22.8721,19.1632 -18.854,9.2724 -28.7447,15.7633 -20.7086,15.4541 -86.8522,43.2716 -12.9815,3.0908 -16.3814,0.6182 -24.1084,-3.3999 -13.59965,-21.0177 -4.01808,-1.5454 -14.83596,14.5269 -15.45413,8.9634 -15.14505,-1.8545 0,8.3452 -4.01808,-0.6181 -4.94532,-4.9454 -9.27248,-3.0908 -54.70764,-1.8545 -0.92725,-15.145 -72.63442,-25.3448 -85.925,-28.4356 -74.798,-25.6539 -25.03571,-12.3633 -27.19926,-21.0176 -34.61726,-18.8541 -7.1089,14.5269 -29.67195,29.672 -29.98102,-0.3091 0,-37.7081 14.83598,-10.8179 -14.2178,-12.6724 -31.21736,7.1089 -41.41709,-7.1089 -5.2544,-12.6724 -17.61771,-23.4903 -0.30907,-30.9082 -2.1636,-8.9634 7.72708,-15.4542 0,-7.72703 -17.92681,-0.61817 -43.58064,-16.99953 -15.14505,-22.87213 -89.63398,-29.36286 2.47265,-21.63578 -2.47265,-17.30863 14.2178,-51.92589 13.59964,-29.98102 21.01762,-29.36285 1.23633,-2.78175 4.32715,3.3999 43.88974,-19.16313 26.58111,-40.79891 3.39992,0 53.78037,23.1812 21.32671,-60.27112 112.19703,22.56304 14.52688,-3.39991 6.18165,-33.9991 4.32716,-12.98146 15.76322,-18.85405 45.43514,-34.92634 18.85406,-1.8545 73.87075,-59.34387 67.07094,-30.59918 11.12698,-7.10891 7.418,-5.5635 78.81607,-2.16357 67.38003,-1.23633 34.61726,-2.78175 82.52505,-3.09082 53.1622,-0.61818 62.1257,-0.30907 26.272,8.65432 7.1089,0.92725 7.7271,4.01808 20.0903,18.85403 14.2178,34.92634 4.9454,24.41753 1.2363,22.56303 2.1636,11.12698 0.6181,27.81746 10.8179,19.16312 6.4908,7.72706 16.9995,8.03615 25.6539,8.65433 19.1631,38.63533 6.1817,22.87211 2.4726,69.8527 0.9273,45.74423 6.1816,29.98102 0.6182,23.49028 7.7271,51.92589 -0.9273,24.41753 -11.436,64.28923 -8.9634,39.8716 -9.8907,9.5816 z"
-       style="fill:#f2f2f2;stroke:#b3b3b3;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 1346.9694,1103.3822 -44.1988,41.108 -12.3633,-0.3091 -21.6358,13.2906 -25.6539,4.3271 -22.8721,19.1632 -18.854,9.2724 -28.7447,15.7633 -20.7086,15.4541 -86.8522,43.2716 -12.9815,3.0908 -16.3814,0.6182 -24.1084,-3.3999 -13.59965,-21.0177 -4.01808,-1.5454 -14.83596,14.5269 -15.45413,8.9634 -15.14505,-1.8545 0,8.3452 -4.01808,-0.6181 -4.94532,-4.9454 -9.27248,-3.0908 -54.70764,-1.8545 -0.92725,-15.145 -72.63442,-25.3448 -85.925,-28.4356 -74.798,-25.6539 -25.03571,-12.3633 -27.19926,-21.0176 -34.61726,-18.8541 -7.1089,14.5269 -29.67195,29.672 -29.98102,-0.3091 0,-37.7081 14.83598,-10.8179 -14.2178,-12.6724 -31.21736,7.1089 -41.41709,-7.1089 -5.2544,-12.6724 -17.61771,-23.4903 -0.30907,-30.9082 -2.1636,-8.9634 7.72708,-15.4542 0,-7.72703 -17.92681,-0.61817 -43.58064,-16.99953 -15.14505,-22.87213 -89.63398,-29.36286 2.47265,-21.63578 -2.47265,-17.30863 14.2178,-51.92589 13.59964,-29.98102 21.01762,-29.36285 1.23633,-2.78175 4.32715,3.3999 43.88974,-19.16313 26.58111,-40.79891 3.39992,0 53.78037,23.1812 21.32671,-60.27112 112.19703,22.56304 14.52688,-3.39991 6.18165,-33.9991 4.32716,-12.98146 15.76322,-18.85405 45.43514,-34.92634 18.85406,-1.8545 73.87075,-59.34387 67.07094,-30.59918 11.12698,-7.10891 7.418,-5.5635 78.81607,-2.16357 67.38003,-1.23633 34.61726,-2.78175 82.52505,-3.09082 53.1622,-0.61818 62.1257,-0.30907 26.272,8.65432 7.1089,0.92725 7.7271,4.01808 20.0903,18.85403 14.2178,34.92634 4.9454,24.41753 1.2363,22.56303 2.1636,11.12698 0.6181,27.81746 10.8179,19.16312 6.4908,7.72706 16.9995,8.03615 25.6539,8.65433 19.1631,38.63533 6.1817,22.87211 2.4726,69.8527 0.9273,45.74423 6.1816,29.98102 0.6182,23.49028 7.7271,51.92589 -0.9273,24.41753 -11.436,64.28923 -8.9634,39.8716 z"
+       style="fill:none;stroke:#e6e6e6;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 9;stroke-dashoffset:0;display:inline"
        inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 441.10408,222.98988 67.25824,-42.9428 78.34465,-8.45203 24.02137,41.6371 30.57111,80.8447 68.23852,72.63593 37.88735,92.32795 33.19369,35.3378 36.67193,7.16445 13.94626,-22.19986 -2.30904,-30.61522 -15.20881,-45.92002 -0.7809,-16.9586 48.94462,-30.16496 20.75534,-37.12628 110.10601,-93.62284 25.34318,-75.38094 20.6807,-84.112895 69.7708,-25.83813 52.8675,30.839058 -15.1562,99.520487 -31.7628,78.24686 -95.8246,54.24453 -60.89193,42.959 4.75574,49.57287 69.60509,28.67708 99.519,-14.01432 71.6437,-70.03844 48.7409,-52.13656 73.7125,-17.78006 50.5582,35.90012 -48.0856,99.04351 -85.6363,111.97153 22.8474,40.60184 122.5391,-27.85571 108.7716,-54.8694 67.4895,-71.96658 85.6912,-4.60076 9.2602,54.792 -68.4647,30.03411 -43.8635,74.29917 -80.5653,42.9682 -17.1316,88.90025 22.6259,95.31988 85.8131,16.29813 46.5489,18.79858 2.6855,39.38752 -33.1213,43.86337 -103.8398,25.06478 -26.6686,18.86027 -4.9091,27.75029 39.9426,21.42242 53.6715,0.72461 65.973,6.43673 12.1622,28.0904 -33.1213,222.0023 29.014,70.9938 59.9781,62.9418 16.6025,142.5624 72.3729,89.0955 -1.5902,62.0198 -123.9022,0.03 -58.3711,-94.9799 -19.6938,-85.9364 -4.4759,-76.9847 -23.2744,-38.4923 -52.8151,-28.6455 -116.3722,-71.6136 -108.1938,-47.1342 -53.8321,31.9163 25.0648,45.6537 0,33.1213 -66.2427,204.9941 -41.1778,20.5889 -93.9929,0 -36.70205,-31.331 -28.64546,-123.5335 11.63722,-121.7433 -20.25045,-54.1119 -51.36322,6.3594 -73.404,71.027 -57.29093,55.5006 -74.29918,5.371 -111.00118,-32.2261 -59.08127,-33.1214 -34.91166,-42.073 0,-46.5489 6.26619,-54.6994 13.88944,-40.2208 0.4333,-23.2423 -14.32274,-8.9517 -37.59717,3.5807 -61.76678,20.5889 -59.08128,40.2827 -55.50059,33.1213 -54.60542,1.7903 -42.96819,-35.8068 -40.28269,-76.9847 -1.79034,-56.3957 54.60542,-81.46059 35.80683,-36.70201 22.37927,-91.30742 17.00824,-26.85512 28.64547,-37.59717 38.49234,-45.65371 17.00825,-30.43581 -4.47585,-17.00825 -39.57257,-108.099 19.87881,-36.91867 63.45304,-41.35108 48.58188,-71.51394 13.19837,-82.45211 z"
+       id="path8228"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+       x="145.40567"
+       y="874.22925"
+       id="text8301"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8303"
+         x="145.40567"
+         y="874.22925">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+       x="274.65518"
+       y="901.15619"
+       id="text8305"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8307"
+         x="274.65518"
+         y="901.15619">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+       x="23.336712"
+       y="845.50708"
+       id="text8309"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8311"
+         x="23.336712"
+         y="845.50708">3</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7881,14 +7926,6 @@ claire.laudy@yahoo.fr</dc:title>
        x="0"
        id="use2601"
        transform="matrix(1.25,0,0,1.25,843.67822,-1966.8382)" />
-    <use
-       xlink:href="#path2506"
-       height="1770"
-       width="1927"
-       y="0"
-       x="0"
-       id="use2604"
-       transform="matrix(1.25,0,0,1.25,939.75861,-1965.9762)" />
     <path
        id="path2608"
        style="fill:#6ebfb9;fill-opacity:1;stroke:none;display:inline"
@@ -9691,11 +9728,6 @@ claire.laudy@yahoo.fr</dc:title>
      id="layer28"
      inkscape:label="Noms des stations"
      style="display:inline">
-    <path
-       inkscape:connector-curvature="0"
-       d="m 310.69924,562.40203 c 0,4.91759 -3.82866,9.02283 -8.49827,9.02283 -4.6928,0 -8.54698,-4.05304 -8.54698,-9.02283 0,-4.99481 3.85418,-9.12871 8.54698,-9.12871 4.66956,0 8.49827,4.15929 8.49827,9.12871 z"
-       id="path3155-8"
-       style="fill:#ffffff;fill-opacity:1" />
     <text
        sodipodi:linespacing="105%"
        id="text6596"
@@ -10193,14 +10225,14 @@ claire.laudy@yahoo.fr</dc:title>
     <text
        sodipodi:linespacing="105%"
        id="text4645-4"
-       y="1538.9977"
-       x="772.70532"
+       y="1540.6205"
+       x="787.06042"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
-         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         y="1538.9977"
-         x="772.70532"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
+         y="1540.6205"
+         x="787.06042"
          sodipodi:role="line"
          id="tspan4647-3">Bourg-la-Reine</tspan></text>
     <text
@@ -10489,14 +10521,14 @@ claire.laudy@yahoo.fr</dc:title>
     <text
        sodipodi:linespacing="105%"
        id="text5635-9"
-       y="1361.9451"
-       x="1337.9148"
+       y="1365.1907"
+       x="1338.7739"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         y="1361.9451"
-         x="1337.9148"
+         y="1365.1907"
+         x="1338.7739"
          sodipodi:role="line"
          id="tspan5637-2">Vitry-sur-Seine</tspan></text>
     <text
@@ -10722,27 +10754,27 @@ claire.laudy@yahoo.fr</dc:title>
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       x="1486.9775"
-       y="1356.1801"
+       x="1398.4873"
+       y="1352.9344"
        id="text5707-4"
        sodipodi:linespacing="105%"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan5709-0"
          sodipodi:role="line"
-         x="1486.9775"
-         y="1356.1801"
+         x="1398.4873"
+         y="1352.9344"
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Maisons-Alfort Alfortville</tspan></text>
     <text
        sodipodi:linespacing="105%"
        id="text5711-2"
        y="1473.7654"
-       x="1522.2336"
+       x="1447.4894"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
          y="1473.7654"
-         x="1522.2336"
+         x="1447.4894"
          sodipodi:role="line"
          id="tspan5713-6">Le Vert de Maisons</tspan></text>
     <text
@@ -13009,30 +13041,31 @@ claire.laudy@yahoo.fr</dc:title>
     <text
        transform="scale(0.97182532,1.0289915)"
        xml:space="preserve"
-       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       x="1007.2584"
-       y="343.89966"
+       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
+       x="1015.8397"
+       y="333.3696"
        id="text8031"
        sodipodi:linespacing="105%"><tspan
          sodipodi:role="line"
          id="tspan8033"
-         x="1007.2584"
-         y="343.89966">Stade de France</tspan><tspan
+         x="1015.8397"
+         y="333.3696"
+         style="text-align:start;text-anchor:start">Stade de France</tspan><tspan
          sodipodi:role="line"
-         x="1007.2584"
-         y="351.24664"
+         x="1015.8397"
+         y="340.71658"
          id="tspan8035">Saint-Denis</tspan></text>
     <text
        sodipodi:linespacing="105%"
        id="text8037"
        y="183.85805"
-       x="1026.5299"
+       x="976.10773"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan8041"
          y="183.85805"
-         x="1026.5299"
+         x="976.10773"
          sodipodi:role="line">Saint-Denis</tspan></text>
     <text
        transform="scale(0.97182532,1.0289915)"
@@ -13098,18 +13131,6 @@ claire.laudy@yahoo.fr</dc:title>
          x="1782.7681"
          id="tspan8065"
          sodipodi:role="line">Le Blanc-Mesnil</tspan></text>
-    <text
-       transform="scale(0.97182532,1.0289915)"
-       xml:space="preserve"
-       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       x="1881.1189"
-       y="204.56931"
-       id="text8067"
-       sodipodi:linespacing="105%"><tspan
-         sodipodi:role="line"
-         id="tspan8069"
-         x="1881.1189"
-         y="204.56931">Aulnay-sous-bois</tspan></text>
     <text
        transform="scale(0.97182532,1.0289915)"
        xml:space="preserve"
@@ -13359,14 +13380,14 @@ claire.laudy@yahoo.fr</dc:title>
        transform="scale(0.97182532,1.0289915)"
        sodipodi:linespacing="105%"
        id="text8193"
-       y="532.25262"
-       x="232.18134"
+       y="544.87506"
+       x="161.71181"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        xml:space="preserve"><tspan
          style="text-align:start;text-anchor:start"
          id="tspan8195"
-         y="532.25262"
-         x="232.18134"
+         y="544.87506"
+         x="161.71181"
          sodipodi:role="line">Nanterre Préfecture</tspan></text>
     <text
        xml:space="preserve"
@@ -13442,6 +13463,97 @@ claire.laudy@yahoo.fr</dc:title>
          x="336.87674"
          y="1301.7577"
          id="tspan8219">Meudon-val-Fleury</tspan></text>
+    <text
+       transform="scale(0.97182532,1.0289915)"
+       xml:space="preserve"
+       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
+       x="775.69147"
+       y="1629.8744"
+       id="text8236"
+       sodipodi:linespacing="105%"><tspan
+         id="tspan8238"
+         sodipodi:role="line"
+         x="775.69147"
+         y="1629.8744"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Parc de Sceaux</tspan></text>
+    <text
+       sodipodi:linespacing="105%"
+       id="text8240"
+       y="1700.0604"
+       x="743.47412"
+       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
+       xml:space="preserve"
+       transform="scale(0.97182532,1.0289915)"><tspan
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
+         y="1700.0604"
+         x="743.47412"
+         sodipodi:role="line"
+         id="tspan8242">La Croix de berny</tspan></text>
+    <text
+       transform="scale(0.97182532,1.0289915)"
+       xml:space="preserve"
+       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
+       x="661.85687"
+       y="1474.0857"
+       id="text8244"
+       sodipodi:linespacing="105%"><tspan
+         id="tspan8246"
+         sodipodi:role="line"
+         x="661.85687"
+         y="1474.0857"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Fontenay aux Roses</tspan></text>
+    <text
+       transform="scale(0.97182532,1.0289915)"
+       xml:space="preserve"
+       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
+       x="692.98578"
+       y="1528.8551"
+       id="text8248"
+       sodipodi:linespacing="105%"><tspan
+         id="tspan8250"
+         sodipodi:role="line"
+         x="692.98578"
+         y="1528.8551"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Sceaux</tspan></text>
+    <text
+       sodipodi:linespacing="105%"
+       id="text8252"
+       y="1560.094"
+       x="592.69696"
+       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
+       xml:space="preserve"
+       transform="scale(0.97182532,1.0289915)"><tspan
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
+         y="1560.094"
+         x="592.69696"
+         sodipodi:role="line"
+         id="tspan8254">Robinson</tspan></text>
+    <text
+       transform="scale(0.97182532,1.0289915)"
+       sodipodi:linespacing="105%"
+       id="text8258"
+       y="1672.5144"
+       x="1391.3406"
+       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
+       xml:space="preserve"><tspan
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
+         y="1672.5144"
+         x="1391.3406"
+         sodipodi:role="line"
+         id="tspan8260">Choisy-le-Roi</tspan></text>
+    <text
+       transform="scale(0.97182532,1.0289915)"
+       xml:space="preserve"
+       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
+       x="1530.7728"
+       y="1674.7548"
+       id="text8266"
+       sodipodi:linespacing="105%"><tspan
+         id="tspan8268"
+         sodipodi:role="line"
+         x="1530.7728"
+         y="1674.7548"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Villeneuve Prairie</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -16139,7 +16251,7 @@ claire.laudy@yahoo.fr</dc:title>
     <g
        style="display:inline"
        id="g4977"
-       transform="matrix(0.05841811,0,0,0.05841811,1856.3164,185.28218)"
+       transform="matrix(0.05841811,0,0,0.05841811,1777.6167,185.28218)"
        inkscape:transform-center-x="191"
        inkscape:transform-center-y="253">
       <path
@@ -16383,7 +16495,7 @@ claire.laudy@yahoo.fr</dc:title>
     </g>
     <g
        id="g5255"
-       transform="matrix(0.4350592,0,0,0.4350592,1881.0536,185.34842)">
+       transform="matrix(0.4350592,0,0,0.4350592,1802.3539,185.34842)">
       <path
          id="path5243"
          d="M 0,26.699 C 0,11.947 11.961,0 26.723,0 41.48,0 53.441,11.947 53.441,26.699 53.441,41.447 41.48,53.406 26.722,53.406 11.961,53.406 0,41.447 0,26.699"
