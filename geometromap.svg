@@ -72,7 +72,7 @@
   </metadata>
   <sodipodi:namedview
      inkscape:window-height="1158"
-     inkscape:window-width="1912"
+     inkscape:window-width="1372"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      guidetolerance="10.0"
@@ -83,10 +83,10 @@
      pagecolor="#ececec"
      id="base"
      showgrid="false"
-     inkscape:zoom="1.7589775"
-     inkscape:cx="830.26726"
-     inkscape:cy="1069.4025"
-     inkscape:window-x="0"
+     inkscape:zoom="0.774222"
+     inkscape:cx="1086.7574"
+     inkscape:cy="1024.263"
+     inkscape:window-x="540"
      inkscape:window-y="0"
      inkscape:current-layer="layer30"
      showguides="true"
@@ -677,6 +677,60 @@
          id="tspan8311"
          x="23.336712"
          y="845.50708">3</tspan></text>
+    <g
+       style="display:inline"
+       id="g5983-9"
+       transform="translate(-14.446022,-1226.8697)">
+      <rect
+         ry="5.2627134"
+         rx="5.4657054"
+         y="1305.1493"
+         x="1087.839"
+         height="10.931396"
+         width="92.51992"
+         id="rect5985-6"
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.52834052;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         transform="scale(0.97182532,1.0289915)"
+         xml:space="preserve"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+         x="1211.1362"
+         y="1276.0975"
+         id="text5987-3"
+         sodipodi:linespacing="105%"><tspan
+           id="tspan5989-8"
+           sodipodi:role="line"
+           x="1211.1362"
+           y="1276.0975"
+           style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic">SAINT-DENIS UNIVERSITÉ</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g5983-5"
+       transform="translate(-607.84139,-1097.6247)">
+      <rect
+         ry="5.4656982"
+         rx="5.4657054"
+         y="1305.1493"
+         x="1020.0322"
+         height="10.931396"
+         width="160.32666"
+         id="rect5985-61"
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.52834052;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         transform="scale(0.97182532,1.0289915)"
+         xml:space="preserve"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+         x="1211.1362"
+         y="1276.0975"
+         id="text5987-1"
+         sodipodi:linespacing="105%"><tspan
+           id="tspan5989-5"
+           sodipodi:role="line"
+           x="1211.1362"
+           y="1276.0975"
+           style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic">ASNIÈRES-GENNEVILLIERS LES COURTILLES</tspan></text>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4875,7 +4929,7 @@
        id="g6325">
       <path
          style="fill:none;stroke:#6ebfb9;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 693.75604,1312.8835 c -8.28317,-12.3452 -16.43425,-24.779 -24.45137,-37.2986 -3.40391,-5.3156 -6.79773,-10.6728 -9.32902,-16.455 -2.53129,-5.7822 -4.18517,-12.0502 -3.93275,-18.3572 0.27962,-6.9868 2.88743,-13.7199 6.46403,-19.7284 3.5766,-6.0084 8.10965,-11.3811 12.59976,-16.7414 12.44455,-14.8562 24.82681,-29.9505 39.78529,-42.2719 17.43907,-14.3647 37.9936,-24.6339 55.11921,-39.3709 7.89667,-6.7953 15.08941,-14.5565 24.03695,-19.8926 5.49533,-3.2773 11.54779,-5.5708 16.91608,-9.0523 2.68415,-1.7408 5.19709,-3.7864 7.21696,-6.2673 2.01988,-2.4809 3.53523,-5.4165 4.09418,-8.5665 0.47088,-2.6537 0.25737,-5.3881 -0.23236,-8.0383 -0.48973,-2.6503 -1.25146,-5.2415 -1.88577,-7.8609 -2.49642,-10.3092 -3.00588,-20.989 -4.82954,-31.4381 -1.82366,-10.4492 -5.17368,-21.0355 -12.33375,-28.8614 -5.78036,-6.31786 -13.66621,-10.42257 -19.4028,-16.7802 -4.65139,-5.15495 -7.69989,-11.61614 -9.47928,-18.32753 -1.7794,-6.71138 -2.33855,-13.69074 -2.44295,-20.63322 -0.23511,-15.63502 1.79493,-31.20911 2.48658,-46.8306 0.81943,-18.5076 -0.242,-37.05539 -2.07215,-55.4905 -3.29316,-33.172 -9.02573,-67.11752 -0.84332,-99.43276 1.18311,-4.67253 2.6753,-9.32546 5.1959,-13.43386 2.5206,-4.1084 6.16347,-7.66582 10.67853,-9.35301 4.11136,-1.53633 8.68167,-1.43834 12.98325,-0.56656 4.30158,0.87179 13.19991,3.57717 17.34847,4.38929 4.14856,0.81211 13.52611,4.25597 20.43272,-0.80591 2.4636,-1.87202 4.27831,-4.51857 5.42378,-7.39288 1.14548,-2.87431 1.6472,-5.97422 1.77839,-9.06559 0.26238,-6.18274 -0.92426,-12.33774 -1.02553,-18.52522 -0.15849,-9.68368 2.3363,-19.20464 3.14149,-28.85609 1.23051,-14.74951 -1.71736,-30.13869 -10.0521,-42.36957 -8.73142,-12.813 -22.44157,-21.15296 -35.33805,-29.7606 -13.91598,-9.2881 -27.43272,-19.40309 -38.6577,-31.80967 -22.27969,-24.62496 -34.18109,-56.60627 -47.06525,-87.21299 -16.87684,-40.09146 -36.6484,-79.741 -66.1397,-111.71624 -18.32744,-19.87109 -40.41109,-36.8158 -54.02532,-60.16978 -11.50072,-19.72845 -16.16468,-43.35762 -13.02249,-65.97631"
+         d="m 693.75604,1312.8835 c -8.28317,-12.3452 -16.43425,-24.779 -24.45137,-37.2986 -3.40391,-5.3156 -6.79773,-10.6728 -9.32902,-16.455 -2.53129,-5.7822 -4.18517,-12.0502 -3.93275,-18.3572 0.27962,-6.9868 2.88743,-13.7199 6.46403,-19.7284 3.5766,-6.0084 8.10965,-11.3811 12.59976,-16.7414 12.44455,-14.8562 24.82681,-29.9505 39.78529,-42.2719 17.43907,-14.3647 37.9936,-24.6339 55.11921,-39.3709 7.89667,-6.7953 15.08941,-14.5565 24.03695,-19.8926 5.49533,-3.2773 11.54779,-5.5708 16.91608,-9.0523 2.68415,-1.7408 5.19709,-3.7864 7.21696,-6.2673 2.01988,-2.4809 3.53523,-5.4165 4.09418,-8.5665 0.47088,-2.6537 0.25737,-5.3881 -0.23236,-8.0383 -0.48973,-2.6503 -1.25146,-5.2415 -1.88577,-7.8609 -2.49642,-10.3092 -3.00588,-20.989 -4.82954,-31.4381 -1.82366,-10.4492 -5.17368,-21.0355 -12.33375,-28.8614 -5.78036,-6.31786 -13.66621,-10.42257 -19.4028,-16.7802 -4.65139,-5.15495 -7.69989,-11.61614 -9.47928,-18.32753 -1.7794,-6.71138 -2.33855,-13.69074 -2.44295,-20.63322 -0.23511,-15.63502 1.79493,-31.20911 2.48658,-46.8306 0.81943,-18.5076 -0.242,-37.05539 -2.07215,-55.4905 -3.29316,-33.172 -9.02573,-67.11752 -0.84332,-99.43276 1.18311,-4.67253 2.6753,-9.32546 5.1959,-13.43386 2.5206,-4.1084 6.16347,-7.66582 10.67853,-9.35301 4.11136,-1.53633 8.68167,-1.43834 12.98325,-0.56656 4.30158,0.87179 13.19991,3.57717 17.34847,4.38929 4.14856,0.81211 13.52611,4.25597 20.43272,-0.80591 2.4636,-1.87202 4.27831,-4.51857 5.42378,-7.39288 1.14548,-2.87431 1.6472,-5.97422 1.77839,-9.06559 0.26238,-6.18274 -0.92426,-12.33774 -1.02553,-18.52522 -0.15849,-9.68368 2.3363,-19.20464 3.14149,-28.85609 1.23051,-14.74951 -1.71736,-30.13869 -10.0521,-42.36957 -8.73142,-12.813 -22.44157,-21.15296 -35.33805,-29.7606 -13.91598,-9.2881 -27.43272,-19.40309 -38.6577,-31.80967 -22.27969,-24.62496 -34.18109,-56.60627 -47.06525,-87.21299 -16.87684,-40.09146 -36.6484,-79.741 -66.1397,-111.71624 -18.32744,-19.87109 -40.41109,-36.8158 -54.02532,-60.16978 -11.50072,-19.72845 -17.53465,-46.09756 -14.39246,-68.71625"
          id="path5088"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="csssssssscssssssssssssssszcssssssssssc" />
@@ -10110,32 +10164,6 @@
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       x="707.98346"
-       y="1278.4227"
-       id="text4597-3"
-       sodipodi:linespacing="105%"
-       transform="scale(0.97182532,1.0289915)"><tspan
-         id="tspan4599-0"
-         sodipodi:role="line"
-         x="707.98346"
-         y="1278.4227"
-         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Châtillon-Montrouge</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       x="850.88843"
-       y="1165.3431"
-       id="text4609-3"
-       sodipodi:linespacing="105%"
-       transform="scale(0.97182532,1.0289915)"><tspan
-         id="tspan4611-8"
-         sodipodi:role="line"
-         x="850.88843"
-         y="1165.3431"
-         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Porte d'Orléans</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        x="934.5885"
        y="1186.6571"
        id="text4625-2"
@@ -10417,19 +10445,6 @@
          y="1404.1849"
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Villejuif Paul Vaillant-Couturier</tspan></text>
     <text
-       sodipodi:linespacing="105%"
-       id="text4815-5"
-       y="1481.4435"
-       x="1106.9052"
-       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       xml:space="preserve"
-       transform="scale(0.97182532,1.0289915)"><tspan
-         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         y="1481.4435"
-         x="1106.9052"
-         sodipodi:role="line"
-         id="tspan4817-4">Villejuif-Louis Aragon</tspan></text>
-    <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        x="1172.4886"
@@ -10473,19 +10488,6 @@
          y="1212.1887"
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:middle;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
          id="tspan4831-1">Choisy</tspan></text>
-    <text
-       sodipodi:linespacing="105%"
-       id="text5625-1"
-       y="1276.0975"
-       x="1211.1362"
-       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       xml:space="preserve"
-       transform="scale(0.97182532,1.0289915)"><tspan
-         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         y="1276.0975"
-         x="1211.1362"
-         sodipodi:role="line"
-         id="tspan5627-4">Mairie d'Ivry</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
@@ -10706,19 +10708,6 @@
          x="1634.5667"
          y="1461.5364"
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Créteil-Université</tspan></text>
-    <text
-       sodipodi:linespacing="105%"
-       id="text5699-7"
-       y="1548.6963"
-       x="1686.9316"
-       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       xml:space="preserve"
-       transform="scale(0.97182532,1.0289915)"><tspan
-         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         y="1548.6963"
-         x="1686.9316"
-         sodipodi:role="line"
-         id="tspan5701-1">Créteil-Préfecture</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
@@ -11193,48 +11182,22 @@
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Croix de Chavaux</tspan></text>
     <text
        sodipodi:linespacing="105%"
-       id="text5859-6"
-       y="826.19684"
-       x="1638.0585"
-       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       xml:space="preserve"
-       transform="scale(0.97182532,1.0289915)"><tspan
-         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         y="826.19684"
-         x="1638.0585"
-         sodipodi:role="line"
-         id="tspan5861-5">Mairie de Montreuil</tspan></text>
-    <text
-       sodipodi:linespacing="105%"
        id="text5875-1"
-       y="808.05634"
-       x="1377.5509"
+       y="786.08984"
+       x="1377.8832"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:middle;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         y="808.05634"
-         x="1377.5509"
+         y="786.08984"
+         x="1377.8832"
          sodipodi:role="line"
          id="tspan5877-3">Porte de</tspan><tspan
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:middle;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         y="815.40332"
-         x="1377.5509"
+         y="793.43683"
+         x="1377.8832"
          sodipodi:role="line"
          id="tspan5879-9">Bagnolet</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       x="1460.9867"
-       y="799.91022"
-       id="text5881-9"
-       sodipodi:linespacing="105%"
-       transform="scale(0.97182532,1.0289915)"><tspan
-         id="tspan5885-5"
-         sodipodi:role="line"
-         x="1460.9867"
-         y="799.91022"
-         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Gallieni</tspan></text>
     <text
        sodipodi:linespacing="105%"
        id="text5889-9"
@@ -11274,19 +11237,6 @@
          x="1501.6143"
          sodipodi:role="line"
          id="tspan5899-2">Bérault</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       x="1641.2074"
-       y="982.95105"
-       id="text5901-4"
-       sodipodi:linespacing="105%"
-       transform="scale(0.97182532,1.0289915)"><tspan
-         id="tspan5903-4"
-         sodipodi:role="line"
-         x="1641.2074"
-         y="982.95105"
-         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Château de Vincennes</tspan></text>
     <text
        sodipodi:linespacing="105%"
        id="text5905-4"
@@ -11419,19 +11369,6 @@
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Danube</tspan></text>
     <text
        sodipodi:linespacing="105%"
-       id="text5957-1"
-       y="667.05035"
-       x="1355.6149"
-       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       xml:space="preserve"
-       transform="scale(0.97182532,1.0289915)"><tspan
-         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         y="667.05035"
-         x="1355.6149"
-         sodipodi:role="line"
-         id="tspan5959-0">Pré St.-Gervais</tspan></text>
-    <text
-       sodipodi:linespacing="105%"
        id="text5961-6"
        y="719.52472"
        x="1338.1389"
@@ -11443,19 +11380,6 @@
          x="1338.1389"
          sodipodi:role="line"
          id="tspan5963-4">Télégraphe</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       x="1421.3635"
-       y="672.77887"
-       id="text5965-5"
-       sodipodi:linespacing="105%"
-       transform="scale(0.97182532,1.0289915)"><tspan
-         id="tspan5967-3"
-         sodipodi:role="line"
-         x="1421.3635"
-         y="672.77887"
-         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Mairie des Lilas</tspan></text>
     <text
        sodipodi:linespacing="105%"
        id="text5969-0"
@@ -11534,19 +11458,6 @@
          x="1585.371"
          y="537.70251"
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Bobigny-Pantin Raymond Queneau</tspan></text>
-    <text
-       sodipodi:linespacing="105%"
-       id="text5993-2"
-       y="436.96643"
-       x="1695.6543"
-       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       xml:space="preserve"
-       transform="scale(0.97182532,1.0289915)"><tspan
-         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         y="436.96643"
-         x="1695.6543"
-         sodipodi:role="line"
-         id="tspan5995-8">Bobigny Pablo Picasso</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
@@ -11628,19 +11539,6 @@
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       x="1371.2927"
-       y="314.34473"
-       id="text6040-2"
-       sodipodi:linespacing="105%"
-       transform="scale(0.97182532,1.0289915)"><tspan
-         id="tspan6042-3"
-         sodipodi:role="line"
-         x="1371.2927"
-         y="314.34473"
-         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">La Courneuve 8 mai 1945</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        x="1321.9404"
        y="503.52917"
        id="text6044-6"
@@ -11666,19 +11564,6 @@
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Max Dormoy</tspan></text>
     <text
        sodipodi:linespacing="105%"
-       id="text6052-5"
-       y="512.9856"
-       x="1136.5197"
-       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       xml:space="preserve"
-       transform="scale(0.97182532,1.0289915)"><tspan
-         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         y="512.9856"
-         x="1136.5197"
-         sodipodi:role="line"
-         id="tspan6054-2">Porte de la Chapelle</tspan></text>
-    <text
-       sodipodi:linespacing="105%"
        id="text6056-8"
        y="537.69708"
        x="1021.3081"
@@ -11690,24 +11575,6 @@
          x="1021.3081"
          sodipodi:role="line"
          id="tspan6058-0">Simplon</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       x="972.61578"
-       y="512.6582"
-       id="text4595-7"
-       sodipodi:linespacing="105%"
-       transform="scale(0.97182532,1.0289915)"><tspan
-         id="tspan4597-2"
-         sodipodi:role="line"
-         x="972.61578"
-         y="512.6582"
-         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Porte de</tspan><tspan
-         sodipodi:role="line"
-         x="972.61578"
-         y="520.00519"
-         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         id="tspan4600-2">Clignancourt</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
@@ -12080,19 +11947,6 @@
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Lourmel</tspan></text>
     <text
        sodipodi:linespacing="105%"
-       id="text4734-0"
-       y="1063.7122"
-       x="583.55103"
-       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       xml:space="preserve"
-       transform="scale(0.97182532,1.0289915)"><tspan
-         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         y="1063.7122"
-         x="583.55103"
-         sodipodi:role="line"
-         id="tspan4736-7">Balard</tspan></text>
-    <text
-       sodipodi:linespacing="105%"
        id="text4738-7"
        y="1015.0053"
        x="792.34949"
@@ -12156,19 +12010,6 @@
          x="630.8598"
          sodipodi:role="line"
          id="tspan4756-9">Corentin Celton</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       x="563.43726"
-       y="1168.9008"
-       id="text4758-0"
-       sodipodi:linespacing="105%"
-       transform="scale(0.97182532,1.0289915)"><tspan
-         id="tspan4760-4"
-         sodipodi:role="line"
-         x="563.43726"
-         y="1168.9008"
-         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Mairie d'Issy</tspan></text>
     <g
        id="g5719">
       <rect
@@ -12419,14 +12260,14 @@
     <text
        sodipodi:linespacing="105%"
        id="text6426"
-       y="997.31061"
-       x="327.73398"
+       y="995.74158"
+       x="329.72757"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan6430"
-         y="997.31061"
-         x="327.73398"
+         y="995.74158"
+         x="329.72757"
          sodipodi:role="line">Boulogne Jean Jaurès</tspan></text>
     <text
        sodipodi:linespacing="105%"
@@ -13560,58 +13401,441 @@
          x="1530.7728"
          y="1674.7548"
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Villeneuve Prairie</tspan></text>
-    <text
-       transform="scale(0.97182532,1.0289915)"
-       xml:space="preserve"
-       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
-       x="1121.5239"
-       y="1146.8438"
-       id="text6669"
-       sodipodi:linespacing="105%"><tspan
-         id="tspan6671"
-         sodipodi:role="line"
+    <g
+       id="g5825"
+       transform="translate(0.56310169,-0.54523084)">
+      <text
+         sodipodi:linespacing="105%"
+         id="text6669"
+         y="1146.8438"
+         x="1121.5239"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+         xml:space="preserve"
+         transform="scale(0.97182532,1.0289915)"><tspan
+           style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+           y="1146.8438"
+           x="1121.5239"
+           sodipodi:role="line"
+           id="tspan6671">OLYMPIADES</tspan></text>
+      <rect
+         ry="5.4746475"
+         rx="5.4746475"
+         y="1172.1393"
+         x="1087.4167"
+         height="10.949295"
+         width="49.765087"
+         id="rect6681"
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:0.51045656;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       id="g5830"
+       transform="translate(1.6995804,8.676471)">
+      <text
+         transform="scale(0.97182532,1.0289915)"
+         xml:space="preserve"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+         x="1211.1362"
+         y="1276.0975"
+         id="text5625-1"
+         sodipodi:linespacing="105%"><tspan
+           id="tspan5627-4"
+           sodipodi:role="line"
+           x="1211.1362"
+           y="1276.0975"
+           style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic">MAIRIE D'IVRY</tspan></text>
+      <rect
+         ry="5.4657054"
+         rx="5.4657054"
+         y="1305.151"
+         x="1126.6255"
+         height="10.931411"
+         width="53.400455"
+         id="rect6681-7"
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:0.52834052;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       style="display:inline"
+       id="g5830-6"
+       transform="translate(-109.02063,225.76969)">
+      <text
+         transform="scale(0.97182532,1.0289915)"
+         xml:space="preserve"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+         x="1211.1362"
+         y="1276.0975"
+         id="text5625-1-7"
+         sodipodi:linespacing="105%"><tspan
+           id="tspan5627-4-3"
+           sodipodi:role="line"
+           x="1211.1362"
+           y="1276.0975"
+           style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic">VILLEJUIF-LOUIS ARAGON</tspan></text>
+      <rect
+         ry="5.4656982"
+         rx="5.4657054"
+         y="1305.1493"
+         x="1085.4028"
+         height="10.931396"
+         width="94.956116"
+         id="rect6681-7-6"
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:0.52834052;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       style="display:inline"
+       id="g5830-6-5"
+       transform="translate(561.10951,287.90179)">
+      <text
+         transform="scale(0.97182532,1.0289915)"
+         xml:space="preserve"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+         x="1211.1362"
+         y="1276.0975"
+         id="text5625-1-7-6"
+         sodipodi:linespacing="105%"><tspan
+           id="tspan5627-4-3-3"
+           sodipodi:role="line"
+           x="1211.1362"
+           y="1276.0975"
+           style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic">CRÉTEIL PRÉFECTURE</tspan></text>
+      <rect
+         ry="5.4656982"
+         rx="5.4657054"
+         y="1305.1493"
+         x="1097.0275"
+         height="10.931396"
+         width="83.331482"
+         id="rect6681-7-6-9"
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:0.52834052;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       style="display:inline"
+       id="g5830-6-5-4"
+       transform="translate(401.15355,-283.01195)">
+      <text
+         transform="scale(0.97182532,1.0289915)"
+         xml:space="preserve"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+         x="1211.1362"
+         y="1276.0975"
+         id="text5625-1-7-6-8"
+         sodipodi:linespacing="105%"><tspan
+           id="tspan5627-4-3-3-1"
+           sodipodi:role="line"
+           x="1211.1362"
+           y="1276.0975"
+           style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic">CHÂTEAU DE VINCENNES</tspan></text>
+      <rect
+         ry="5.4656982"
+         rx="5.4657054"
+         y="1305.1493"
+         x="1087.4376"
+         height="10.931396"
+         width="92.921204"
+         id="rect6681-7-6-9-2"
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:0.52834052;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       style="display:inline"
+       id="g5830-6-5-4-9"
+       transform="translate(448.87087,-477.06797)">
+      <text
+         transform="scale(0.97182532,1.0289915)"
+         xml:space="preserve"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+         x="1211.1362"
+         y="1276.0975"
+         id="text5625-1-7-6-8-3"
+         sodipodi:linespacing="105%"><tspan
+           id="tspan5627-4-3-3-1-9"
+           sodipodi:role="line"
+           x="1211.1362"
+           y="1276.0975"
+           style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic">MAIRIE DE MONTREUIL</tspan></text>
+      <rect
+         ry="5.4656982"
+         rx="5.4657054"
+         y="1305.1493"
+         x="1095.5103"
+         height="10.931396"
+         width="84.848648"
+         id="rect6681-7-6-9-2-0"
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:0.52834052;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       transform="translate(275.32499,-490.40057)"
+       id="g5943"
+       style="display:inline">
+      <text
+         sodipodi:linespacing="105%"
+         id="text5945"
+         y="1276.0975"
+         x="1211.1362"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+         xml:space="preserve"
+         transform="scale(0.97182532,1.0289915)"><tspan
+           style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+           y="1276.0975"
+           x="1211.1362"
+           sodipodi:role="line"
+           id="tspan5947">GALLIENI</tspan></text>
+      <rect
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:0.52834052;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5949"
+         width="38.996151"
+         height="10.931396"
+         x="1141.3628"
+         y="1305.1493"
+         rx="5.4657054"
+         ry="5.4656982" />
+    </g>
+    <g
+       style="display:inline"
+       id="g5951"
+       transform="translate(138.66179,-469.73419)">
+      <text
+         transform="scale(0.97182532,1.0289915)"
+         xml:space="preserve"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+         x="1211.1362"
+         y="1276.0975"
+         id="text5953"
+         sodipodi:linespacing="105%"><tspan
+           id="tspan5955"
+           sodipodi:role="line"
+           x="1211.1362"
+           y="1276.0975"
+           style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic">GAMBETTA</tspan></text>
+      <rect
+         ry="5.4656982"
+         rx="5.4657054"
+         y="1305.1493"
+         x="1135.2277"
+         height="10.931396"
+         width="45.131287"
+         id="rect5957"
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:0.52834052;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       transform="translate(233.50471,-591.74903)"
+       id="g5959"
+       style="display:inline">
+      <rect
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.52834051999999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5965"
+         width="67.088753"
+         height="10.931396"
+         x="1113.2701"
+         y="1305.1493"
+         rx="5.4657054"
+         ry="5.4656982" />
+      <text
+         sodipodi:linespacing="105%"
+         id="text5961"
+         y="1276.0975"
+         x="1211.1362"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+         xml:space="preserve"
+         transform="scale(0.97182532,1.0289915)"><tspan
+           style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+           y="1276.0975"
+           x="1211.1362"
+           sodipodi:role="line"
+           id="tspan5963">PORTE DES LILAS</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g5967"
+       transform="translate(290.2345,-623.08572)">
+      <rect
+         ry="5.4656982"
+         rx="5.4657054"
+         y="1305.1493"
+         x="1110.9868"
+         height="10.931396"
+         width="69.37207"
+         id="rect5973"
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.52834051999999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         transform="scale(0.97182532,1.0289915)"
+         xml:space="preserve"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+         x="1211.1362"
+         y="1276.0975"
+         id="text5969"
+         sodipodi:linespacing="105%"><tspan
+           id="tspan5971"
+           sodipodi:role="line"
+           x="1211.1362"
+           y="1276.0975"
+           style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic">MAIRIE DES LILAS</tspan></text>
+    </g>
+    <g
+       transform="translate(177.33567,-630.96739)"
+       id="g5975"
+       style="display:inline">
+      <rect
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.52834051999999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5981"
+         width="65.718819"
+         height="10.931396"
+         x="1114.64"
+         y="1305.1493"
+         rx="5.4657054"
+         ry="5.4656982" />
+      <text
+         sodipodi:linespacing="105%"
+         id="text5977"
+         y="1276.0975"
+         x="1211.1362"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+         xml:space="preserve"
+         transform="scale(0.97182532,1.0289915)"><tspan
+           style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+           y="1276.0975"
+           x="1211.1362"
+           sodipodi:role="line"
+           id="tspan5979">PRÉ ST-GERVAIS</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g5983"
+       transform="translate(509.33314,-875.93815)">
+      <rect
+         ry="5.4656982"
+         rx="5.4657054"
+         y="1305.1493"
+         x="1083.9641"
+         height="10.931396"
+         width="96.394829"
+         id="rect5985"
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.52834052;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         transform="scale(0.97182532,1.0289915)"
+         xml:space="preserve"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+         x="1211.1362"
+         y="1276.0975"
+         id="text5987"
+         sodipodi:linespacing="105%"><tspan
+           id="tspan5989"
+           sodipodi:role="line"
+           x="1211.1362"
+           y="1276.0975"
+           style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic">BOBIGNY PABLO PICASSO</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g5983-8"
+       transform="translate(276.94953,-1004.406)">
+      <rect
+         ry="5.4656982"
+         rx="5.4657054"
+         y="1305.1493"
+         x="1083.9641"
+         height="10.931396"
+         width="96.394829"
+         id="rect5985-8"
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.52834052;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         transform="scale(0.97182532,1.0289915)"
+         xml:space="preserve"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+         x="1211.1362"
+         y="1276.0975"
+         id="text5987-5"
+         sodipodi:linespacing="105%"><tspan
+           id="tspan5989-0"
+           sodipodi:role="line"
+           x="1211.1362"
+           y="1276.0975"
+           style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic">LA COURNEUVE 8 MAI 1945</tspan></text>
+    </g>
+    <g
+       transform="translate(-60.172193,-43.470927)"
+       id="g6296">
+      <text
+         transform="scale(0.97182532,1.0289915)"
+         xml:space="preserve"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
          x="1121.5239"
          y="1146.8438"
-         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic">OLYMPIADES</tspan></text>
-    <rect
-       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.51045656;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect6681"
-       width="49.765087"
-       height="10.949295"
-       x="1087.4167"
-       y="1172.1393"
-       rx="5.4746475"
-       ry="5.4746475" />
+         id="text6298"
+         sodipodi:linespacing="105%"><tspan
+           id="tspan6300"
+           sodipodi:role="line"
+           x="1121.5239"
+           y="1146.8438"
+           style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic">PLACE D'ITALIE</tspan></text>
+      <rect
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:0.51045656;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect6302"
+         width="57.984951"
+         height="10.949341"
+         x="1087.4167"
+         y="1172.1393"
+         rx="5.4746704"
+         ry="5.4746704" />
+    </g>
+    <g
+       style="display:inline"
+       transform="translate(-161.31247,-284.03789)"
+       id="g6296-8">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:0.64726024;stroke:#000000;stroke-width:0.51045656;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect6302-8"
+         width="41.773685"
+         height="10.949341"
+         x="1087.4167"
+         y="1172.1393"
+         rx="5.4746704"
+         ry="5.4746704" />
+      <text
+         transform="scale(0.97182532,1.0289915)"
+         xml:space="preserve"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+         x="1121.5239"
+         y="1146.8438"
+         id="text6298-3"
+         sodipodi:linespacing="105%"><tspan
+           id="tspan6300-1"
+           sodipodi:role="line"
+           x="1121.5239"
+           y="1146.8438"
+           style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic">CHÂTELET</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g5983-98-48"
+       transform="translate(-45.353908,-795.55824)">
+      <rect
+         ry="5.4657593"
+         rx="5.4657593"
+         y="1305.1493"
+         x="1089.3617"
+         height="10.931519"
+         width="90.997238"
+         id="rect5985-4-8"
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.52834052;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         transform="scale(0.97182532,1.0289915)"
+         xml:space="preserve"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+         x="1211.1362"
+         y="1276.0975"
+         id="text5987-8-8"
+         sodipodi:linespacing="105%"><tspan
+           id="tspan5989-1-9"
+           sodipodi:role="line"
+           x="1211.1362"
+           y="1276.0975"
+           style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic">PORTE DE LA CHAPELLE</tspan></text>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Noms des stations de correspondances"
      style="display:inline">
-    <text
-       sodipodi:linespacing="103%"
-       id="text6604"
-       y="225.62959"
-       x="466.02716"
-       style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       xml:space="preserve"
-       transform="scale(0.97182532,1.0289915)"><tspan
-         id="tspan6608"
-         y="225.62959"
-         x="466.02716"
-         sodipodi:role="line">Asnières-Gennevilliers Les Courtilles</tspan></text>
-    <text
-       sodipodi:linespacing="103%"
-       id="text6626"
-       y="97.706886"
-       x="1095.7527"
-       style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       xml:space="preserve"
-       transform="scale(0.97182532,1.0289915)"><tspan
-         id="tspan6630"
-         y="97.706886"
-         x="1095.7527"
-         sodipodi:role="line">Saint-Denis Université</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
@@ -13625,18 +13849,6 @@
          x="723.98834"
          y="542.12146"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Porte de Clichy</tspan></text>
-    <text
-       sodipodi:linespacing="103%"
-       id="text6740"
-       y="518.96777"
-       x="499.02951"
-       style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       xml:space="preserve"
-       transform="scale(0.97182532,1.0289915)"><tspan
-         id="tspan6744"
-         y="518.96777"
-         x="499.02951"
-         sodipodi:role="line">Pont de Levallois Bécon</tspan></text>
     <text
        sodipodi:linespacing="103%"
        id="text4331-7"
@@ -13673,24 +13885,37 @@
          x="722.68933"
          y="765.37238"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Roosevelt</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       x="685.1441"
-       y="708.1181"
-       id="text4355-2"
-       sodipodi:linespacing="103%"
-       transform="scale(0.97182532,1.0289915)"><tspan
-         id="tspan4357-6"
-         sodipodi:role="line"
-         x="685.1441"
+    <g
+       id="g6144"
+       transform="translate(1.369969,-2.7399381)">
+      <rect
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.53215355;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5985-4-4-6"
+         width="47.974293"
+         height="19.147398"
+         x="662.47406"
+         y="720.20837"
+         rx="7.0640082"
+         ry="7.0640082" />
+      <text
+         transform="scale(0.97182532,1.0289915)"
+         sodipodi:linespacing="103%"
+         id="text4355-2"
          y="708.1181"
-         style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Charles de </tspan><tspan
-         id="tspan4359-8"
-         sodipodi:role="line"
          x="685.1441"
-         y="715.32513"
-         style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Gaulle Étoile</tspan></text>
+         style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+         xml:space="preserve"><tspan
+           style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+           y="708.1181"
+           x="685.1441"
+           sodipodi:role="line"
+           id="tspan4357-6">Charles de </tspan><tspan
+           style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+           y="715.32513"
+           x="685.1441"
+           sodipodi:role="line"
+           id="tspan4359-8">Gaulle Étoile</tspan></text>
+    </g>
     <g
        id="g6448">
       <rect
@@ -13809,18 +14034,6 @@
          x="598.43402"
          y="678.25751"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Maillot</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       x="508.42801"
-       y="737.52777"
-       id="text6548"
-       sodipodi:linespacing="103%"
-       transform="scale(0.97182532,1.0289915)"><tspan
-         sodipodi:role="line"
-         x="508.42801"
-         y="737.52777"
-         id="tspan6552">Porte Dauphine</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
@@ -14052,32 +14265,6 @@
            style="font-size:11.37115955px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Les Halles</tspan></text>
     </g>
     <g
-       style="display:inline"
-       id="g4967-8"
-       transform="matrix(0.85,0,0,0.9,106.77515,132.39587)">
-      <rect
-         style="color:#000000;fill:#ffffff;fill-opacity:0.57518765;stroke:none;stroke-width:5.4000001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect4969-8"
-         width="33.17131"
-         height="7.0170083"
-         x="976.32092"
-         y="837.69482"
-         rx="4.1276522"
-         ry="3.8983378" />
-      <text
-         sodipodi:linespacing="100%"
-         id="text4971-0"
-         y="843.97803"
-         x="976.46069"
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-         xml:space="preserve"><tspan
-           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-           y="843.97803"
-           x="976.46069"
-           sodipodi:role="line"
-           id="tspan4975-1">Châtelet</tspan></text>
-    </g>
-    <g
        id="g5744">
       <rect
          style="color:#000000;fill:#ffffff;fill-opacity:0.70588235;fill-rule:nonzero;stroke:none;stroke-width:1.56200004;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -14233,31 +14420,6 @@
          y="993.56085"
          x="474.91895"
          sodipodi:role="line">Molitor</tspan></text>
-    <text
-       sodipodi:linespacing="103%"
-       id="text6364"
-       y="1111.6132"
-       x="225.14183"
-       style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       xml:space="preserve"
-       transform="scale(0.97182532,1.0289915)"><tspan
-         y="1111.6132"
-         x="225.14183"
-         id="tspan6366"
-         sodipodi:role="line">Pont de Sèvres</tspan></text>
-    <text
-       sodipodi:linespacing="103%"
-       id="text6420"
-       y="1012.6791"
-       x="257.73288"
-       style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       xml:space="preserve"
-       transform="scale(0.97182532,1.0289915)"><tspan
-         id="tspan6424"
-         y="1012.6791"
-         x="257.73288"
-         sodipodi:role="line"
-         style="text-align:end;text-anchor:end">Boulogne Pont de St-Cloud</tspan></text>
     <g
        id="g5790"
        transform="translate(1.1370242,-1.4212802)">
@@ -14509,37 +14671,6 @@
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
          id="tspan4197-6">Rochereau</tspan></text>
     <text
-       sodipodi:linespacing="103%"
-       id="text4201-0"
-       y="1099.2371"
-       x="1059.9506"
-       style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       xml:space="preserve"
-       transform="scale(0.97182532,1.0289915)"><tspan
-         style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-         y="1099.2371"
-         x="1059.9506"
-         sodipodi:role="line"
-         id="tspan4203-9">Place d'Italie</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       x="1115.1863"
-       y="993.96576"
-       id="text4205-3"
-       sodipodi:linespacing="103%"
-       transform="scale(0.97182532,1.0289915)"><tspan
-         id="tspan4207-0"
-         sodipodi:role="line"
-         x="1115.1863"
-         y="993.96576"
-         style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Gare</tspan><tspan
-         sodipodi:role="line"
-         x="1115.1863"
-         y="1001.1728"
-         style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-         id="tspan4209-0">d'Austerlitz</tspan></text>
-    <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
        x="1162.2572"
@@ -14578,19 +14709,6 @@
          x="1137.6486"
          y="899.94092"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Bastille</tspan></text>
-    <text
-       sodipodi:linespacing="103%"
-       id="text4243-6"
-       y="796.79315"
-       x="1314.9906"
-       style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       xml:space="preserve"
-       transform="scale(0.97182532,1.0289915)"><tspan
-         style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-         y="796.79315"
-         x="1314.9906"
-         sodipodi:role="line"
-         id="tspan4245-4">Gambetta</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
@@ -14694,44 +14812,18 @@
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">St.-Augustin</tspan></text>
     <g
        style="display:inline"
-       id="g5682"
-       transform="matrix(0.85,0,0,0.9,125.09739,73.003878)">
-      <rect
-         ry="3.9474607"
-         rx="4.1796641"
-         y="717.66461"
-         x="796.89722"
-         height="8.0097494"
-         width="39.320587"
-         id="rect5680"
-         style="color:#000000;fill:#ffffff;fill-opacity:0.58823529;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <text
-         xml:space="preserve"
-         style="font-size:7.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-         x="834.01447"
-         y="724.07819"
-         id="text4499-9"
-         sodipodi:linespacing="100%"><tspan
-           id="tspan4501-8"
-           sodipodi:role="line"
-           x="834.01447"
-           y="724.07819"
-           style="font-size:7.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;writing-mode:lr-tb;text-anchor:end;font-family:Sans;-inkscape-font-specification:Sans">St.-Lazare</tspan></text>
-    </g>
-    <g
-       style="display:inline"
        id="g7841"
-       transform="matrix(0.85,0,0,0.9,133.43281,73.786051)">
+       transform="matrix(0.85,0,0,0.9,133.43281,72.64441)">
       <rect
          transform="matrix(0.66913061,-0.74314483,0.74314483,0.66913061,0,0)"
-         ry="6.4299154"
-         rx="6.3916545"
+         ry="7.9624715"
+         rx="7.9624715"
          y="1107.1517"
-         x="33.671169"
-         height="18.005865"
-         width="41.667747"
+         x="32.006687"
+         height="18.005859"
+         width="47.196255"
          id="rect7839"
-         style="color:#000000;fill:#ffffff;fill-opacity:0.49803922;fill-rule:nonzero;stroke:none;stroke-width:0.2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:#ffffff;fill-opacity:0.49803922;fill-rule:nonzero;stroke:#000000;stroke-width:0.57166195;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <text
          inkscape:transform-center-y="-17.776461"
          inkscape:transform-center-x="-8.4928656"
@@ -15050,31 +15142,6 @@
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       x="1369.1687"
-       y="696.75555"
-       id="text4247-5"
-       sodipodi:linespacing="103%"
-       transform="scale(0.97182532,1.0289915)"><tspan
-         id="tspan4249-8"
-         sodipodi:role="line"
-         x="1369.1687"
-         y="696.75555"
-         style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Porte des Lilas</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       x="328.89667"
-       y="560.1933"
-       id="text6574"
-       sodipodi:linespacing="103%"
-       transform="scale(0.97182532,1.0289915)"><tspan
-         sodipodi:role="line"
-         id="tspan6576"
-         x="328.89667"
-         y="560.1933">La Défense</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
        x="1251.568"
        y="825.46808"
        id="text4239-9"
@@ -15129,6 +15196,340 @@
          x="1800.6046"
          sodipodi:role="line"
          id="tspan4245-4-6">Val de Fontenay</tspan></text>
+    <g
+       style="display:inline"
+       id="g5983-98"
+       transform="translate(-631.27116,-791.66299)">
+      <rect
+         ry="5.4656982"
+         rx="5.4657054"
+         y="1305.1493"
+         x="1074.8309"
+         height="10.931396"
+         width="105.5279"
+         id="rect5985-4"
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.52834052;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         transform="scale(0.97182532,1.0289915)"
+         xml:space="preserve"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+         x="1211.1362"
+         y="1276.0975"
+         id="text5987-8"
+         sodipodi:linespacing="105%"><tspan
+           id="tspan5989-1"
+           sodipodi:role="line"
+           x="1211.1362"
+           y="1276.0975"
+           style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic">PONT DE LEVALLOIS BÉCON</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g5983-98-0"
+       transform="translate(-803.27333,-746.40444)">
+      <rect
+         ry="5.4656982"
+         rx="5.4657054"
+         y="1305.1493"
+         x="1128.7164"
+         height="10.931396"
+         width="51.642506"
+         id="rect5985-4-3"
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.52834052;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         transform="scale(0.97182532,1.0289915)"
+         xml:space="preserve"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+         x="1211.1362"
+         y="1276.0975"
+         id="text5987-8-0"
+         sodipodi:linespacing="105%"><tspan
+           id="tspan5989-1-4"
+           sodipodi:role="line"
+           x="1211.1362"
+           y="1276.0975"
+           style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic">LA DÉFENSE</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g5983-98-4"
+       transform="translate(-652.1551,-560.04681)">
+      <rect
+         ry="5.4656982"
+         rx="5.4656982"
+         y="1305.1493"
+         x="1112.2878"
+         height="10.931396"
+         width="68.070999"
+         id="rect5985-4-4"
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.52834052;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         transform="scale(0.97182532,1.0289915)"
+         xml:space="preserve"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+         x="1211.1362"
+         y="1276.0975"
+         id="text5987-8-4"
+         sodipodi:linespacing="105%"><tspan
+           id="tspan5989-1-7"
+           sodipodi:role="line"
+           x="1211.1362"
+           y="1276.0975"
+           style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic">PORTE DAUPHINE</tspan></text>
+    </g>
+    <g
+       transform="translate(-950.51838,-267.43167)"
+       id="g6150"
+       style="display:inline">
+      <rect
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.52834052;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect6152"
+         width="127.48553"
+         height="10.931519"
+         x="1052.8734"
+         y="1305.1493"
+         rx="5.4656982"
+         ry="5.4656982" />
+      <text
+         sodipodi:linespacing="105%"
+         id="text6154"
+         y="1276.0975"
+         x="1211.1362"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+         xml:space="preserve"
+         transform="scale(0.97182532,1.0289915)"><tspan
+           style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+           y="1276.0975"
+           x="1211.1362"
+           sodipodi:role="line"
+           id="tspan6156">BOULOGNE PONT DE SAINT-CLOUD</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g6158"
+       transform="translate(-932.70861,-163.59512)">
+      <rect
+         ry="5.4657593"
+         rx="5.4657593"
+         y="1305.1493"
+         x="1113.2566"
+         height="10.931519"
+         width="67.10228"
+         id="rect6160"
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.52834052;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         transform="scale(0.97182532,1.0289915)"
+         xml:space="preserve"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+         x="1211.1362"
+         y="1276.0975"
+         id="text6162"
+         sodipodi:linespacing="105%"><tspan
+           id="tspan6164"
+           sodipodi:role="line"
+           x="1211.1362"
+           y="1276.0975"
+           style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic">PONT DE SÈVRES</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g6158-1"
+       transform="translate(-583.19679,-215.47354)">
+      <rect
+         ry="5.4657593"
+         rx="5.4657593"
+         y="1305.1493"
+         x="1143.6096"
+         height="10.931519"
+         width="36.749245"
+         id="rect6160-7"
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.52834052;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         transform="scale(0.97182532,1.0289915)"
+         xml:space="preserve"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+         x="1211.1362"
+         y="1276.0975"
+         id="text6162-5"
+         sodipodi:linespacing="105%"><tspan
+           id="tspan6164-9"
+           sodipodi:role="line"
+           x="1211.1362"
+           y="1276.0975"
+           style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic">BALARD</tspan></text>
+    </g>
+    <g
+       transform="translate(-594.98771,-108.87265)"
+       id="g6218"
+       style="display:inline">
+      <rect
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.52834052;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect6220"
+         width="54.831936"
+         height="10.931519"
+         x="1125.527"
+         y="1305.1493"
+         rx="5.4657593"
+         ry="5.4657593" />
+      <text
+         sodipodi:linespacing="105%"
+         id="text6222"
+         y="1276.0975"
+         x="1211.1362"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+         xml:space="preserve"
+         transform="scale(0.97182532,1.0289915)"><tspan
+           style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+           y="1276.0975"
+           x="1211.1362"
+           sodipodi:role="line"
+           id="tspan6224">MAIRIE D'ISSY</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g6226"
+       transform="translate(-372.4806,14.131751)">
+      <rect
+         ry="5.4657593"
+         rx="5.4657593"
+         y="1305.1493"
+         x="1086.4829"
+         height="10.931519"
+         width="93.87603"
+         id="rect6228"
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.52834052;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         transform="scale(0.97182532,1.0289915)"
+         xml:space="preserve"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+         x="1211.1362"
+         y="1276.0975"
+         id="text6230"
+         sodipodi:linespacing="105%"><tspan
+           id="tspan6232"
+           sodipodi:role="line"
+           x="1211.1362"
+           y="1276.0975"
+           style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic">CHÂTILLON-MONTROUGE</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g6226-6"
+       transform="translate(-354.93142,-97.629489)">
+      <rect
+         ry="4.8447189"
+         rx="5.4657593"
+         y="1305.1493"
+         x="1107.7174"
+         height="10.931519"
+         width="72.641457"
+         id="rect6228-2"
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.52834052;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         transform="scale(0.97182532,1.0289915)"
+         xml:space="preserve"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+         x="1211.1362"
+         y="1276.0975"
+         id="text6230-1"
+         sodipodi:linespacing="105%"><tspan
+           id="tspan6232-7"
+           sodipodi:role="line"
+           x="1211.1362"
+           y="1276.0975"
+           style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic">PORTE D'ORLÉANS</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g6144-8"
+       transform="matrix(0.86147431,0,0,0.86147431,513.11991,401.74963)">
+      <rect
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.53215355;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5985-4-4-6-5"
+         width="55.509132"
+         height="19.1474"
+         x="662.47406"
+         y="720.20837"
+         rx="8.1999054"
+         ry="8.1999054" />
+      <text
+         transform="scale(0.97182532,1.0289915)"
+         sodipodi:linespacing="103%"
+         id="text4355-2-7"
+         y="708.1181"
+         x="685.1441"
+         style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+         xml:space="preserve"><tspan
+           style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+           y="708.1181"
+           x="685.1441"
+           sodipodi:role="line"
+           id="tspan4359-8-1">GARE</tspan><tspan
+           style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+           y="715.32513"
+           x="685.1441"
+           sodipodi:role="line"
+           id="tspan6294">D'AUSTERLITZ</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       transform="translate(-288.68885,-462.43733)"
+       id="g6296-9">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:0.53082192;stroke:#000000;stroke-width:0.51045656;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect6302-3"
+         width="43.600311"
+         height="10.949341"
+         x="1087.4167"
+         y="1172.1393"
+         rx="5.4746704"
+         ry="5.4746704" />
+      <text
+         transform="scale(0.97182532,1.0289915)"
+         xml:space="preserve"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+         x="1121.5239"
+         y="1146.8438"
+         id="text6298-6"
+         sodipodi:linespacing="105%"><tspan
+           id="tspan6300-4"
+           sodipodi:role="line"
+           x="1121.5239"
+           y="1146.8438"
+           style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic">ST-LAZARE</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g5983-98-3"
+       transform="translate(-244.89121,-797.21728)">
+      <rect
+         ry="7.0802221"
+         rx="7.0802221"
+         y="1305.1493"
+         x="1119.0688"
+         height="18.358154"
+         width="61.289997"
+         id="rect5985-4-38"
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.52834052;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         transform="scale(0.97182532,1.0289915)"
+         xml:space="preserve"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+         x="1211.1362"
+         y="1276.0975"
+         id="text5987-8-6"
+         sodipodi:linespacing="105%"><tspan
+           sodipodi:role="line"
+           x="1211.1362"
+           y="1276.0975"
+           style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+           id="tspan7262">PORTE DE</tspan><tspan
+           sodipodi:role="line"
+           x="1211.1362"
+           y="1283.4446"
+           style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
+           id="tspan7266">CLIGNANCOURT</tspan></text>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -15137,7 +15538,7 @@
      style="display:inline">
     <g
        id="g3466"
-       transform="matrix(0.435328,0,0,0.435328,337.64184,545.7357)">
+       transform="matrix(0.435328,0,0,0.435328,301.9272,552.58555)">
       <path
          id="path3456"
          d="M 0,26.705 C 0,11.949 11.957,0 26.709,0 41.457,0 53.412,11.949 53.412,26.705 53.412,41.449 41.457,53.408 26.709,53.408 11.957,53.408 0,41.449 0,26.705"
@@ -15151,48 +15552,8 @@
     </g>
     <g
        style="display:inline"
-       id="g3617"
-       transform="matrix(0.05841708,0,0,0.05841708,1063.0748,1528.3545)">
-      <path
-         style="fill:#14489e;fill-opacity:1"
-         id="path3619"
-         d="M 399,200.987 C 399,90.544 306.459,1 200.49,1 90.54,1 1,90.544 1,200.987 1,310.429 90.54,399 200.49,399 310.44,399 399,310.919 399,200.987"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#ffffff;fill-opacity:1"
-         id="path3621"
-         d="m 371.639,200.987 c 0,93.534 -77.106,171.617 -171.148,171.617 -94.509,0 -172.129,-77.09 -172.129,-171.617 0,-95.003 77.62,-173.631 172.129,-173.631 94.041,0 171.148,79.111 171.148,173.631 z"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#14489e;fill-opacity:1"
-         id="path3623"
-         d="m 298.987,289.039 0,-173.615 c 0,-9.945 -5.452,-20.394 -21.879,-20.394 -12.417,0 -17.411,5.474 -22.877,16.428 l -53.741,111.929 -0.49,0 -54.232,-111.929 c -5.474,-10.954 -10.442,-16.428 -22.89,-16.428 -16.414,0 -21.889,10.449 -21.889,20.394 l 0,173.615 c 0,9.479 7.472,14.929 16.415,14.929 7.954,0 16.911,-5.45 16.911,-14.929 l 0,-129.337 0.505,0 49.249,100.491 c 3.483,6.967 7.97,10.963 15.931,10.963 7.947,0 12.434,-3.996 15.923,-10.963 l 49.241,-100.491 0.506,0 0,129.337 c 0,9.479 8.942,14.929 16.904,14.929 8.971,0 16.413,-5.45 16.413,-14.929 z"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       style="display:inline"
-       id="g3674"
-       transform="matrix(0.05841708,0,0,0.05841708,1610.6397,1597.7797)">
-      <path
-         style="fill:#14489e;fill-opacity:1"
-         id="path3676"
-         d="M 399,200.987 C 399,90.544 306.459,1 200.49,1 90.54,1 1,90.544 1,200.987 1,310.429 90.54,399 200.49,399 310.44,399 399,310.919 399,200.987"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#ffffff;fill-opacity:1"
-         id="path3678"
-         d="m 371.639,200.987 c 0,93.534 -77.106,171.617 -171.148,171.617 -94.509,0 -172.129,-77.09 -172.129,-171.617 0,-95.003 77.62,-173.631 172.129,-173.631 94.041,0 171.148,79.111 171.148,173.631 z"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#14489e;fill-opacity:1"
-         id="path3680"
-         d="m 298.987,289.039 0,-173.615 c 0,-9.945 -5.452,-20.394 -21.879,-20.394 -12.417,0 -17.411,5.474 -22.877,16.428 l -53.741,111.929 -0.49,0 -54.232,-111.929 c -5.474,-10.954 -10.442,-16.428 -22.89,-16.428 -16.414,0 -21.889,10.449 -21.889,20.394 l 0,173.615 c 0,9.479 7.472,14.929 16.415,14.929 7.954,0 16.911,-5.45 16.911,-14.929 l 0,-129.337 0.505,0 49.249,100.491 c 3.483,6.967 7.97,10.963 15.931,10.963 7.947,0 12.434,-3.996 15.923,-10.963 l 49.241,-100.491 0.506,0 0,129.337 c 0,9.479 8.942,14.929 16.904,14.929 8.971,0 16.413,-5.45 16.413,-14.929 z"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       style="display:inline"
        id="g3786"
-       transform="matrix(0.435328,0,0,0.435328,1564.5044,1014.6205)">
+       transform="matrix(0.435328,0,0,0.435328,1521.2607,998.62307)">
       <path
          id="path3788"
          d="M 0,26.705 C 0,11.949 11.957,0 26.709,0 41.457,0 53.412,11.949 53.412,26.705 53.412,41.449 41.457,53.408 26.709,53.408 11.957,53.408 0,41.449 0,26.705"
@@ -15221,7 +15582,7 @@
     <g
        style="display:inline"
        id="g3851"
-       transform="matrix(0.4352465,0,0,0.4352465,520.1962,728.61197)">
+       transform="matrix(0.4352465,0,0,0.4352465,528.46792,738.94492)">
       <path
          id="path3853"
          d="M 0,26.711 C 0,11.953 11.953,0 26.707,0 41.461,0 53.418,11.953 53.418,26.711 53.418,41.453 41.461,53.41 26.707,53.41 11.953,53.41 0,41.453 0,26.711"
@@ -15235,7 +15596,7 @@
     </g>
     <g
        id="g3912"
-       transform="matrix(0.4352791,0,0,0.4352791,526.91386,502.76262)">
+       transform="matrix(0.4352791,0,0,0.4352791,549.35185,507.32918)">
       <path
          id="path3902"
          d="M 0,26.701 C 0,11.953 11.961,0 26.695,0 41.453,0 53.414,11.953 53.414,26.701 53.414,41.453 41.453,53.404 26.695,53.404 11.961,53.404 0,41.453 0,26.701"
@@ -15250,7 +15611,7 @@
     <g
        style="display:inline"
        id="g3916"
-       transform="matrix(0.4352791,0,0,0.4352791,1408.5269,792.44636)">
+       transform="matrix(0.4352791,0,0,0.4352791,1393.1736,808.5916)">
       <path
          id="path3918"
          d="M 0,26.701 C 0,11.953 11.961,0 26.695,0 41.453,0 53.414,11.953 53.414,26.701 53.414,41.453 41.453,53.404 26.695,53.404 11.961,53.404 0,41.453 0,26.701"
@@ -15264,7 +15625,7 @@
     </g>
     <g
        id="g4005"
-       transform="matrix(0.435328,0,0,0.435328,838.82497,1202.9584)">
+       transform="matrix(0.435328,0,0,0.435328,825.69161,1201.3601)">
       <path
          id="path3995"
          d="M 0,26.707 C 0,11.949 11.947,0 26.707,0 41.455,0 53.408,11.949 53.408,26.707 53.408,41.457 41.455,53.41 26.707,53.41 11.947,53.41 0,41.457 0,26.707"
@@ -15279,7 +15640,7 @@
     <g
        style="display:inline"
        id="g4015"
-       transform="matrix(0.435328,0,0,0.435328,931.41588,495.15269)">
+       transform="matrix(0.435328,0,0,0.435328,935.7318,505.48565)">
       <path
          id="path4017"
          d="M 0,26.707 C 0,11.949 11.947,0 26.707,0 41.455,0 53.408,11.949 53.408,26.707 53.408,41.457 41.455,53.41 26.707,53.41 11.947,53.41 0,41.457 0,26.707"
@@ -15293,7 +15654,7 @@
     </g>
     <g
        id="g4076"
-       transform="matrix(0.4352465,0,0,0.4352465,1612.9061,418.53117)">
+       transform="matrix(0.4352465,0,0,0.4352465,1569.7831,423.05184)">
       <path
          id="path4066"
          d="M 0,26.715 C 0,11.961 11.965,0 26.703,0 41.461,0 53.418,11.961 53.418,26.715 53.418,41.457 41.461,53.418 26.703,53.418 11.965,53.418 0,41.457 0,26.715"
@@ -15308,7 +15669,7 @@
     <g
        style="display:inline"
        id="g4080"
-       transform="matrix(0.4352465,0,0,0.4352465,983.98137,1106.9236)">
+       transform="matrix(0.4352465,0,0,0.4352465,986.72131,1111.4902)">
       <path
          id="path4082"
          d="M 0,26.715 C 0,11.961 11.965,0 26.703,0 41.461,0 53.418,11.961 53.418,26.715 53.418,41.457 41.461,53.418 26.703,53.418 11.965,53.418 0,41.457 0,26.715"
@@ -15351,7 +15712,7 @@
     </g>
     <g
        id="g4206"
-       transform="matrix(0.435328,0,0,0.435328,1039.0861,491.48216)">
+       transform="matrix(0.435328,0,0,0.435328,1020.4936,503.42964)">
       <path
          id="path4196"
          d="M 0,26.703 C 0,11.965 11.957,0 26.705,0 41.457,0 53.408,11.965 53.408,26.703 53.408,41.465 41.457,53.418 26.705,53.418 11.957,53.418 0,41.465 0,26.703"
@@ -15366,7 +15727,7 @@
     <g
        style="display:inline"
        id="g4210"
-       transform="matrix(0.435328,0,0,0.435328,529.46198,1206.2605)">
+       transform="matrix(0.435328,0,0,0.435328,507.0251,1190.1152)">
       <path
          id="path4212"
          d="M 0,26.703 C 0,11.965 11.957,0 26.705,0 41.457,0 53.408,11.965 53.408,26.703 53.408,41.465 41.457,53.418 26.705,53.418 11.957,53.418 0,41.465 0,26.703"
@@ -15380,7 +15741,7 @@
     </g>
     <g
        id="g4259"
-       transform="matrix(0.4352465,0,0,0.4352465,208.75498,1044.8619)">
+       transform="matrix(0.4352465,0,0,0.4352465,230.38895,1031.6228)">
       <path
          style="fill:#e0b03a"
          id="path14"
@@ -15395,7 +15756,7 @@
     <g
        style="display:inline"
        id="g4265"
-       transform="matrix(0.4352465,0,0,0.4352465,1036.7746,1016.5069)">
+       transform="matrix(0.4352465,0,0,0.4352465,1041.7978,1017.4202)">
       <path
          style="fill:#e0b03a"
          id="path4267"
@@ -15409,7 +15770,7 @@
     </g>
     <g
        id="g4326"
-       transform="matrix(0.28599479,0,0,0.28599479,914.58211,888.6788)">
+       transform="matrix(0.28599479,0,0,0.28599479,910.92886,885.93886)">
       <path
          id="path4316"
          d="M 0,26.707 C 0,11.959 11.961,0 26.695,0 41.453,0 53.414,11.959 53.414,26.707 53.414,41.455 41.453,53.408 26.695,53.408 11.961,53.408 0,41.455 0,26.707"
@@ -15424,7 +15785,7 @@
     <g
        style="display:inline"
        id="g4330"
-       transform="matrix(0.4352791,0,0,0.4352791,1406.1241,661.29257)">
+       transform="matrix(0.4352791,0,0,0.4352791,1377.7072,675.90558)">
       <path
          id="path4332"
          d="M 0,26.707 C 0,11.959 11.961,0 26.695,0 41.453,0 53.414,11.959 53.414,26.707 53.414,41.455 41.453,53.408 26.695,53.408 11.961,53.408 0,41.455 0,26.707"
@@ -15438,7 +15799,7 @@
     </g>
     <g
        id="g4395"
-       transform="matrix(0.4353117,0,0,0.4353117,1349.3248,720.15759)">
+       transform="matrix(0.4353117,0,0,0.4353117,1323.2607,707.2414)">
       <path
          id="path4383"
          d="M 0,26.701 C 0,11.957 11.953,0 26.699,0 41.453,0 53.41,11.957 53.41,26.701 53.41,41.449 41.453,53.408 26.699,53.408 11.953,53.408 0,41.449 0,26.701"
@@ -15458,7 +15819,7 @@
     <g
        style="display:inline"
        id="g4400"
-       transform="matrix(0.4353117,0,0,0.4353117,1272.2582,831.83947)">
+       transform="matrix(0.4353117,0,0,0.4353117,1250.3753,829.25624)">
       <path
          id="path4402"
          d="M 0,26.701 C 0,11.957 11.953,0 26.699,0 41.453,0 53.41,11.957 53.41,26.701 53.41,41.449 41.453,53.408 26.699,53.408 11.953,53.408 0,41.449 0,26.701"
@@ -15477,7 +15838,7 @@
     </g>
     <g
        id="g4467"
-       transform="matrix(0.4352791,0,0,0.4352791,1297.5827,656.14997)">
+       transform="matrix(0.4352791,0,0,0.4352791,1268.4615,668.02304)">
       <path
          id="path4455"
          d="M 0,26.707 C 0,11.959 11.961,0 26.707,0 41.453,0 53.414,11.959 53.414,26.707 53.414,41.451 41.453,53.412 26.707,53.412 11.961,53.412 0,41.451 0,26.707"
@@ -15516,7 +15877,7 @@
     </g>
     <g
        id="g4535"
-       transform="matrix(0.4353632,0,0,0.4353632,1562.0884,819.01344)">
+       transform="matrix(0.4353632,0,0,0.4353632,1520.8669,821.91958)">
       <path
          id="path4525"
          d="m 7.827,45.59 c -10.438,-10.426 -10.434,-27.336 0,-37.764 10.426,-10.439 27.348,-10.432 37.746,0 10.441,10.428 10.441,27.338 0,37.764 -10.398,10.43 -27.32,10.438 -37.746,0"
@@ -15531,7 +15892,7 @@
     <g
        style="display:inline"
        id="g4539"
-       transform="matrix(0.4353632,0,0,0.4353632,246.34982,1146.0484)">
+       transform="matrix(0.4353632,0,0,0.4353632,247.91444,1135.3925)">
       <path
          id="path4541"
          d="m 7.827,45.59 c -10.438,-10.426 -10.434,-27.336 0,-37.764 10.426,-10.439 27.348,-10.432 37.746,0 10.441,10.428 10.441,27.338 0,37.764 -10.398,10.43 -27.32,10.438 -37.746,0"
@@ -15545,7 +15906,7 @@
     </g>
     <g
        id="g4600"
-       transform="matrix(0.4353117,0,0,0.4353117,558.35234,1096.4316)">
+       transform="matrix(0.4353117,0,0,0.4353117,536.89866,1083.5154)">
       <path
          id="path4590"
          d="M 0,26.7 C 0,11.953 11.955,0 26.703,0 41.455,0 53.41,11.953 53.41,26.7 53.41,41.454 41.455,53.415 26.703,53.415 11.955,53.415 0,41.454 0,26.7"
@@ -15560,7 +15921,7 @@
     <g
        style="display:inline"
        id="g4610"
-       transform="matrix(0.4353117,0,0,0.4353117,1636.0317,1597.837)">
+       transform="matrix(0.4353117,0,0,0.4353117,1634.6227,1586.8907)">
       <path
          id="path4612"
          d="M 0,26.7 C 0,11.953 11.955,0 26.703,0 41.455,0 53.41,11.953 53.41,26.7 53.41,41.454 41.455,53.415 26.703,53.415 11.955,53.415 0,41.454 0,26.7"
@@ -15574,7 +15935,7 @@
     </g>
     <g
        id="g4671"
-       transform="matrix(0.435328,0,0,0.435328,551.85403,198.62235)">
+       transform="matrix(0.435328,0,0,0.435328,572.78167,201.36228)">
       <path
          id="path4661"
          d="M 0,26.699 C 0,11.941 11.955,0 26.707,0 41.459,0 53.408,11.941 53.408,26.699 53.408,41.461 41.459,53.422 26.707,53.422 11.955,53.422 0,41.461 0,26.699"
@@ -15589,7 +15950,7 @@
     <g
        style="display:inline"
        id="g4675"
-       transform="matrix(0.435328,0,0,0.435328,1102.3313,69.211138)">
+       transform="matrix(0.435328,0,0,0.435328,1049.8788,72.117281)">
       <path
          id="path4677"
          d="M 0,26.699 C 0,11.941 11.955,0 26.707,0 41.459,0 53.408,11.941 53.408,26.699 53.408,41.461 41.459,53.422 26.707,53.422 11.955,53.422 0,41.461 0,26.699"
@@ -15604,7 +15965,7 @@
     <g
        style="display:inline"
        id="g4681"
-       transform="matrix(0.435328,0,0,0.435328,725.76606,1301.2457)">
+       transform="matrix(0.435328,0,0,0.435328,690.48815,1313.1188)">
       <path
          id="path4683"
          d="M 0,26.699 C 0,11.941 11.955,0 26.707,0 41.459,0 53.408,11.941 53.408,26.699 53.408,41.461 41.459,53.422 26.707,53.422 11.955,53.422 0,41.461 0,26.699"
@@ -15618,7 +15979,7 @@
     </g>
     <g
        id="g4742"
-       transform="matrix(0.4352791,0,0,0.4352791,1088.4307,1528.4138)">
+       transform="matrix(0.4352791,0,0,0.4352791,1071.6025,1524.7606)">
       <path
          id="path4732"
          d="M 0,26.707 C 0,11.965 11.961,0 26.707,0 41.453,0 53.414,11.965 53.414,26.707 53.414,41.457 41.453,53.41 26.707,53.41 11.961,53.41 0,41.457 0,26.707"
@@ -15633,7 +15994,7 @@
     <g
        style="display:inline"
        id="g4746"
-       transform="matrix(0.4352791,0,0,0.4352791,1164.053,1316.5332)">
+       transform="matrix(0.4352791,0,0,0.4352791,1181.9896,1307.669)">
       <path
          id="path4748"
          d="M 0,26.707 C 0,11.965 11.961,0 26.707,0 41.453,0 53.414,11.965 53.414,26.707 53.414,41.457 41.453,53.41 26.707,53.41 11.961,53.41 0,41.457 0,26.707"
@@ -15648,7 +16009,7 @@
     <g
        style="display:inline"
        id="g4752"
-       transform="matrix(0.4352791,0,0,0.4352791,1298.2824,291.35585)">
+       transform="matrix(0.4352791,0,0,0.4352791,1337.3995,294.5849)">
       <path
          id="path4754"
          d="M 0,26.707 C 0,11.965 11.961,0 26.707,0 41.453,0 53.414,11.965 53.414,26.707 53.414,41.457 41.453,53.41 26.707,53.41 11.961,53.41 0,41.457 0,26.707"
@@ -15662,7 +16023,7 @@
     </g>
     <g
        id="g4817"
-       transform="matrix(0.435328,0,0,0.435328,1062.7543,1163.6171)">
+       transform="matrix(0.435328,0,0,0.435328,1064.4746,1165.4437)">
       <path
          id="path4805"
          d="M 0,26.703 C 0,11.953 11.953,0 26.705,0 41.453,0 53.408,11.953 53.408,26.703 53.408,41.453 41.453,53.408 26.705,53.408 11.953,53.408 0,41.453 0,26.703"
@@ -15682,7 +16043,7 @@
     <g
        style="display:inline"
        id="g4822"
-       transform="matrix(0.22809281,0,0,0.22809281,831.41617,701.77914)">
+       transform="matrix(0.28794516,0,0,0.28794516,783.09409,707.48734)">
       <path
          id="path4824"
          d="M 0,26.703 C 0,11.953 11.953,0 26.705,0 41.453,0 53.408,11.953 53.408,26.703 53.408,41.453 41.453,53.408 26.705,53.408 11.953,53.408 0,41.453 0,26.703"
@@ -16015,7 +16376,7 @@
     <g
        style="display:inline"
        id="g5188"
-       transform="matrix(0.15265059,-0.16953565,0.16953565,0.15265059,879.47798,685.76122)">
+       transform="matrix(0.19269801,-0.21401282,0.21401282,0.19269801,878.13489,686.79231)">
       <path
          id="path5190"
          d="M 0,26.703 C 0,11.951 11.918,0 26.68,0 41.438,0 53.399,11.951 53.399,26.703 53.399,41.447 41.438,53.406 26.68,53.406 11.918,53.406 0,41.447 0,26.703"
