@@ -112,12 +112,12 @@ simon.fossier@gmail.com </dc:title>
      pagecolor="#fdf6e3"
      id="base"
      showgrid="false"
-     inkscape:zoom="0.5458449"
-     inkscape:cx="966.44171"
-     inkscape:cy="886.80982"
+     inkscape:zoom="2.1833796"
+     inkscape:cx="939.27041"
+     inkscape:cy="1066.1167"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:current-layer="layer25"
+     inkscape:current-layer="layer31"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="0"
@@ -319,7 +319,7 @@ simon.fossier@gmail.com </dc:title>
      inkscape:groupmode="layer"
      id="layer30"
      inkscape:label="Paris intra-muros (sombre)"
-     style="display:inline">
+     style="display:none">
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#073642;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 8;stroke-dashoffset:0;display:inline"
@@ -370,7 +370,7 @@ simon.fossier@gmail.com </dc:title>
      inkscape:groupmode="layer"
      id="layer24"
      inkscape:label="Seine (sombre)"
-     style="display:inline">
+     style="display:none">
     <path
        id="path2839"
        style="fill:#002b36;fill-opacity:0.05882353;display:inline"
@@ -798,11 +798,6 @@ simon.fossier@gmail.com </dc:title>
      id="layer2"
      inkscape:label="Stations 3"
      style="display:inline">
-    <path
-       inkscape:connector-curvature="0"
-       d="m 676.68062,644.40473 c 0,2.58875 -2.09863,4.6875 -4.6875,4.6875 -2.58875,0 -4.6875,-2.09875 -4.6875,-4.6875 0,-2.58887 2.09875,-4.6875 4.6875,-4.6875 2.58887,0 4.6875,2.09863 4.6875,4.6875 z"
-       style="fill:#8a780f;fill-opacity:1;stroke:none;display:inline"
-       id="use2582" />
     <path
        id="path2747"
        style="fill:#b58900;fill-opacity:1;stroke:none;display:inline"
@@ -1241,7 +1236,7 @@ simon.fossier@gmail.com </dc:title>
        transform="matrix(1.25,0,0,1.25,-178.13723,-1257.7162)" />
     <path
        id="path2647"
-       style="fill:#fdf6e3;fill-opacity:1;stroke:#b58900;stroke-width:3.20000004999999987;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="fill:#fdf6e3;fill-opacity:1;stroke:#b58900;stroke-width:3.20000005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 1348.2247,1718.6728 c 0,1.795 -1.455,3.25 -3.25,3.25 -1.7949,0 -3.25,-1.455 -3.25,-3.25 0,-1.7949 1.4551,-3.25 3.25,-3.25 1.795,0 3.25,1.4551 3.25,3.25 z"
        inkscape:connector-curvature="0" />
     <path
@@ -1440,7 +1435,7 @@ simon.fossier@gmail.com </dc:title>
        inkscape:connector-curvature="0" />
     <path
        id="path2471"
-       style="fill:#fdf6e3;fill-opacity:1;stroke:#859900;stroke-width:3.20000004999999987;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="fill:#fdf6e3;fill-opacity:1;stroke:#859900;stroke-width:3.20000005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 1484.1756,1721.3423 c 0,1.795 -1.455,3.25 -3.25,3.25 -1.7949,0 -3.25,-1.455 -3.25,-3.25 0,-1.7949 1.4551,-3.25 3.25,-3.25 1.795,0 3.25,1.4551 3.25,3.25 z"
        inkscape:connector-curvature="0" />
     <use
@@ -1658,7 +1653,7 @@ simon.fossier@gmail.com </dc:title>
        transform="matrix(1.25,0,0,1.25,-1486.0899,-905.92854)" />
     <path
        id="path2551"
-       style="fill:#fdf6e3;fill-opacity:1;stroke:#d33682;stroke-width:3.20000004999999987;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="fill:#fdf6e3;fill-opacity:1;stroke:#d33682;stroke-width:3.20000005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 1844.6205,1062.3352 c 0,1.795 -1.455,3.25 -3.25,3.25 -1.7949,0 -3.25,-1.455 -3.25,-3.25 0,-1.7949 1.4551,-3.25 3.25,-3.25 1.795,0 3.25,1.4551 3.25,3.25 z"
        inkscape:connector-curvature="0" />
     <use
@@ -2940,7 +2935,7 @@ simon.fossier@gmail.com </dc:title>
        transform="matrix(1.25,0,0,1.25,-271.33491,-1342.5588)" />
     <path
        sodipodi:type="arc"
-       style="fill:#fdf6e3;fill-opacity:1;stroke:#dc322f;stroke-width:4.03569173999999986;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="fill:#fdf6e3;fill-opacity:1;stroke:#dc322f;stroke-width:4.03569174;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        id="path6329"
        sodipodi:cx="81.75"
        sodipodi:cy="560.5"
@@ -4119,12 +4114,12 @@ simon.fossier@gmail.com </dc:title>
        id="path5610-4"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;fill:#2aa198;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994000000003;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#2aa198;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 812.8125,1027.3125 c -1.24532,0.1696 -2.2903,0.8393 -3.03125,1.8125 -0.38582,0.6823 -0.7444,1.6237 -0.65625,2.5063 0.0682,1.1995 0.65956,2.2804 1.56104,2.9953 0.54415,0.42 1.43205,0.8761 2.15771,0.8734 0.28211,-0.5572 -0.0352,-1.2487 0.0937,-1.8625 0,-2.1188 0,-4.2375 0,-6.3563 l -0.097,0.024 -0.028,0.01 z"
        id="path5861"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;fill:#2aa198;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994000000003;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#2aa198;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 813.5,1031.4062 c 0,1.375 0,2.75 0,4.125 1.1249,-0.079 2.26389,-0.7427 2.875,-1.5 1.08684,-1.286 1.31175,-3.2461 0.375,-4.6874 -0.64633,-1.1848 -1.9279,-1.9018 -3.25,-2.0626 0,1.3751 0,2.75 0,4.125 z"
        id="path5863"
        inkscape:connector-curvature="0" />
@@ -4709,32 +4704,32 @@ simon.fossier@gmail.com </dc:title>
        id="path5403"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;fill:#cb4b16;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.69156687999999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#cb4b16;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.69156688;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 837.84375,771.5625 c -0.33963,0.60778 0.11765,1.34747 -0.0406,2.0186 -0.044,1.23281 -0.0122,2.46681 -0.0219,3.70015 1.57292,1.14583 3.14583,2.29167 4.71875,3.4375 1.44819,-2.01736 1.26516,-4.95286 -0.28438,-6.86407 -0.34039,-0.56567 -0.95788,-1.04297 -1.53122,-1.39074 -0.82749,-0.56071 -1.79569,-0.94581 -2.8094,-0.96394 l -0.0312,0.0625 z"
        id="path5277"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;fill:#6c71c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.69156687999999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#6c71c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.69156688;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 836.6875,771.53125 c -1.35036,0.0879 -2.54128,0.96609 -3.50191,1.73274 -0.91256,1.0563 -1.71038,2.43693 -1.73348,3.9418 -0.0643,1.0085 0.15251,2.0191 0.61039,2.91921 1.69792,-0.94792 3.39583,-1.89583 5.09375,-2.84375 0,-1.9375 0,-3.875 0,-5.8125 -0.16213,-0.0173 -0.31435,0.0166 -0.46875,0.0625 z"
        id="path5279"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;fill:#268bd2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.69156687999999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#268bd2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.69156688;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 832.46875,780.8125 c 0.52454,0.87252 1.31129,1.49437 2.125,1.96875 2.07821,1.21918 4.82875,0.88662 6.65848,-0.63209 0.25307,-0.18714 1.12967,-0.72659 0.56851,-1.01428 -1.45067,-1.0658 -2.90133,-2.13159 -4.35199,-3.19738 -1.66667,0.95833 -3.33333,1.91667 -5,2.875 z"
        id="path5281"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;fill:#6c71c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99585634;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#6c71c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99585634000000001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 877.84375,767.75 c -0.0467,1.14534 0.061,2.2944 -0.0312,3.4375 0.19227,0.65394 1.03931,0.86748 1.52955,1.34555 0.56307,0.40565 1.12613,0.8113 1.6892,1.21695 1.12865,-1.56583 0.69545,-3.98401 -0.6875,-5.15625 -0.73002,-0.52028 -1.52604,-1.10788 -2.46875,-1.0625 -0.0104,0.0729 -0.0208,0.14583 -0.0312,0.21875 z"
        id="path4710-0"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;fill:#8a780f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99585634;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#b58900;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99585634000000001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 877,767.53125 c -1.14831,0.1922 -2.13243,0.85055 -2.75,1.6875 -0.92544,1.1406 -1.05713,2.80393 -0.4375,4.125 1.15625,-0.63542 2.3125,-1.27083 3.46875,-1.90625 0,-1.3125 0,-2.625 0,-3.9375 -0.0961,-0.0117 -0.18817,0.012 -0.28125,0.0312 z"
        id="path4712-8"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;fill:#dc322f;fill-opacity:0.94117647;fill-rule:nonzero;stroke:none;stroke-width:0.99585634;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#dc322f;fill-opacity:0.94117647000000004;fill-rule:nonzero;stroke:none;stroke-width:0.99585634000000001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 874.1875,773.9375 c 0.52435,0.9425 1.63329,1.5111 2.75524,1.76414 1.37495,0.2605 2.73823,-0.4298 3.71351,-1.29539 0.12045,-0.31746 -0.71342,-0.43757 -0.92601,-0.78615 -0.72258,-0.54003 -1.44516,-1.08007 -2.16774,-1.6201 -1.125,0.64583 -2.25,1.29167 -3.375,1.9375 z"
        id="path4714-8"
        inkscape:connector-curvature="0" />
@@ -4784,12 +4779,12 @@ simon.fossier@gmail.com </dc:title>
        id="path4917"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;fill:#2aa198;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994000000003;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#2aa198;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 762.9375,553.3125 c -1.0456,0.11964 -2.08883,0.72151 -2.65625,1.4375 -1.24176,1.35835 -1.38151,3.58544 -0.19188,5.01887 0.66508,0.99703 1.80798,1.60789 2.97313,1.76238 0.16221,-1.06855 0.009,-2.19961 0.0625,-3.29375 0,-1.65208 0,-3.30417 0,-4.95625 l -0.0986,0.0164 -0.0889,0.0148 z"
        id="path5966"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;fill:#b58900;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994000000003;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#b58900;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 763.6875,557.40625 c 0,1.375 0,2.75 0,4.125 1.19287,-0.14194 2.23233,-0.7202 2.96875,-1.625 0.55658,-0.78365 1.07519,-1.94073 0.81894,-3.01096 -0.21467,-1.37714 -1.04706,-2.68205 -2.31894,-3.17654 -0.42816,-0.28762 -0.96909,-0.34282 -1.46875,-0.4375 0,1.375 0,2.75 0,4.125 z"
        id="path5968"
        inkscape:connector-curvature="0" />
@@ -5000,6 +4995,326 @@ simon.fossier@gmail.com </dc:title>
        width="1927"
        height="1770"
        xlink:href="#path2717" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g8782"
+       id="use8787-6"
+       transform="matrix(0.94373605,-0.33069966,0.33069966,0.94373605,-156.61639,360.13098)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g8782"
+       id="use8787-80"
+       transform="matrix(0.68642009,-0.72720523,0.72720523,0.68642009,-214.05529,886.57262)"
+       width="1927"
+       height="1770" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer36"
+     inkscape:label="Marqueurs (sombre)">
+    <g
+       id="g8460"
+       style="stroke:#002b36"
+       transform="translate(-49.550403,-23.925072)">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path8456"
+         d="m 640.63529,738.45697 -5.32431,-2.63354"
+         style="fill:none;stroke:#002b36;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       transform="matrix(-0.98131066,-0.19243022,0.19243022,-0.98131066,1147.7431,1594.1744)"
+       style="stroke:#002b36"
+       id="use8464">
+      <path
+         style="fill:none;stroke:#002b36;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 640.50585,738.54069 c -1.72026,-1.63522 -3.46897,-2.3579 -5.19487,-2.71726"
+         id="path8534"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path8538"
+         d="m 659.64981,741.40837 c -2.45335,-0.7622 -3.87487,-0.41139 -5.72799,0.21682"
+         style="fill:none;stroke:#002b36;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g8460"
+       id="use8464-8-43"
+       transform="matrix(-0.99903192,0.04399116,-0.04399116,-0.99903192,1428.4246,1496.4245)"
+       width="1927"
+       height="1770"
+       inkscape:transform-center-x="-3.0368079"
+       inkscape:transform-center-y="1.469314" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g8460"
+       id="use8464-8-5"
+       transform="matrix(-0.99847905,0.05513253,-0.05513253,-0.99847905,1456.5607,1497.9722)"
+       width="1927"
+       height="1770"
+       inkscape:transform-center-x="-3.0530486"
+       inkscape:transform-center-y="1.4352775" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g8460"
+       id="use8536"
+       transform="translate(-17.326448,-8.5822594)"
+       width="1927"
+       height="1770" />
+    <use
+       inkscape:transform-center-y="-1.4508627"
+       inkscape:transform-center-x="2.7034058"
+       height="1770"
+       width="1927"
+       transform="matrix(-0.99906172,0.04330924,-0.04330924,-0.99906172,1574.4064,1564.4677)"
+       id="use8558-6"
+       xlink:href="#g8460"
+       y="0"
+       x="0"
+       style="display:inline" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g8460"
+       id="use8578"
+       transform="matrix(-0.99382811,0.11093108,-0.11093108,-0.99382811,1638.3421,1527.4069)"
+       width="1927"
+       height="1770"
+       inkscape:transform-center-x="-3.1285974"
+       inkscape:transform-center-y="1.2621335" />
+    <use
+       inkscape:transform-center-y="-1.3851501"
+       inkscape:transform-center-x="2.9883113"
+       height="1770"
+       width="1927"
+       transform="matrix(-0.99749787,0.07069658,-0.07069658,-0.99749787,1620.3199,1557.0183)"
+       id="use8591"
+       xlink:href="#g8460"
+       y="0"
+       x="0"
+       style="display:inline" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g8460"
+       id="use8593"
+       transform="matrix(-0.99971798,0.02374802,-0.02374802,-0.99971798,1605.3316,1593.7584)"
+       width="1927"
+       height="1770"
+       inkscape:transform-center-x="-2.5829961"
+       inkscape:transform-center-y="1.2475399" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g8460"
+       id="use8593-0"
+       transform="matrix(-0.74965852,-0.66182483,0.66182483,-0.74965852,1071.8349,1863.6919)"
+       width="1927"
+       height="1770"
+       inkscape:transform-center-x="-1.0475947"
+       inkscape:transform-center-y="2.6703803" />
+    <use
+       inkscape:transform-center-y="-1.598881"
+       inkscape:transform-center-x="2.8855091"
+       height="1770"
+       width="1927"
+       transform="matrix(-0.99612035,-0.08800143,0.08800143,-0.99612035,1611.2477,1685.0855)"
+       id="use8613"
+       xlink:href="#g8460"
+       y="0"
+       x="0"
+       style="display:inline" />
+    <g
+       id="g8723"
+       inkscape:transform-center-x="1.9860637"
+       inkscape:transform-center-y="2.4299885"
+       transform="matrix(0.99986933,0.0161654,-0.0161654,0.99986933,12.126253,-10.428888)">
+      <g
+         inkscape:transform-center-y="2.5112849"
+         inkscape:transform-center-x="2.151475"
+         transform="matrix(0.97702032,0.2131462,-0.2131462,0.97702032,182.44869,-107.58911)"
+         style="stroke:#002b36;display:inline"
+         id="g8460-7">
+        <path
+           style="fill:none;stroke:#002b36;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 636.37012,738.2031 2.63354,-5.32431"
+           id="path8456-0"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         id="g8719"
+         style="stroke:#002b36;display:inline"
+         transform="matrix(0.97702032,0.2131462,-0.2131462,0.97702032,183.38118,-106.85861)"
+         inkscape:transform-center-x="2.151475"
+         inkscape:transform-center-y="2.5112849">
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path8721"
+           d="m 636.37012,738.2031 2.63354,-5.32431"
+           style="fill:none;stroke:#002b36;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g8723"
+       inkscape:transform-center-x="-0.47825984"
+       inkscape:transform-center-y="-3.1017296"
+       id="use8729"
+       transform="matrix(-0.86168036,0.50745143,-0.50745143,-0.86168036,1598.4537,1042.5914)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g8723"
+       inkscape:transform-center-x="3.1288929"
+       inkscape:transform-center-y="-0.24275482"
+       id="use8729-6"
+       transform="matrix(0.57104759,0.82091695,-0.82091695,0.57104759,1323.3803,-314.48577)"
+       width="1927"
+       height="1770" />
+    <use
+       height="1770"
+       width="1927"
+       transform="matrix(0.01767836,0.76611842,-0.76611842,0.01767836,1661.2786,144.1547)"
+       id="use8749"
+       xlink:href="#g8723"
+       y="0"
+       x="0"
+       style="display:inline" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g8723"
+       inkscape:transform-center-x="0.30145433"
+       inkscape:transform-center-y="3.1237853"
+       id="use8729-6-1"
+       transform="matrix(0.83149243,-0.55553607,0.55553607,0.83149243,154.06647,413.55006)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g8782"
+       id="use8787-5"
+       transform="matrix(0.68063013,-0.73262721,0.73262721,0.68063013,-84.663159,937.48387)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g8782"
+       id="use8787-5-6"
+       transform="matrix(0.07109075,-0.99746985,0.99746985,0.07109075,249.46104,1597.9533)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g8782"
+       id="use8787-5-9"
+       transform="matrix(0.03334125,-0.99944402,0.99944402,0.03334125,306.61475,1617.2122)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g8782"
+       id="use8787-5-9-3"
+       transform="matrix(0.3882878,-0.92153815,0.92153815,0.3882878,84.16674,1292.1066)"
+       width="1927"
+       height="1770" />
+    <rect
+       style="color:#000000;fill:none;stroke:#002b36;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect8885"
+       width="3.6883185"
+       height="1.0985534"
+       x="-377.24399"
+       y="1362.2163"
+       rx="0"
+       ry="0"
+       transform="matrix(0.59295913,-0.80523256,0.80515998,0.59305767,0,0)" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#rect8885"
+       id="use8918"
+       width="1"
+       height="1"
+       transform="matrix(-0.6388742,0.76931122,-0.76931122,-0.6388742,2292.5165,1127.336)" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#rect8885"
+       id="use8918-6"
+       width="1"
+       height="1"
+       transform="matrix(-0.6388742,0.76931122,-0.76931122,-0.6388742,2286.1045,1104.951)" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#rect8885"
+       id="use8918-0"
+       width="1"
+       height="1"
+       transform="matrix(-0.6388742,0.76931122,-0.76931122,-0.6388742,2281.3527,1087.7758)" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#rect8885"
+       id="use8918-0-5"
+       width="1"
+       height="1"
+       transform="matrix(0.17909636,0.98383154,-0.98383154,0.17909636,1847.1406,-125.8497)" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#rect8885"
+       id="use8918-0-5-4"
+       width="1"
+       height="1"
+       transform="matrix(0.81905471,0.57371542,-0.57371542,0.81905471,849.2202,-477.02218)" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#rect8885"
+       id="use8918-0-5-6"
+       width="1"
+       height="1"
+       transform="matrix(-0.91263279,0.40878038,-0.40878038,-0.91263279,2215.4185,1544.836)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -5147,13 +5462,13 @@ simon.fossier@gmail.com </dc:title>
     <text
        sodipodi:linespacing="105%"
        id="text6596"
-       y="739.28241"
-       x="706.42712"
+       y="743.33459"
+       x="705.38574"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#586e75;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
-         y="739.28241"
-         x="706.42712"
+         y="743.33459"
+         x="705.38574"
          id="tspan6598"
          sodipodi:role="line">Georges V</tspan></text>
     <text
@@ -7435,15 +7750,15 @@ simon.fossier@gmail.com </dc:title>
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       x="687.86041"
-       y="750.90491"
+       x="685.8609"
+       y="752.47858"
        id="text6544"
        sodipodi:linespacing="105%"
        transform="scale(0.97182532,1.0289915)"><tspan
          sodipodi:role="line"
          id="tspan6546"
-         x="687.86041"
-         y="750.90491">Kléber</tspan></text>
+         x="685.8609"
+         y="752.47858">Kléber</tspan></text>
     <text
        sodipodi:linespacing="105%"
        id="text6368"
@@ -8823,20 +9138,20 @@ simon.fossier@gmail.com </dc:title>
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#657b83;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       x="721.36029"
-       y="758.16534"
+       x="722.77661"
+       y="765.08948"
        id="text4341-3"
        sodipodi:linespacing="103%"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan4343-5"
          sodipodi:role="line"
-         x="721.36029"
-         y="758.16534"
+         x="722.77661"
+         y="765.08948"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;fill:#657b83;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Franklin D.</tspan><tspan
          id="tspan4345-5"
          sodipodi:role="line"
-         x="721.36029"
-         y="765.37238"
+         x="722.77661"
+         y="772.29651"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;fill:#657b83;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Roosevelt</tspan></text>
     <text
        xml:space="preserve"
@@ -9994,6 +10309,61 @@ simon.fossier@gmail.com </dc:title>
          x="1804.9435"
          y="535.84741"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Noisy-le-Sec</tspan></text>
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g8460"
+       id="use8593-1"
+       transform="matrix(-0.96955117,0.24488886,-0.24488886,-0.96955117,1874.5915,1552.0847)"
+       width="1927"
+       height="1770"
+       inkscape:transform-center-x="-2.7953404"
+       inkscape:transform-center-y="0.64356237" />
+    <use
+       inkscape:transform-center-y="-2.9997387"
+       inkscape:transform-center-x="1.4307"
+       height="1770"
+       width="1927"
+       transform="matrix(-0.7879582,-0.61572874,0.61572874,-0.7879582,1138.7918,1916.6652)"
+       id="use8622"
+       xlink:href="#g8460"
+       y="0"
+       x="0"
+       style="display:inline" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g8460"
+       id="use8593-5-6"
+       transform="matrix(-0.95999889,0.28000383,-0.28000383,-0.95999889,2031.227,1493.2147)"
+       width="1927"
+       height="1770"
+       inkscape:transform-center-x="-2.8168912"
+       inkscape:transform-center-y="0.54140961" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g8460"
+       id="use8593-5-6-2"
+       transform="matrix(0.93099986,-0.36501955,0.36501955,0.93099986,436.21108,520.57249)"
+       width="1927"
+       height="1770"
+       inkscape:transform-center-x="2.8541256"
+       inkscape:transform-center-y="-0.28646432" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g8723"
+       inkscape:transform-center-x="-1.7694498"
+       inkscape:transform-center-y="-2.5919637"
+       id="use8729-6-2"
+       transform="matrix(-0.99628542,0.08611243,-0.08611243,-0.99628542,1974.1685,1651.3918)"
+       width="1927"
+       height="1770" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -10084,8 +10454,8 @@ simon.fossier@gmail.com </dc:title>
     <rect
        ry="5.4746704"
        rx="5.4746704"
-       y="888.10138"
-       x="926.10425"
+       y="888.78839"
+       x="923.0127"
        height="10.949341"
        width="41.773685"
        id="rect6302-8"
@@ -10120,8 +10490,8 @@ simon.fossier@gmail.com </dc:title>
     <rect
        ry="7.0640082"
        rx="7.0640082"
-       y="714.62122"
-       x="660.25281"
+       y="716.625"
+       x="662.6001"
        height="19.147398"
        width="47.974293"
        id="rect5985-4-4-6"
@@ -10129,8 +10499,8 @@ simon.fossier@gmail.com </dc:title>
     <rect
        ry="5.4746704"
        rx="5.4746704"
-       y="714.2226"
-       x="793.5614"
+       y="712.73407"
+       x="791.95837"
        height="10.949341"
        width="43.600311"
        id="rect6302-3"
@@ -10647,32 +11017,32 @@ simon.fossier@gmail.com </dc:title>
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#657b83;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       x="682.85846"
-       y="702.68835"
+       x="685.2738"
+       y="704.63568"
        id="text4355-2"
        sodipodi:linespacing="103%"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan4357-6"
          sodipodi:role="line"
-         x="682.85846"
-         y="702.68835"
+         x="685.2738"
+         y="704.63568"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;fill:#657b83;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Charles de </tspan><tspan
          id="tspan4359-8"
          sodipodi:role="line"
-         x="682.85846"
-         y="709.89539"
+         x="685.2738"
+         y="711.84271"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;fill:#657b83;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Gaulle Étoile</tspan></text>
     <text
        sodipodi:linespacing="105%"
        id="text6298-6"
-       y="701.82874"
-       x="819.14929"
+       y="700.38214"
+       x="817.49982"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#657b83;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#657b83;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
-         y="701.82874"
-         x="819.14929"
+         y="700.38214"
+         x="817.49982"
          sodipodi:role="line"
          id="tspan6300-4">ST-LAZARE</tspan></text>
     <text
@@ -10698,14 +11068,14 @@ simon.fossier@gmail.com </dc:title>
     <text
        sodipodi:linespacing="105%"
        id="text6298-3"
-       y="870.80853"
-       x="955.53479"
+       y="871.4762"
+       x="952.35364"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
-         y="870.80853"
-         x="955.53479"
+         y="871.4762"
+         x="952.35364"
          sodipodi:role="line"
          id="tspan6300-1">CHÂTELET</tspan></text>
     <text
@@ -11126,6 +11496,88 @@ simon.fossier@gmail.com </dc:title>
          x="1195.8002"
          y="84.684677"
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#657b83;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic">SAINT-DENIS UNIVERSITÉ</tspan></text>
+    <g
+       id="g8782"
+       style="stroke:#002b36"
+       transform="translate(0.10120589,0.04048236)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8776"
+         d="m 835.41413,724.05739 1.78122,-0.74893"
+         style="fill:none;stroke:#002b36;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         style="fill:none;stroke:#002b36;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 835.00931,723.08581 1.78122,-0.74893"
+         id="path8778"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path8780"
+         d="m 834.58425,722.13447 1.78122,-0.74893"
+         style="fill:none;stroke:#002b36;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g8782"
+       id="use8787"
+       transform="matrix(0.94373605,-0.33069966,0.33069966,0.94373605,-181.3746,332.2273)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g8782"
+       id="use8787-8"
+       transform="matrix(0.94373605,-0.33069966,0.33069966,0.94373605,-168.38141,347.0492)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#rect8885"
+       id="use8918-0-5-2"
+       width="1"
+       height="1"
+       transform="matrix(-0.4899702,0.87173918,-0.87173918,-0.4899702,2359.3302,652.28773)" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#rect8885"
+       id="use8918-0-5-9"
+       width="1"
+       height="1"
+       transform="matrix(-0.93765034,0.34757999,-0.34757999,-0.93765034,2234.7518,1468.0525)" />
+    <use
+       transform="matrix(-0.51311515,0.85831979,-0.85831979,-0.51311515,2427.9291,530.86945)"
+       height="1"
+       width="1"
+       id="use9031"
+       xlink:href="#rect8885"
+       y="0"
+       x="0"
+       style="display:inline" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#rect8885"
+       id="use9033"
+       width="1"
+       height="1"
+       transform="matrix(-0.51311515,0.85831979,-0.85831979,-0.51311515,2420.3994,512.49046)" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#rect8885"
+       id="use9033-9"
+       width="1"
+       height="1"
+       transform="matrix(-0.18789131,0.98218984,-0.98218984,-0.18789131,2265.6046,27.366181)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -11176,7 +11628,7 @@ simon.fossier@gmail.com </dc:title>
        id="use6295"
        width="1"
        height="1"
-       transform="matrix(0.61723712,0,0,0.61723712,61.02968,469.19103)" />
+       transform="matrix(0.61723712,0,0,0.61723712,57.938142,469.87804)" />
     <use
        style="display:inline"
        x="0"
@@ -11303,16 +11755,16 @@ simon.fossier@gmail.com </dc:title>
            id="text5934"
            y="39.59124"
            x="16.65181"
-           style="font-size:27.56542205999999950px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fdf6e3;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           style="font-size:27.56542206px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fdf6e3;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
            xml:space="preserve"><tspan
-             style="font-size:36.75389480999999847px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#fdf6e3;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold"
+             style="font-size:36.75389481px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#fdf6e3;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold"
              y="39.59124"
              x="16.65181"
              id="tspan5936"
              sodipodi:role="line">7</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:27.56542205999999950px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fdf6e3;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           style="font-size:27.56542206px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fdf6e3;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
            x="36.74012"
            y="31.574297"
            id="text5938"
@@ -11321,7 +11773,7 @@ simon.fossier@gmail.com </dc:title>
              id="tspan5940"
              x="36.74012"
              y="31.574297"
-             style="font-size:13.78271102999999975px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold;fill:#fdf6e3">bis</tspan></text>
+             style="font-size:13.78271103px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#fdf6e3;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold">bis</tspan></text>
       </g>
     </g>
     <use
@@ -11347,7 +11799,7 @@ simon.fossier@gmail.com </dc:title>
          style="fill:#fdf6e3">
         <text
            xml:space="preserve"
-           style="font-size:27.56542205999999950px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fdf6e3;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           style="font-size:27.56542206px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fdf6e3;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
            x="16.65181"
            y="39.59124"
            id="text4935-7-0-41-7-8-9-3-0-8-6-5-9-2-7-1-3-2"
@@ -11356,15 +11808,15 @@ simon.fossier@gmail.com </dc:title>
              id="tspan4937-3-30-8-5-3-6-3-4-9-4-4-4-2-5-2-6-1"
              x="16.65181"
              y="39.59124"
-             style="font-size:36.75389480999999847px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#fdf6e3;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold">3</tspan></text>
+             style="font-size:36.75389481px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#fdf6e3;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold">3</tspan></text>
         <text
            sodipodi:linespacing="125%"
            id="text5899"
            y="31.574297"
            x="36.74012"
-           style="font-size:27.56542205999999950px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fdf6e3;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           style="font-size:27.56542206px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fdf6e3;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
            xml:space="preserve"><tspan
-             style="font-size:13.78271102999999975px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold;fill:#fdf6e3"
+             style="font-size:13.78271103px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#fdf6e3;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold"
              y="31.574297"
              x="36.74012"
              id="tspan5901"
@@ -11451,9 +11903,9 @@ simon.fossier@gmail.com </dc:title>
          id="text4935-7-0-41-7-8-9-3-0-8"
          y="39.59124"
          x="16.65181"
-         style="font-size:27.56542205999999950px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fdf6e3;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         style="font-size:27.56542206px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fdf6e3;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
          xml:space="preserve"><tspan
-           style="font-size:36.75389480999999847px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#fdf6e3;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold"
+           style="font-size:36.75389481px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#fdf6e3;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold"
            y="39.59124"
            x="16.65181"
            id="tspan4937-3-30-8-5-3-6-3-4-9"
@@ -11473,9 +11925,9 @@ simon.fossier@gmail.com </dc:title>
          id="text4935-7-0-41-7-8-9-3"
          y="39.59124"
          x="16.65181"
-         style="font-size:27.56542205999999950px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         style="font-size:27.56542206px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
          xml:space="preserve"><tspan
-           style="font-size:36.75389480999999847px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold;fill-opacity:1"
+           style="font-size:36.75389481px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold"
            y="39.59124"
            x="16.65181"
            id="tspan4937-3-30-8-5-3-6-3"
@@ -11735,7 +12187,7 @@ simon.fossier@gmail.com </dc:title>
          inkscape:connector-curvature="0" />
       <text
          xml:space="preserve"
-         style="font-size:27.56542205999999950px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         style="font-size:27.56542206px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
          x="5.7608838"
          y="40.013908"
          id="text8142"
@@ -11744,14 +12196,14 @@ simon.fossier@gmail.com </dc:title>
            id="tspan8144"
            x="5.7608838"
            y="40.013908"
-           style="font-size:36.75389480999999847px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold;fill-opacity:1">14</tspan></text>
+           style="font-size:36.75389481px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold">14</tspan></text>
     </g>
     <g
        id="g8180"
        transform="translate(-27.366072,3.7243767)">
       <path
          transform="matrix(0.97320172,0,0,0.97320172,1.6702522,15.117897)"
-         d="m 67.52457,588.401 c 0,6.26018 -5.074879,11.33506 -11.33506,11.33506 -6.26018,0 -11.335059,-5.07488 -11.335059,-11.33506 0,-6.26018 5.074879,-11.33506 11.335059,-11.33506 6.260181,0 11.33506,5.07488 11.33506,11.33506 z"
+         d="m 67.52457,588.401 a 11.335059,11.335059 0 1 1 -22.670119,0 11.335059,11.335059 0 1 1 22.670119,0 z"
          sodipodi:ry="11.335059"
          sodipodi:rx="11.335059"
          sodipodi:cy="588.401"
@@ -11805,7 +12257,7 @@ simon.fossier@gmail.com </dc:title>
        transform="translate(-23.835585,857.9813)">
       <path
          transform="matrix(0.97320172,0,0,0.97320172,1.6702522,15.117897)"
-         d="m 67.52457,588.401 c 0,6.26018 -5.074879,11.33506 -11.33506,11.33506 -6.26018,0 -11.335059,-5.07488 -11.335059,-11.33506 0,-6.26018 5.074879,-11.33506 11.335059,-11.33506 6.260181,0 11.33506,5.07488 11.33506,11.33506 z"
+         d="m 67.52457,588.401 a 11.335059,11.335059 0 1 1 -22.670119,0 11.335059,11.335059 0 1 1 22.670119,0 z"
          sodipodi:ry="11.335059"
          sodipodi:rx="11.335059"
          sodipodi:cy="588.401"
@@ -11856,7 +12308,7 @@ simon.fossier@gmail.com </dc:title>
          sodipodi:cy="588.401"
          sodipodi:rx="11.335059"
          sodipodi:ry="11.335059"
-         d="m 67.52457,588.401 c 0,6.26018 -5.074879,11.33506 -11.33506,11.33506 -6.26018,0 -11.335059,-5.07488 -11.335059,-11.33506 0,-6.26018 5.074879,-11.33506 11.335059,-11.33506 6.260181,0 11.33506,5.07488 11.33506,11.33506 z"
+         d="m 67.52457,588.401 a 11.335059,11.335059 0 1 1 -22.670119,0 11.335059,11.335059 0 1 1 22.670119,0 z"
          transform="matrix(0.97320172,0,0,0.97320172,1.6702522,15.117897)" />
       <text
          xml:space="preserve"
@@ -11886,7 +12338,7 @@ simon.fossier@gmail.com </dc:title>
        transform="translate(1807.0416,-389.62586)">
       <path
          transform="matrix(0.97320172,0,0,0.97320172,1.6702522,15.117897)"
-         d="m 67.52457,588.401 c 0,6.26018 -5.074879,11.33506 -11.33506,11.33506 -6.26018,0 -11.335059,-5.07488 -11.335059,-11.33506 0,-6.26018 5.074879,-11.33506 11.335059,-11.33506 6.260181,0 11.33506,5.07488 11.33506,11.33506 z"
+         d="m 67.52457,588.401 a 11.335059,11.335059 0 1 1 -22.670119,0 11.335059,11.335059 0 1 1 22.670119,0 z"
          sodipodi:ry="11.335059"
          sodipodi:rx="11.335059"
          sodipodi:cy="588.401"
@@ -11937,7 +12389,7 @@ simon.fossier@gmail.com </dc:title>
          sodipodi:cy="588.401"
          sodipodi:rx="11.335059"
          sodipodi:ry="11.335059"
-         d="m 67.52457,588.401 c 0,6.26018 -5.074879,11.33506 -11.33506,11.33506 -6.26018,0 -11.335059,-5.07488 -11.335059,-11.33506 0,-6.26018 5.074879,-11.33506 11.335059,-11.33506 6.260181,0 11.33506,5.07488 11.33506,11.33506 z"
+         d="m 67.52457,588.401 a 11.335059,11.335059 0 1 1 -22.670119,0 11.335059,11.335059 0 1 1 22.670119,0 z"
          transform="matrix(0.97320172,0,0,0.97320172,1.6702522,15.117897)" />
       <text
          xml:space="preserve"
