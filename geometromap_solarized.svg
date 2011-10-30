@@ -112,12 +112,12 @@ simon.fossier@gmail.com </dc:title>
      pagecolor="#fdf6e3"
      id="base"
      showgrid="false"
-     inkscape:zoom="6.17553"
-     inkscape:cx="997.98483"
-     inkscape:cy="902.02105"
+     inkscape:zoom="8.8406779"
+     inkscape:cx="845.93737"
+     inkscape:cy="994.25456"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer37"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="0"
@@ -1241,7 +1241,7 @@ simon.fossier@gmail.com </dc:title>
        transform="matrix(1.25,0,0,1.25,-178.13723,-1257.7162)" />
     <path
        id="path2647"
-       style="fill:#002b36;fill-opacity:1;stroke:#b58900;stroke-width:3.20000005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="fill:#fdf6e3;fill-opacity:1;stroke:#b58900;stroke-width:3.20000004999999987;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 1348.2247,1718.6728 c 0,1.795 -1.455,3.25 -3.25,3.25 -1.7949,0 -3.25,-1.455 -3.25,-3.25 0,-1.7949 1.4551,-3.25 3.25,-3.25 1.795,0 3.25,1.4551 3.25,3.25 z"
        inkscape:connector-curvature="0" />
     <path
@@ -1440,7 +1440,7 @@ simon.fossier@gmail.com </dc:title>
        inkscape:connector-curvature="0" />
     <path
        id="path2471"
-       style="fill:#002b36;fill-opacity:1;stroke:#859900;stroke-width:3.20000005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="fill:#fdf6e3;fill-opacity:1;stroke:#859900;stroke-width:3.20000004999999987;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 1484.1756,1721.3423 c 0,1.795 -1.455,3.25 -3.25,3.25 -1.7949,0 -3.25,-1.455 -3.25,-3.25 0,-1.7949 1.4551,-3.25 3.25,-3.25 1.795,0 3.25,1.4551 3.25,3.25 z"
        inkscape:connector-curvature="0" />
     <use
@@ -1687,7 +1687,7 @@ simon.fossier@gmail.com </dc:title>
        transform="matrix(1.25,0,0,1.25,-1026.3417,-802.41572)" />
     <path
        id="path2506"
-       style="fill:#073642;fill-opacity:1;stroke:#268bd2;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       style="fill:#fdf6e3;fill-opacity:1;stroke:#268bd2;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
        d="m 716.91975,1746.77 c 0,1.5894 -1.28837,2.8779 -2.87781,2.8779 -1.58935,0 -2.87781,-1.2885 -2.87781,-2.8779 0,-1.5894 1.28846,-2.8779 2.87781,-2.8779 1.58944,0 2.87781,1.2885 2.87781,2.8779 z"
        inkscape:connector-curvature="0" />
     <use
@@ -2940,7 +2940,7 @@ simon.fossier@gmail.com </dc:title>
        transform="matrix(1.25,0,0,1.25,-271.33491,-1342.5588)" />
     <path
        sodipodi:type="arc"
-       style="fill:#002b36;fill-opacity:1;stroke:#dc322f;stroke-width:4.03569174;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="fill:#fdf6e3;fill-opacity:1;stroke:#dc322f;stroke-width:4.03569173999999986;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        id="path6329"
        sodipodi:cx="81.75"
        sodipodi:cy="560.5"
@@ -2948,11 +2948,6 @@ simon.fossier@gmail.com </dc:title>
        sodipodi:ry="4.5"
        d="m 86.5,560.5 a 4.75,4.5 0 1 1 -9.5,0 4.75,4.5 0 1 1 9.5,0 z"
        transform="matrix(0.77177632,0,0,0.8146528,1728.0088,904.77989)" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m -11.844975,13.926925 c 0,3.62425 -2.93808,6.5625 -6.5625,6.5625 -3.62425,0 -6.5625,-2.93825 -6.5625,-6.5625 0,-3.62442 2.93825,-6.5625005 6.5625,-6.5625005 3.62442,0 6.5625,2.9380805 6.5625,6.5625005 z"
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="use3916" />
     <text
        xml:space="preserve"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
@@ -4714,17 +4709,17 @@ simon.fossier@gmail.com </dc:title>
        id="path5403"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;fill:#016a3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.69156688;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#cb4b16;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.69156687999999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 837.84375,771.5625 c -0.33963,0.60778 0.11765,1.34747 -0.0406,2.0186 -0.044,1.23281 -0.0122,2.46681 -0.0219,3.70015 1.57292,1.14583 3.14583,2.29167 4.71875,3.4375 1.44819,-2.01736 1.26516,-4.95286 -0.28438,-6.86407 -0.34039,-0.56567 -0.95788,-1.04297 -1.53122,-1.39074 -0.82749,-0.56071 -1.79569,-0.94581 -2.8094,-0.96394 l -0.0312,0.0625 z"
        id="path5277"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;fill:#46007d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.69156688;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#6c71c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.69156687999999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 836.6875,771.53125 c -1.35036,0.0879 -2.54128,0.96609 -3.50191,1.73274 -0.91256,1.0563 -1.71038,2.43693 -1.73348,3.9418 -0.0643,1.0085 0.15251,2.0191 0.61039,2.91921 1.69792,-0.94792 3.39583,-1.89583 5.09375,-2.84375 0,-1.9375 0,-3.875 0,-5.8125 -0.16213,-0.0173 -0.31435,0.0166 -0.46875,0.0625 z"
        id="path5279"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;fill:#b88bc2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.69156688;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#268bd2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.69156687999999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 832.46875,780.8125 c 0.52454,0.87252 1.31129,1.49437 2.125,1.96875 2.07821,1.21918 4.82875,0.88662 6.65848,-0.63209 0.25307,-0.18714 1.12967,-0.72659 0.56851,-1.01428 -1.45067,-1.0658 -2.90133,-2.13159 -4.35199,-3.19738 -1.66667,0.95833 -3.33333,1.91667 -5,2.875 z"
        id="path5281"
        inkscape:connector-curvature="0" />
@@ -11293,26 +11288,27 @@ simon.fossier@gmail.com </dc:title>
       <path
          id="path5930"
          d="M 0,26.703 C 0,11.965 11.957,0 26.705,0 41.457,0 53.408,11.965 53.408,26.703 53.408,41.465 41.457,53.418 26.705,53.418 11.957,53.418 0,41.465 0,26.703"
-         style="fill:#6eba6f;fill-opacity:1"
+         style="fill:#859900;fill-opacity:1"
          inkscape:connector-curvature="0" />
       <g
          transform="translate(-10.232555,0)"
-         id="g5932">
+         id="g5932"
+         style="fill:#fdf6e3">
         <text
            sodipodi:linespacing="125%"
            id="text5934"
            y="39.59124"
            x="16.65181"
-           style="font-size:27.56542206px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           style="font-size:27.56542205999999950px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fdf6e3;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
            xml:space="preserve"><tspan
-             style="font-size:36.75389481px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold"
+             style="font-size:36.75389480999999847px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#fdf6e3;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold"
              y="39.59124"
              x="16.65181"
              id="tspan5936"
              sodipodi:role="line">7</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:27.56542206px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           style="font-size:27.56542205999999950px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fdf6e3;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
            x="36.74012"
            y="31.574297"
            id="text5938"
@@ -11321,7 +11317,7 @@ simon.fossier@gmail.com </dc:title>
              id="tspan5940"
              x="36.74012"
              y="31.574297"
-             style="font-size:13.78271103px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold">bis</tspan></text>
+             style="font-size:13.78271102999999975px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold;fill:#fdf6e3">bis</tspan></text>
       </g>
     </g>
     <use
@@ -11338,15 +11334,16 @@ simon.fossier@gmail.com </dc:title>
        style="display:inline">
       <path
          inkscape:connector-curvature="0"
-         style="fill:#6ebfb9;fill-opacity:1"
+         style="fill:#2aa198;fill-opacity:1"
          d="M 0,26.703 C 0,11.965 11.957,0 26.705,0 41.457,0 53.408,11.965 53.408,26.703 53.408,41.465 41.457,53.418 26.705,53.418 11.957,53.418 0,41.465 0,26.703"
          id="path4933-6-1-7-9-8-8-3-6-8-7-2-5-9-7-8-9-0" />
       <g
          id="g5903"
-         transform="translate(-10.232555,0)">
+         transform="translate(-10.232555,0)"
+         style="fill:#fdf6e3">
         <text
            xml:space="preserve"
-           style="font-size:27.56542206px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           style="font-size:27.56542205999999950px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fdf6e3;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
            x="16.65181"
            y="39.59124"
            id="text4935-7-0-41-7-8-9-3-0-8-6-5-9-2-7-1-3-2"
@@ -11355,15 +11352,15 @@ simon.fossier@gmail.com </dc:title>
              id="tspan4937-3-30-8-5-3-6-3-4-9-4-4-4-2-5-2-6-1"
              x="16.65181"
              y="39.59124"
-             style="font-size:36.75389481px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold">3</tspan></text>
+             style="font-size:36.75389480999999847px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#fdf6e3;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold">3</tspan></text>
         <text
            sodipodi:linespacing="125%"
            id="text5899"
            y="31.574297"
            x="36.74012"
-           style="font-size:27.56542206px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           style="font-size:27.56542205999999950px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fdf6e3;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
            xml:space="preserve"><tspan
-             style="font-size:13.78271103px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold"
+             style="font-size:13.78271102999999975px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold;fill:#fdf6e3"
              y="31.574297"
              x="36.74012"
              id="tspan5901"
@@ -11376,7 +11373,7 @@ simon.fossier@gmail.com </dc:title>
        style="display:inline">
       <path
          inkscape:connector-curvature="0"
-         style="fill:#aab90e;fill-opacity:1"
+         style="fill:#859900;fill-opacity:1"
          d="M 0,26.703 C 0,11.965 11.957,0 26.705,0 41.457,0 53.408,11.965 53.408,26.703 53.408,41.465 41.457,53.418 26.705,53.418 11.957,53.418 0,41.465 0,26.703"
          id="path4933-6-1-7-9-8-8-3-6-8-7-2-5-9-7-8" />
       <text
@@ -11398,7 +11395,7 @@ simon.fossier@gmail.com </dc:title>
        style="display:inline">
       <path
          inkscape:connector-curvature="0"
-         style="fill:#b88bc2;fill-opacity:1"
+         style="fill:#6c71c4;fill-opacity:1"
          d="M 0,26.703 C 0,11.965 11.957,0 26.705,0 41.457,0 53.408,11.965 53.408,26.703 53.408,41.465 41.457,53.418 26.705,53.418 11.957,53.418 0,41.465 0,26.703"
          id="path4933-6-1-7-9-8-8-3-6-8-7-2-5-9-7" />
       <text
@@ -11420,7 +11417,7 @@ simon.fossier@gmail.com </dc:title>
        style="display:inline">
       <path
          inkscape:connector-curvature="0"
-         style="fill:#f989af;fill-opacity:1"
+         style="fill:#dc322f;fill-opacity:1"
          d="M 0,26.703 C 0,11.965 11.957,0 26.705,0 41.457,0 53.408,11.965 53.408,26.703 53.408,41.465 41.457,53.418 26.705,53.418 11.957,53.418 0,41.465 0,26.703"
          id="path4933-6-1-7-9-8-8-3-6-8-7-2-5" />
       <text
@@ -11442,7 +11439,7 @@ simon.fossier@gmail.com </dc:title>
        style="display:inline">
       <path
          inkscape:connector-curvature="0"
-         style="fill:#6eba6f;fill-opacity:1"
+         style="fill:#2aa198;fill-opacity:1"
          d="M 0,26.703 C 0,11.965 11.957,0 26.705,0 41.457,0 53.408,11.965 53.408,26.703 53.408,41.465 41.457,53.418 26.705,53.418 11.957,53.418 0,41.465 0,26.703"
          id="path4933-6-1-7-9-8-8-3-6-8" />
       <text
@@ -11464,7 +11461,7 @@ simon.fossier@gmail.com </dc:title>
        style="display:inline">
       <path
          inkscape:connector-curvature="0"
-         style="fill:#fd7929;fill-opacity:1"
+         style="fill:#cb4b16;fill-opacity:1"
          d="M 0,26.703 C 0,11.965 11.957,0 26.705,0 41.457,0 53.408,11.965 53.408,26.703 53.408,41.465 41.457,53.418 26.705,53.418 11.957,53.418 0,41.465 0,26.703"
          id="path4933-6-1-7-9-8-8-3" />
       <text
@@ -11472,9 +11469,9 @@ simon.fossier@gmail.com </dc:title>
          id="text4935-7-0-41-7-8-9-3"
          y="39.59124"
          x="16.65181"
-         style="font-size:27.56542206px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         style="font-size:27.56542205999999950px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
          xml:space="preserve"><tspan
-           style="font-size:36.75389481px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold"
+           style="font-size:36.75389480999999847px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold;fill-opacity:1"
            y="39.59124"
            x="16.65181"
            id="tspan4937-3-30-8-5-3-6-3"
@@ -11486,7 +11483,7 @@ simon.fossier@gmail.com </dc:title>
        style="display:inline">
       <path
          inkscape:connector-curvature="0"
-         style="fill:#b82690;fill-opacity:1"
+         style="fill:#d33682;fill-opacity:1"
          d="M 0,26.703 C 0,11.965 11.957,0 26.705,0 41.457,0 53.408,11.965 53.408,26.703 53.408,41.465 41.457,53.418 26.705,53.418 11.957,53.418 0,41.465 0,26.703"
          id="path4933-6-1-7-9-8" />
       <text
@@ -11508,7 +11505,7 @@ simon.fossier@gmail.com </dc:title>
        style="display:inline">
       <path
          inkscape:connector-curvature="0"
-         style="fill:#8a780f;fill-opacity:1"
+         style="fill:#b58900;fill-opacity:1"
          d="M 0,26.703 C 0,11.965 11.957,0 26.705,0 41.457,0 53.408,11.965 53.408,26.703 53.408,41.465 41.457,53.418 26.705,53.418 11.957,53.418 0,41.465 0,26.703"
          id="path4933-6-1-7" />
       <text
@@ -11530,7 +11527,7 @@ simon.fossier@gmail.com </dc:title>
        style="display:inline">
       <path
          inkscape:connector-curvature="0"
-         style="fill:#0b4a9e;fill-opacity:1"
+         style="fill:#268bd2;fill-opacity:1"
          d="M 0,26.703 C 0,11.965 11.957,0 26.705,0 41.457,0 53.408,11.965 53.408,26.703 53.408,41.465 41.457,53.418 26.705,53.418 11.957,53.418 0,41.465 0,26.703"
          id="path4933-6-1-4-6" />
       <text
@@ -11684,7 +11681,7 @@ simon.fossier@gmail.com </dc:title>
        style="display:inline">
       <path
          inkscape:connector-curvature="0"
-         style="fill:#ffbf00;fill-opacity:1"
+         style="fill:#b58900;fill-opacity:1"
          d="M 0,26.703 C 0,11.965 11.957,0 26.705,0 41.457,0 53.408,11.965 53.408,26.703 53.408,41.465 41.457,53.418 26.705,53.418 11.957,53.418 0,41.465 0,26.703"
          id="path4933-6-1" />
       <text
@@ -11707,7 +11704,7 @@ simon.fossier@gmail.com </dc:title>
       <path
          id="path4212"
          d="M 0,26.703 C 0,11.965 11.957,0 26.705,0 41.457,0 53.408,11.965 53.408,26.703 53.408,41.465 41.457,53.418 26.705,53.418 11.957,53.418 0,41.465 0,26.703"
-         style="fill:#016a3c;fill-opacity:1"
+         style="fill:#cb4b16;fill-opacity:1"
          inkscape:connector-curvature="0" />
       <text
          xml:space="preserve"
@@ -11728,7 +11725,7 @@ simon.fossier@gmail.com </dc:title>
        style="display:inline">
       <path
          inkscape:connector-curvature="0"
-         style="fill:#d2a019;fill-opacity:1"
+         style="fill:#b58900;fill-opacity:1"
          d="M 0,26.703 C 0,11.965 11.957,0 26.705,0 41.457,0 53.408,11.965 53.408,26.703 53.408,41.465 41.457,53.418 26.705,53.418 11.957,53.418 0,41.465 0,26.703"
          id="path4933-6" />
       <text
@@ -11750,7 +11747,7 @@ simon.fossier@gmail.com </dc:title>
        style="display:inline">
       <path
          inkscape:connector-curvature="0"
-         style="fill:#753d0a;fill-opacity:1"
+         style="fill:#dc322f;fill-opacity:1"
          d="M 0,26.703 C 0,11.965 11.957,0 26.705,0 41.457,0 53.408,11.965 53.408,26.703 53.408,41.465 41.457,53.418 26.705,53.418 11.957,53.418 0,41.465 0,26.703"
          id="path4933-6-5-8" />
       <text
@@ -11772,7 +11769,7 @@ simon.fossier@gmail.com </dc:title>
        style="display:inline">
       <path
          inkscape:connector-curvature="0"
-         style="fill:#6ebfb9;fill-opacity:1"
+         style="fill:#2aa198;fill-opacity:1"
          d="M 0,26.703 C 0,11.965 11.957,0 26.705,0 41.457,0 53.408,11.965 53.408,26.703 53.408,41.465 41.457,53.418 26.705,53.418 11.957,53.418 0,41.465 0,26.703"
          id="path4933" />
       <text
@@ -11794,7 +11791,7 @@ simon.fossier@gmail.com </dc:title>
        style="display:inline">
       <path
          inkscape:connector-curvature="0"
-         style="fill:#46007d;fill-opacity:1"
+         style="fill:#268bd2;fill-opacity:1"
          d="M 0,26.703 C 0,11.965 11.957,0 26.705,0 41.457,0 53.408,11.965 53.408,26.703 53.408,41.465 41.457,53.418 26.705,53.418 11.957,53.418 0,41.465 0,26.703"
          id="path4933-5" />
       <text
@@ -12171,6 +12168,73 @@ simon.fossier@gmail.com </dc:title>
            x="65.931496"
            id="tspan7682"
            sodipodi:role="line">RER</tspan></text>
+    </g>
+    <use
+       transform="translate(1102.3724,500.53361)"
+       height="1"
+       width="1"
+       id="use8128"
+       xlink:href="#g4931-7-8-5-5-3-1-4-8-8-7-9-0-6-4"
+       y="0"
+       x="0"
+       style="display:inline" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g4931-7-8-5-5-3-1-4-8-8-7-9-0-6-4"
+       id="use8130"
+       width="1"
+       height="1"
+       transform="translate(1102.3724,500.53361)" />
+    <use
+       transform="translate(1102.3724,500.53361)"
+       height="1"
+       width="1"
+       id="use8132"
+       xlink:href="#g4931-7-8-5-5-3-1-4-8-8-7-9-0-6-4"
+       y="0"
+       x="0"
+       style="display:inline" />
+    <use
+       transform="translate(1273.0867,-313.39102)"
+       height="1"
+       width="1"
+       id="use8134"
+       xlink:href="#g4931-7-8-5-5-3-1-4-8-8-7-9-0-6-4-4"
+       y="0"
+       x="0"
+       style="display:inline" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g8138"
+       id="use8146"
+       width="1"
+       height="1"
+       transform="matrix(0.63093963,0,0,0.63093963,161.56387,-30.614399)" />
+    <g
+       style="display:inline"
+       id="g8138"
+       transform="matrix(0.435328,0,0,0.435328,1067.1328,1166.1944)">
+      <path
+         id="path8140"
+         d="M 0,26.703 C 0,11.965 11.957,0 26.705,0 41.457,0 53.408,11.965 53.408,26.703 53.408,41.465 41.457,53.418 26.705,53.418 11.957,53.418 0,41.465 0,26.703"
+         style="fill:#268bd2;fill-opacity:1"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:27.56542205999999950px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         x="5.7608838"
+         y="40.013908"
+         id="text8142"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan8144"
+           x="5.7608838"
+           y="40.013908"
+           style="font-size:36.75389480999999847px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold;fill-opacity:1">14</tspan></text>
     </g>
   </g>
   <g
