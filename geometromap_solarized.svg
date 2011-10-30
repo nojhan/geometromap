@@ -41,12 +41,13 @@ Gonioul
 Otourly
 Greenski
 claire.laudy@yahoo.fr
-simon.fossier@gmail.com </dc:title>
+simon.fossier@gmail.com
+Ethan Schoonover</dc:title>
           </cc:Agent>
         </dc:contributor>
         <dc:creator>
           <cc:Agent>
-            <dc:title>Metropolitan, Pmx, nojhan</dc:title>
+            <dc:title>nojhan, Metropolitan, Pmx</dc:title>
           </cc:Agent>
         </dc:creator>
         <dc:date>2011-10-12</dc:date>
@@ -80,7 +81,8 @@ simon.fossier@gmail.com </dc:title>
             <rdf:li>correspondance</rdf:li>
           </rdf:Bag>
         </dc:subject>
-        <dc:description>Geographically accurate Paris metro map.</dc:description>
+        <dc:description>Geographically accurate Paris metro map.
+Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarized</dc:description>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
@@ -113,7 +115,7 @@ simon.fossier@gmail.com </dc:title>
      id="base"
      showgrid="false"
      inkscape:zoom="2.1833796"
-     inkscape:cx="939.27041"
+     inkscape:cx="879.95869"
      inkscape:cy="1066.1167"
      inkscape:window-x="0"
      inkscape:window-y="0"
