@@ -114,12 +114,12 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
      pagecolor="#fdf6e3"
      id="base"
      showgrid="false"
-     inkscape:zoom="2.2101695"
-     inkscape:cx="902.07808"
-     inkscape:cy="955.64297"
+     inkscape:zoom="4.420339"
+     inkscape:cx="967.69452"
+     inkscape:cy="927.96493"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:current-layer="g6282"
+     inkscape:current-layer="layer31"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="0"
@@ -5651,7 +5651,7 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
     <g
        id="g6551">
       <path
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
          sodipodi:ry="0.80765027"
          sodipodi:rx="0.80765027"
          sodipodi:cy="974.35913"
@@ -5668,7 +5668,7 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
          sodipodi:cy="974.35913"
          sodipodi:rx="0.80765027"
          sodipodi:ry="0.80765027"
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z" />
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z" />
     </g>
     <use
        style="display:inline"
@@ -5938,7 +5938,7 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
          sodipodi:cy="974.35913"
          sodipodi:rx="0.80765027"
          sodipodi:ry="0.80765027"
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
          transform="translate(-5.0566046,-3.6519626)" />
       <path
          inkscape:connector-curvature="0"
@@ -6637,6 +6637,157 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
        width="1"
        height="1"
        transform="translate(-0.91512984,28.35601)" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g8460"
+       id="use8593-0-1"
+       transform="matrix(0.92878057,-0.37063008,0.37063008,0.92878057,433.44584,525.44704)"
+       width="1927"
+       height="1770"
+       inkscape:transform-center-x="2.8558514"
+       inkscape:transform-center-y="-0.26925895" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g8460"
+       id="use8593-0-1-5"
+       transform="matrix(-0.96183692,0.27362337,-0.27362337,-0.96183692,2027.7775,1498.3697)"
+       width="1927"
+       height="1770"
+       inkscape:transform-center-x="-2.8133132"
+       inkscape:transform-center-y="0.56015107" />
+    <use
+       style="display:inline"
+       height="1770"
+       width="1927"
+       transform="matrix(0.99647813,0.08385301,-0.08385301,0.99647813,466.85989,153.4808)"
+       id="use6825-9"
+       xlink:href="#g6769"
+       y="0"
+       x="0" />
+    <use
+       style="display:inline"
+       height="1770"
+       width="1927"
+       transform="matrix(0.70057234,-0.71358138,0.71358138,0.70057234,141.61995,1047.853)"
+       id="use6825-9-7"
+       xlink:href="#g6769"
+       y="0"
+       x="0" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g8723"
+       inkscape:transform-center-x="-1.742718"
+       inkscape:transform-center-y="-2.6099568"
+       id="use8729-6-1-7"
+       transform="matrix(-0.995348,0.09634487,-0.09634487,-0.995348,1981.3309,1643.9592)"
+       width="1927"
+       height="1770" />
+    <g
+       transform="matrix(0.68063013,-0.73262721,0.73262721,0.68063013,-212.90819,895.31707)"
+       style="stroke:#002b36;display:inline"
+       id="use8787-5-67">
+      <path
+         style="fill:none;stroke:#002b36;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 835.41413,724.05739 1.78122,-0.74893"
+         id="path6509-3"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6511-6"
+         d="m 835.00931,723.08581 1.78122,-0.74893"
+         style="fill:none;stroke:#002b36;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         style="fill:none;stroke:#002b36;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 834.58425,722.13447 1.78122,-0.74893"
+         id="path6513-5"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(0.95370079,-0.30075704,0.30075704,0.95370079,-143.46529,327.63529)"
+       style="stroke:#002b36;display:inline"
+       id="use8787-5-67-6">
+      <path
+         style="fill:none;stroke:#002b36;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 835.41413,724.05739 1.78122,-0.74893"
+         id="path6509-3-3"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6511-6-9"
+         d="m 835.00931,723.08581 1.78122,-0.74893"
+         style="fill:none;stroke:#002b36;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         style="fill:none;stroke:#002b36;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 834.58425,722.13447 1.78122,-0.74893"
+         id="path6513-5-4"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(0.95370079,-0.30075704,0.30075704,0.95370079,-155.45532,314.23136)"
+       style="stroke:#002b36;display:inline"
+       id="use8787-5-67-6-8">
+      <path
+         style="fill:none;stroke:#002b36;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 835.41413,724.05739 1.78122,-0.74893"
+         id="path6509-3-3-1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6511-6-9-2"
+         d="m 835.00931,723.08581 1.78122,-0.74893"
+         style="fill:none;stroke:#002b36;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         style="fill:none;stroke:#002b36;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 834.58425,722.13447 1.78122,-0.74893"
+         id="path6513-5-4-9"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(0.95370079,-0.30075704,0.30075704,0.95370079,-167.61503,300.37495)"
+       style="stroke:#002b36;display:inline"
+       id="use8787-5-67-6-8-3">
+      <path
+         style="fill:none;stroke:#002b36;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 835.41413,724.05739 1.78122,-0.74893"
+         id="path6509-3-3-1-9"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6511-6-9-2-0"
+         d="m 835.00931,723.08581 1.78122,-0.74893"
+         style="fill:none;stroke:#002b36;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         style="fill:none;stroke:#002b36;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 834.58425,722.13447 1.78122,-0.74893"
+         id="path6513-5-4-9-8"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(0.99978755,-0.02061193,0.02061193,0.99978755,-14.587051,17.513189)"
+       style="stroke:#002b36;stroke-width:1;display:inline"
+       id="use8787-5-67-6-8-3-8">
+      <path
+         style="fill:none;stroke:#002b36;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 835.41413,724.05739 1.78122,-0.74893"
+         id="path6509-3-3-1-9-5"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6511-6-9-2-0-0"
+         d="m 835.00931,723.08581 1.78122,-0.74893"
+         style="fill:none;stroke:#002b36;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         style="fill:none;stroke:#002b36;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 834.58425,722.13447 1.78122,-0.74893"
+         id="path6513-5-4-9-8-9"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
   <g
      style="display:none"
@@ -17612,8 +17763,8 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
     <rect
        ry="5.4656982"
        rx="5.4656982"
-       y="960.02356"
-       x="1264.308"
+       y="960.08014"
+       x="1267.5317"
        height="10.931396"
        width="33.8568"
        id="rect7690"
@@ -17936,8 +18087,8 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
        id="rect6366"
        width="33.8568"
        height="10.931396"
-       x="1264.308"
-       y="960.02356"
+       x="1267.5317"
+       y="960.08014"
        rx="5.4656982"
        ry="5.4656982" />
     <rect
@@ -18527,14 +18678,14 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
        transform="scale(0.97182532,1.0289915)"
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#657b83;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic"
-       x="1331.4156"
-       y="940.69562"
+       x="1334.7328"
+       y="940.75055"
        id="text7686"
        sodipodi:linespacing="105%"><tspan
          id="tspan7688"
          sodipodi:role="line"
-         x="1331.4156"
-         y="940.69562"
+         x="1334.7328"
+         y="940.75055"
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#657b83;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold Italic">NATION</tspan></text>
     <text
        sodipodi:linespacing="105%"
