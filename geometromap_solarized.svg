@@ -115,11 +115,11 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
      id="base"
      showgrid="false"
      inkscape:zoom="6.17553"
-     inkscape:cx="1152.0688"
-     inkscape:cy="1025.2213"
+     inkscape:cx="1206.4144"
+     inkscape:cy="1137.8225"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:current-layer="layer31"
+     inkscape:current-layer="layer28"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="0"
@@ -12957,12 +12957,57 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
     <rect
        ry="3.8429761"
        rx="4.530035"
-       y="1088.8812"
+       y="1091.1713"
        x="1083.4852"
        height="8.372961"
        width="35.578342"
        id="rect6361-5-1-7"
        style="color:#000000;fill:#073642;fill-opacity:0.70588235;fill-rule:nonzero;stroke:none;stroke-width:1.56200004;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:#073642;fill-opacity:0.70588235;fill-rule:nonzero;stroke:none;stroke-width:1.56200004;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect6369-4-6-5"
+       width="56.098637"
+       height="8.4669256"
+       x="492.81421"
+       y="1001.1717"
+       rx="4.2334628"
+       ry="4.2334628" />
+    <rect
+       ry="5.9000206"
+       rx="5.9000206"
+       y="1045.8326"
+       x="828.17712"
+       height="15.922243"
+       width="24.182747"
+       id="rect6361-5-9-7"
+       style="color:#000000;fill:#073642;fill-opacity:0.70588235;fill-rule:nonzero;stroke:none;stroke-width:1.56200004;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       ry="4.5300293"
+       rx="4.5300293"
+       y="946.89954"
+       x="1042.6082"
+       height="15.014045"
+       width="27.44875"
+       id="rect6361-5-7"
+       style="color:#000000;fill:#073642;fill-opacity:0.70588235;fill-rule:nonzero;stroke:none;stroke-width:1.56200004;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       ry="4.5300293"
+       rx="4.5300293"
+       y="950.4491"
+       x="979.46069"
+       height="15.701049"
+       width="29.85327"
+       id="rect6361-5-7-6"
+       style="color:#000000;fill:#073642;fill-opacity:0.70588235;fill-rule:nonzero;stroke:none;stroke-width:1.56200004;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:#073642;fill-opacity:0.70588235;fill-rule:nonzero;stroke:none;stroke-width:1.56200004;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect6369-4-7-7"
+       width="33.740112"
+       height="7.7383451"
+       x="895.13354"
+       y="878.91681"
+       rx="3.5195158"
+       ry="3.5195158" />
   </g>
   <g
      style="display:none"
@@ -13090,12 +13135,12 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
        sodipodi:linespacing="105%"
        id="text6618"
        y="460.00589"
-       x="729.25714"
+       x="727.13635"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#586e75;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
          y="460.00589"
-         x="729.25714"
+         x="727.13635"
          id="tspan6620"
          sodipodi:role="line">Mairie de Clichy</tspan></text>
     <text
@@ -13162,14 +13207,14 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
     <text
        sodipodi:linespacing="105%"
        id="text4533-6"
-       y="930.38995"
-       x="928.22144"
+       y="928.38702"
+       x="931.9917"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         y="930.38995"
-         x="928.22144"
+         y="928.38702"
+         x="931.9917"
          sodipodi:role="line"
          id="tspan4535-2">St.-Sulpice</tspan></text>
     <text
@@ -13193,14 +13238,14 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
     <text
        sodipodi:linespacing="105%"
        id="text4547-0"
-       y="960.63452"
-       x="863.05865"
+       y="958.96539"
+       x="861.76263"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         y="960.63452"
-         x="863.05865"
+         y="958.96539"
+         x="861.76263"
          sodipodi:role="line"
          id="tspan4549-3">St.-Placide</tspan></text>
     <text
@@ -13294,19 +13339,19 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       x="872.53735"
-       y="1022.0322"
+       x="874.42249"
+       y="1022.5886"
        id="text4559-2"
        sodipodi:linespacing="105%"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan4561-8"
          sodipodi:role="line"
-         x="872.53735"
-         y="1022.0322"
+         x="874.42249"
+         y="1022.5886"
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Edgar</tspan><tspan
          sodipodi:role="line"
-         x="872.53735"
-         y="1029.3793"
+         x="874.42249"
+         y="1029.9357"
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
          id="tspan4563-8">Quinet</tspan></text>
     <text
@@ -13390,15 +13435,15 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       x="1005.9422"
-       y="1114.7977"
+       x="1007.0026"
+       y="1117.6909"
        id="text4621-2"
        sodipodi:linespacing="105%"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan4623-9"
          sodipodi:role="line"
-         x="1005.9422"
-         y="1114.7977"
+         x="1007.0026"
+         y="1117.6909"
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Corvisart</tspan></text>
     <text
        xml:space="preserve"
@@ -13530,27 +13575,27 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       x="882.52606"
-       y="1088.6532"
+       x="886.64978"
+       y="1089.2096"
        id="text4601-3"
        sodipodi:linespacing="105%"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan4603-5"
          sodipodi:role="line"
-         x="882.52606"
-         y="1088.6532"
+         x="886.64978"
+         y="1089.2096"
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Mouton Duvernet</tspan></text>
     <text
        sodipodi:linespacing="105%"
        id="text4605-1"
-       y="1125.4319"
-       x="862.71136"
+       y="1126.2108"
+       x="863.77173"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         y="1125.4319"
-         x="862.71136"
+         y="1126.2108"
+         x="863.77173"
          sodipodi:role="line"
          id="tspan4607-2">Alésia</tspan></text>
     <text
@@ -13587,28 +13632,28 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
     <text
        sodipodi:linespacing="105%"
        id="text4771-7"
-       y="1080.8458"
-       x="1086.7971"
+       y="1083.0713"
+       x="1086.3258"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         y="1080.8458"
-         x="1086.7971"
+         y="1083.0713"
+         x="1086.3258"
          sodipodi:role="line"
          id="tspan4773-0">Nationale</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        x="1115.5101"
-       y="1064.8248"
+       y="1067.0503"
        id="text4775-3"
        sodipodi:linespacing="105%"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan4777-4"
          sodipodi:role="line"
          x="1115.5101"
-         y="1064.8248"
+         y="1067.0503"
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Chevaleret</tspan></text>
     <text
        sodipodi:linespacing="105%"
@@ -13691,14 +13736,14 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       x="1271.5728"
+       x="1273.4579"
        y="1245.1439"
        id="text5631-8"
        sodipodi:linespacing="105%"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan5633-4"
          sodipodi:role="line"
-         x="1271.5728"
+         x="1273.4579"
          y="1245.1439"
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Ivry-sur-Seine</tspan></text>
     <text
@@ -14085,14 +14130,14 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
     <text
        sodipodi:linespacing="105%"
        id="text5761-7"
-       y="874.07721"
-       x="1187.9575"
+       y="874.18848"
+       x="1188.5466"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         y="874.07721"
-         x="1187.9575"
+         y="874.18848"
+         x="1188.5466"
          sodipodi:role="line"
          id="tspan5763-7">Bréguet Sabin</tspan></text>
     <text
@@ -14318,67 +14363,67 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       x="1359.0076"
-       y="920.69415"
+       x="1359.9501"
+       y="921.13922"
        id="text5839-7"
        sodipodi:linespacing="105%"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan5841-7"
          sodipodi:role="line"
-         x="1359.0076"
-         y="920.69415"
+         x="1359.9501"
+         y="921.13922"
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Buzenval</tspan></text>
     <text
        sodipodi:linespacing="105%"
        id="text5843-1"
-       y="912.72284"
-       x="1396.9308"
+       y="913.83557"
+       x="1396.4595"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         y="912.72284"
-         x="1396.9308"
+         y="913.83557"
+         x="1396.4595"
          sodipodi:role="line"
          id="tspan5845-9">Maraîchers</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       x="1445.2334"
-       y="905.90936"
+       x="1446.4116"
+       y="906.35443"
        id="text5847-1"
        sodipodi:linespacing="105%"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan5849-6"
          sodipodi:role="line"
-         x="1445.2334"
-         y="905.90936"
+         x="1446.4116"
+         y="906.35443"
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Porte de Montreuil</tspan></text>
     <text
        sodipodi:linespacing="105%"
        id="text5851-2"
-       y="885.92853"
-       x="1503.5442"
+       y="887.26385"
+       x="1504.2511"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         y="885.92853"
-         x="1503.5442"
+         y="887.26385"
+         x="1504.2511"
          sodipodi:role="line"
          id="tspan5853-7">Robespierre</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       x="1599.639"
-       y="862.31854"
+       x="1600.5815"
+       y="864.09894"
        id="text5855-2"
        sodipodi:linespacing="105%"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan5857-7"
          sodipodi:role="line"
-         x="1599.639"
-         y="862.31854"
+         x="1600.5815"
+         y="864.09894"
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Croix de Chavaux</tspan></text>
     <text
        sodipodi:linespacing="105%"
@@ -14401,28 +14446,28 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
     <text
        sodipodi:linespacing="105%"
        id="text5889-9"
-       y="953.06799"
-       x="1417.1154"
+       y="952.62286"
+       x="1418.5292"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         y="953.06799"
-         x="1417.1154"
+         y="952.62286"
+         x="1418.5292"
          sodipodi:role="line"
          id="tspan4921">Porte de Vincennes</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       x="1465.6732"
-       y="960.75659"
+       x="1466.6157"
+       y="960.53406"
        id="text5893-6"
        sodipodi:linespacing="105%"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan5895-5"
          sodipodi:role="line"
-         x="1465.6732"
-         y="960.75659"
+         x="1466.6157"
+         y="960.53406"
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">St.-Mandé</tspan></text>
     <text
        sodipodi:linespacing="105%"
@@ -14440,14 +14485,14 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
     <text
        sodipodi:linespacing="105%"
        id="text5905-4"
-       y="949.30969"
-       x="1540.1982"
+       y="948.41949"
+       x="1539.02"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         y="949.30969"
-         x="1540.1982"
+         y="948.41949"
+         x="1539.02"
          sodipodi:role="line"
          id="tspan5907-2">Vincennes</tspan></text>
     <text
@@ -14479,27 +14524,27 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       x="1243.3719"
-       y="708.86975"
+       x="1242.4293"
+       y="708.64722"
        id="text5925-7"
        sodipodi:linespacing="105%"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan5927-3"
          sodipodi:role="line"
-         x="1243.3719"
-         y="708.86975"
+         x="1242.4293"
+         y="708.64722"
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Jourdain</tspan></text>
     <text
        sodipodi:linespacing="105%"
        id="text5929-1"
-       y="723.28882"
-       x="1212.325"
+       y="722.39862"
+       x="1211.6179"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         y="723.28882"
-         x="1212.325"
+         y="722.39862"
+         x="1211.6179"
          sodipodi:role="line"
          id="tspan5931-5">Pyrénées</tspan></text>
     <text
@@ -14531,14 +14576,14 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
     <text
        sodipodi:linespacing="105%"
        id="text5943-2"
-       y="697.47076"
-       x="1209.3805"
+       y="699.02863"
+       x="1231.5309"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         y="697.47076"
-         x="1209.3805"
+         y="699.02863"
+         x="1231.5309"
          sodipodi:role="line"
          id="tspan5947-1">Buttes Chaumont</tspan></text>
     <text
@@ -14596,15 +14641,15 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       x="1250.892"
-       y="616.07471"
+       x="1251.0586"
+       y="617.01892"
        id="text5973-9"
        sodipodi:linespacing="105%"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan5975-1"
          sodipodi:role="line"
-         x="1250.892"
-         y="616.07471"
+         x="1251.0586"
+         y="617.01892"
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Ourcq</tspan></text>
     <text
        sodipodi:linespacing="105%"
@@ -15341,25 +15386,25 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
     <text
        sodipodi:linespacing="105%"
        id="text6368"
-       y="1089.5582"
-       x="319.89328"
+       y="1088.4454"
+       x="319.422"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#586e75;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
-         y="1089.5582"
-         x="319.89328"
+         y="1088.4454"
+         x="319.422"
          id="tspan6370"
          sodipodi:role="line">Billancourt</tspan></text>
     <text
        sodipodi:linespacing="105%"
        id="text6372"
-       y="1074.5103"
-       x="353.87021"
+       y="1073.1749"
+       x="353.16327"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#586e75;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
-         y="1074.5103"
-         x="353.87021"
+         y="1073.1749"
+         x="353.16327"
          id="tspan6374"
          sodipodi:role="line">Marcel Sembat</tspan></text>
     <text
@@ -15443,14 +15488,14 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
     <text
        sodipodi:linespacing="105%"
        id="text6646"
-       y="388.1868"
-       x="909.15424"
+       y="387.39996"
+       x="907.48798"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#586e75;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan6650"
-         y="388.1868"
-         x="909.15424"
+         y="387.39996"
+         x="907.48798"
          sodipodi:role="line">Mairie de Saint-Ouen</tspan></text>
     <text
        sodipodi:linespacing="105%"
@@ -15955,13 +16000,13 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
     <text
        sodipodi:linespacing="103%"
        id="text6452"
-       y="968.23853"
-       x="529.67645"
-       style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+       y="969.02332"
+       x="532.05151"
+       style="font-size:6.39104652px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
-         y="968.23853"
-         x="529.67645"
+         y="969.02332"
+         x="532.05151"
          id="tspan6454"
          sodipodi:role="line"
          style="font-style:italic;font-weight:normal;fill:#586e75;-inkscape-font-specification:Liberation Sans Italic">Mirabeau</tspan></text>
@@ -16050,13 +16095,13 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
        transform="scale(0.97182532,1.0289915)"
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#586e75;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       x="827.67084"
+       x="826.1712"
        y="443.39951"
        id="text8071"
        sodipodi:linespacing="105%"><tspan
          sodipodi:role="line"
          id="tspan8073"
-         x="827.67084"
+         x="826.1712"
          y="443.39951">Saint-Ouen</tspan></text>
     <text
        sodipodi:linespacing="105%"
@@ -16142,13 +16187,13 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
        transform="scale(0.97182532,1.0289915)"
        sodipodi:linespacing="105%"
        id="text8103"
-       y="831.03955"
-       x="748.42865"
+       y="831.98376"
+       x="748.7619"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        xml:space="preserve"><tspan
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         y="831.03955"
-         x="748.42865"
+         y="831.98376"
+         x="748.7619"
          sodipodi:role="line"
          id="tspan8105">Pont de l'Alma</tspan></text>
     <text
@@ -16453,10 +16498,10 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
     <rect
        style="color:#000000;fill:#073642;fill-opacity:0.70588235;fill-rule:nonzero;stroke:none;stroke-width:1.56200004;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6465"
-       width="28.827501"
-       height="7.4036546"
-       x="1031.5686"
-       y="686.20013"
+       width="29.637161"
+       height="8.051343"
+       x="1030.7589"
+       y="685.55243"
        rx="4.3475823"
        ry="3.6448879" />
     <rect
@@ -16549,6 +16594,21 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
        y="632.20038"
        rx="4.0217462"
        ry="4.0217462" />
+    <rect
+       y="725.17291"
+       x="760.40448"
+       height="8.8516331"
+       width="42.304379"
+       id="rect6423-1"
+       style="color:#000000;fill:#073642;fill-opacity:0.70588235;fill-rule:nonzero;stroke:none;stroke-width:1.56200004;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       rx="3.7286477"
+       ry="3.7286477" />
+    <path
+       style="color:#000000;fill:#073642;fill-opacity:0.70588235;fill-rule:nonzero;stroke:none;stroke-width:1.56200004;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 853.41947,844.62616 35.74109,0 c 3.275,0 1.44188,8.26029 2.38243,9.10286 0.94054,0.84257 15.85137,-1.35881 16.03862,2.54805 0.18725,3.90687 -2.67164,4.76024 -5.848,4.76024 l -48.31414,0 c -3.17636,0 -5.7335,-2.55714 -5.7335,-5.7335 l 0,-4.94416 c 0,-3.17635 2.55714,-5.73349 5.7335,-5.73349 z"
+       id="rect6361-1-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sszzsssss" />
   </g>
   <g
      style="display:none"
@@ -16690,14 +16750,14 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#657b83;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       x="723.98834"
+       x="721.86755"
        y="542.12146"
        id="text4371-6"
        sodipodi:linespacing="103%"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan4373-8"
          sodipodi:role="line"
-         x="723.98834"
+         x="721.86755"
          y="542.12146"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;fill:#657b83;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Porte de Clichy</tspan></text>
     <text
@@ -16822,24 +16882,24 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#657b83;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       x="598.43402"
+       x="601.09998"
        y="663.84338"
        id="text4475-8"
        sodipodi:linespacing="103%"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan4477-7"
          sodipodi:role="line"
-         x="598.43402"
+         x="601.09998"
          y="663.84338"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:end;fill:#657b83;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Neuilly-</tspan><tspan
          sodipodi:role="line"
-         x="598.43402"
+         x="601.09998"
          y="671.05042"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:end;fill:#657b83;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
          id="tspan4481-0">Porte</tspan><tspan
          id="tspan4479-1"
          sodipodi:role="line"
-         x="598.43402"
+         x="601.09998"
          y="678.25751"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:end;fill:#657b83;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Maillot</tspan></text>
     <text
@@ -16858,18 +16918,18 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#657b83;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       x="841.30396"
+       x="839.18317"
        y="633.06207"
        id="text4365-3"
        sodipodi:linespacing="103%"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan4367-4"
          sodipodi:role="line"
-         x="841.30396"
+         x="839.18317"
          y="633.06207"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;fill:#657b83;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Place de</tspan><tspan
          sodipodi:role="line"
-         x="841.30396"
+         x="839.18317"
          y="640.2691"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;fill:#657b83;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
          id="tspan4369-3">Clichy</tspan></text>
@@ -17241,19 +17301,19 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
     <text
        sodipodi:linespacing="103%"
        id="text4433-4"
-       y="878.22418"
-       x="648.11481"
+       y="879.24707"
+       x="647.94818"
        style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#657b83;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan4435-0"
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;fill:#657b83;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-         y="878.22418"
-         x="648.11481"
+         y="879.24707"
+         x="647.94818"
          sodipodi:role="line">Champs de Mars</tspan><tspan
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;fill:#657b83;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-         y="885.43121"
-         x="648.11481"
+         y="886.4541"
+         x="647.94818"
          sodipodi:role="line"
          id="tspan4437-2">Tour Eiffel</tspan></text>
     <text
@@ -17621,13 +17681,13 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
     <text
        sodipodi:linespacing="103%"
        id="text4361-3"
-       y="674.24506"
+       y="675.50397"
        x="783.11292"
        style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#657b83;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:102.99999714%;writing-mode:lr-tb;text-anchor:start;fill:#657b83;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-         y="674.24506"
+         y="675.50397"
          x="783.11292"
          sodipodi:role="line"
          id="tspan4363-4">Villiers</tspan></text>
