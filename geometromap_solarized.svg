@@ -102,8 +102,8 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:window-height="1158"
-     inkscape:window-width="1912"
+     inkscape:window-height="1175"
+     inkscape:window-width="952"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      guidetolerance="10.0"
@@ -115,11 +115,11 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
      id="base"
      showgrid="false"
      inkscape:zoom="3.1256517"
-     inkscape:cx="155.20488"
-     inkscape:cy="1576.322"
-     inkscape:window-x="0"
+     inkscape:cx="1089.8827"
+     inkscape:cy="466.04785"
+     inkscape:window-x="960"
      inkscape:window-y="0"
-     inkscape:current-layer="layer24"
+     inkscape:current-layer="layer31"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="0"
@@ -710,15 +710,16 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
        id="g6303">
       <path
          style="fill:none;stroke:#dc322f;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 1341.1176,319.66132 c -33.4738,50.43586 -69.3636,101.56908 -103.7551,153.87907 -12.6494,19.24001 -24.0088,39.40625 -38.5874,57.229 -7.6065,9.29916 -15.9065,18.00347 -24.1392,26.7531 -28.5464,30.33883 -56.3858,61.33871 -83.7141,92.77917 -7.7289,8.8919 -15.4619,17.88106 -21.4374,28.03464 -4.8626,8.26256 -8.5186,17.22707 -13.8872,25.17019 -2.7738,4.10394 -6.0155,7.93253 -9.9136,10.98887 -3.8981,3.05639 -8.482,5.32272 -13.3723,6.11139 -7.7432,1.24876 -15.5573,-1.2288 -22.9573,-3.82809 -7.3988,-2.59889 -15.01115,-5.39426 -22.83712,-4.89294 -33.46614,10.89251 -67.33635,25.82859 -102.05357,42.61713 -3.58911,5.36038 -5.98669,11.5139 -6.97023,17.88948 -2.02462,13.12408 1.05612,26.61682 5.5397,39.11634 4.62518,12.89428 9.2366,23.91017 14.72959,35.9115 3.62132,7.91201 6.00026,17.12586 12.35744,23.06725 6.35718,5.94139 14.63357,10.12382 23.33077,10.39318 10.83553,0.517 30.28417,0.92847 33.33755,4.84298 8.02549,10.2889 17.83963,19.45352 61.61557,42.70854 4.135,2.19661 9.1018,2.35117 13.318,4.38752 4.2161,2.03635 8.1079,5.00878 10.4728,9.04982 1.5725,2.687 2.4211,5.77532 2.5751,8.88481 0.154,3.10949 -0.3765,6.23805 -1.4216,9.17069 -2.0902,5.86531 -6.1777,10.8525 -10.9025,14.90799 -9.4496,8.11094 -21.4694,12.81934 -30.7565,21.11587 -7.7334,6.90858 -13.29283,16.17888 -15.92361,26.20948 -1.90392,7.2592 -2.29997,14.8202 -2.52696,22.3215 -0.40224,13.2924 -0.27669,26.8001 3.36929,39.5891 4.53868,15.9202 14.23568,29.7728 21.84208,44.4765 6.7637,13.0747 4.3901,28.0536 8.3296,42.1786 3.5297,12.6553 2.551,20.0444 6.3661,32.8389 4.1425,13.892 4.1285,18.3518 6.2078,32.5204 6.1714,42.0512 20.8509,99.7648 28.191,139.6929 4.4101,23.9896 19.5752,44.9058 25.0882,68.6663 6.072,26.1696 4.3419,54.0985 -4.9136,79.3187"
+         d="m 1341.1176,319.66132 c -33.4738,50.43586 -69.3636,101.56908 -103.7551,153.87907 -12.6494,19.24001 -24.0088,39.40625 -38.5874,57.229 -7.6065,9.29916 -15.9065,18.00347 -24.1392,26.7531 -28.5464,30.33883 -56.3858,61.33871 -83.7141,92.77917 -7.7289,8.8919 -15.4619,17.88106 -21.4374,28.03464 -4.8626,8.26256 -8.5186,17.22707 -13.8872,25.17019 -2.7738,4.10394 -6.0155,7.93253 -9.9136,10.98887 -3.8981,3.05639 -8.482,5.32272 -13.3723,6.11139 -7.7432,1.24876 -15.5573,-1.2288 -22.9573,-3.82809 -7.3988,-2.59889 -15.01115,-5.39426 -22.83712,-4.89294 -33.46614,10.89251 -67.33635,25.82859 -102.05357,42.61713 -3.58911,5.36038 -5.98669,11.5139 -6.97023,17.88948 -2.02462,13.12408 1.05612,26.61682 5.5397,39.11634 4.62518,12.89428 9.2366,23.91017 14.72959,35.9115 3.62132,7.91201 6.00026,17.12586 12.35744,23.06725 6.35718,5.94139 14.63357,10.12382 23.33077,10.39318 10.83553,0.517 30.28417,0.92847 33.33755,4.84298 8.02549,10.2889 17.83963,19.45352 61.61557,42.70854 4.135,2.19661 9.1018,2.35117 13.318,4.38752 4.2161,2.03635 8.1079,5.00878 10.4728,9.04982 1.5725,2.687 2.4211,5.77532 2.5751,8.88481 0.154,3.10949 -0.3765,6.23805 -1.4216,9.17069 -2.0902,5.86531 -6.1777,10.8525 -10.9025,14.90799 -9.4496,8.11094 -21.4694,12.81934 -30.7565,21.11587 -7.7334,6.90858 -13.29283,16.17888 -15.92361,26.20948 -1.90392,7.2592 -2.29997,14.8202 -2.52696,22.3215 -0.40224,13.2924 -0.27669,26.8001 3.36929,39.5891 4.53868,15.9202 14.23568,29.7728 21.84208,44.4765 6.7637,13.0747 4.3901,28.0536 8.3296,42.1786 3.5297,12.6553 5.294,19.5309 6.3661,32.8389 1.5831,19.6508 -9.923,24.9887 -7.5494,48.1972 2.9914,29.2488 23.4929,36.9406 30.1785,65.9389 4.587,19.8957 7.8967,41.2235 11.7697,58.0772 4.4101,19.1906 19.5752,44.9058 25.0882,68.6663 6.072,26.1696 4.3419,54.0985 -4.9136,79.3187"
          id="path2161"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="csssssssssccsssscsssssssssssssssssc" />
+         sodipodi:nodetypes="csssssssssccsssscssssssssssssssssssc" />
       <path
          style="fill:none;stroke:#dc322f;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 1032.9462,1203.2864 c 1.2615,8.0924 5.9108,15.6019 12.5922,20.3386 6.6814,4.7367 15.3066,6.6381 23.3603,5.1497 5.6547,-1.045 10.88,-3.643 16.1177,-6.0165 5.2378,-2.3735 10.7128,-4.5815 16.4604,-4.7601 5.9031,-0.1834 11.7568,1.8347 16.6667,5.117 4.9099,3.2822 8.9229,7.7786 12.1847,12.7021 6.5237,9.847 10.1059,21.3093 15.3921,31.8723 8.5256,17.0361 21.6298,31.7539 37.5661,42.1919"
+         d="m 1032.9462,1203.2864 c 1.2615,8.0924 -0.1633,30.5542 7.7932,32.4961 8.9209,2.1772 20.2309,-4.4607 28.1593,-7.0078 11.0676,-3.5556 21.8028,-10.3503 32.5781,-10.7766 5.9013,-0.2335 11.7568,1.8347 16.6667,5.117 4.9099,3.2822 8.9229,7.7786 12.1847,12.7021 6.5237,9.847 10.1059,21.3093 15.3921,31.8723 8.5256,17.0361 21.6298,31.7539 37.5661,42.1919"
          id="path3134"
-         inkscape:connector-curvature="0" />
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cssscssc" />
     </g>
   </g>
   <g
@@ -15651,14 +15652,14 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
     <text
        sodipodi:linespacing="105%"
        id="text4787-1"
-       y="1204.3088"
-       x="1062.7432"
-       style="font-size:6.99714231000000009px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999522999999613%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#93a1a1;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+       y="1214.2583"
+       x="1107.1863"
+       style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#93a1a1;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
-         style="font-size:6.99714231000000009px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999522999999613%;writing-mode:lr-tb;text-anchor:end;fill:#93a1a1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-         y="1204.3088"
-         x="1062.7432"
+         style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#93a1a1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+         y="1214.2583"
+         x="1107.1863"
          sodipodi:role="line"
          id="tspan4839-0">Porte d'Italie</tspan></text>
     <text
@@ -15676,21 +15677,21 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
          id="tspan4825-4">Porte d'Ivry</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:6.99714231000000009px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999522999999613%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#93a1a1;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       x="1102.449"
-       y="1206.3949"
+       style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#93a1a1;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+       x="1098.8276"
+       y="1177.7903"
        id="text4827-8"
        sodipodi:linespacing="105%"
        transform="scale(0.97182532,1.0289915)"><tspan
          id="tspan4829-2"
          sodipodi:role="line"
-         x="1102.449"
-         y="1206.3949"
-         style="font-size:6.99714231000000009px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:104.99999522999999613%;writing-mode:lr-tb;text-anchor:middle;fill:#93a1a1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Porte de</tspan><tspan
+         x="1098.8276"
+         y="1177.7903"
+         style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#93a1a1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Porte de</tspan><tspan
          sodipodi:role="line"
-         x="1102.449"
-         y="1213.7419"
-         style="font-size:6.99714231000000009px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:104.99999522999999613%;writing-mode:lr-tb;text-anchor:middle;fill:#93a1a1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+         x="1098.8276"
+         y="1185.1373"
+         style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#93a1a1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
          id="tspan4831-1">Choisy</tspan></text>
     <text
        sodipodi:linespacing="105%"
