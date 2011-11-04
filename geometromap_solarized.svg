@@ -19,9 +19,9 @@
    sodipodi:docname="geometromap_solarized.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    style="display:inline"
-   inkscape:export-filename="/home/nojhan/code/geometromap/geometromap_solarized_extrait.png"
-   inkscape:export-xdpi="280.23001"
-   inkscape:export-ydpi="280.23001">
+   inkscape:export-filename="/home/nojhan/code/geometromap/geometromap_solarized_sombre.png"
+   inkscape:export-xdpi="186.82001"
+   inkscape:export-ydpi="186.82001">
   <title
      id="title4078">Geographically accurate Paris metro map</title>
   <metadata
@@ -102,8 +102,8 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:window-height="1158"
-     inkscape:window-width="1229"
+     inkscape:window-height="1175"
+     inkscape:window-width="1009"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      guidetolerance="10.0"
@@ -114,10 +114,10 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
      pagecolor="#fdf6e3"
      id="base"
      showgrid="false"
-     inkscape:zoom="2.2101695"
-     inkscape:cx="1556.6714"
-     inkscape:cy="1384.8092"
-     inkscape:window-x="315"
+     inkscape:zoom="4.420339"
+     inkscape:cx="1204.2476"
+     inkscape:cy="760.8851"
+     inkscape:window-x="903"
      inkscape:window-y="0"
      inkscape:current-layer="layer31"
      showguides="true"
@@ -5709,7 +5709,7 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
        id="g6551"
        style="stroke:#073642">
       <path
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
          sodipodi:ry="0.80765027"
          sodipodi:rx="0.80765027"
          sodipodi:cy="974.35913"
@@ -5726,7 +5726,7 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
          sodipodi:cy="974.35913"
          sodipodi:rx="0.80765027"
          sodipodi:ry="0.80765027"
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z" />
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z" />
     </g>
     <use
        style="display:inline"
@@ -5998,7 +5998,7 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
          sodipodi:cy="974.35913"
          sodipodi:rx="0.80765027"
          sodipodi:ry="0.80765027"
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
          transform="translate(-5.0566046,-3.6519626)" />
       <path
          inkscape:connector-curvature="0"
@@ -6859,7 +6859,7 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
          style="stroke:#073642">
         <path
            transform="translate(-5.0566046,-3.6519626)"
-           d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+           d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
            sodipodi:ry="0.80765027"
            sodipodi:rx="0.80765027"
            sodipodi:cy="974.35913"
@@ -8043,9 +8043,9 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
          sodipodi:cy="974.35913"
          sodipodi:rx="0.80765027"
          sodipodi:ry="0.80765027"
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z" />
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z" />
       <path
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
          sodipodi:ry="0.80765027"
          sodipodi:rx="0.80765027"
          sodipodi:cy="974.35913"
@@ -8067,9 +8067,9 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
          sodipodi:cy="974.35913"
          sodipodi:rx="0.80765027"
          sodipodi:ry="0.80765027"
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z" />
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z" />
       <path
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
          sodipodi:ry="0.80765027"
          sodipodi:rx="0.80765027"
          sodipodi:cy="974.35913"
@@ -8091,9 +8091,9 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
          sodipodi:cy="974.35913"
          sodipodi:rx="0.80765027"
          sodipodi:ry="0.80765027"
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z" />
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z" />
       <path
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
          sodipodi:ry="0.80765027"
          sodipodi:rx="0.80765027"
          sodipodi:cy="974.35913"
@@ -8115,9 +8115,9 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
          sodipodi:cy="974.35913"
          sodipodi:rx="0.80765027"
          sodipodi:ry="0.80765027"
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z" />
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z" />
       <path
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
          sodipodi:ry="0.80765027"
          sodipodi:rx="0.80765027"
          sodipodi:cy="974.35913"
@@ -8139,9 +8139,9 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
          sodipodi:cy="974.35913"
          sodipodi:rx="0.80765027"
          sodipodi:ry="0.80765027"
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z" />
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z" />
       <path
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
          sodipodi:ry="0.80765027"
          sodipodi:rx="0.80765027"
          sodipodi:cy="974.35913"
@@ -8163,9 +8163,9 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
          sodipodi:cy="974.35913"
          sodipodi:rx="0.80765027"
          sodipodi:ry="0.80765027"
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z" />
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z" />
       <path
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
          sodipodi:ry="0.80765027"
          sodipodi:rx="0.80765027"
          sodipodi:cy="974.35913"
@@ -8187,9 +8187,9 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
          sodipodi:cy="974.35913"
          sodipodi:rx="0.80765027"
          sodipodi:ry="0.80765027"
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z" />
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z" />
       <path
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
          sodipodi:ry="0.80765027"
          sodipodi:rx="0.80765027"
          sodipodi:cy="974.35913"
@@ -8211,9 +8211,9 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
          sodipodi:cy="974.35913"
          sodipodi:rx="0.80765027"
          sodipodi:ry="0.80765027"
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z" />
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z" />
       <path
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
          sodipodi:ry="0.80765027"
          sodipodi:rx="0.80765027"
          sodipodi:cy="974.35913"
@@ -8235,9 +8235,9 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
          sodipodi:cy="974.35913"
          sodipodi:rx="0.80765027"
          sodipodi:ry="0.80765027"
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z" />
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z" />
       <path
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
          sodipodi:ry="0.80765027"
          sodipodi:rx="0.80765027"
          sodipodi:cy="974.35913"
@@ -8259,9 +8259,9 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
          sodipodi:cy="974.35913"
          sodipodi:rx="0.80765027"
          sodipodi:ry="0.80765027"
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z" />
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z" />
       <path
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
          sodipodi:ry="0.80765027"
          sodipodi:rx="0.80765027"
          sodipodi:cy="974.35913"
@@ -8283,9 +8283,9 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
          sodipodi:cy="974.35913"
          sodipodi:rx="0.80765027"
          sodipodi:ry="0.80765027"
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z" />
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z" />
       <path
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
          sodipodi:ry="0.80765027"
          sodipodi:rx="0.80765027"
          sodipodi:cy="974.35913"
@@ -8307,9 +8307,9 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
          sodipodi:cy="974.35913"
          sodipodi:rx="0.80765027"
          sodipodi:ry="0.80765027"
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z" />
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z" />
       <path
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
          sodipodi:ry="0.80765027"
          sodipodi:rx="0.80765027"
          sodipodi:cy="974.35913"
@@ -8331,9 +8331,9 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
          sodipodi:cy="974.35913"
          sodipodi:rx="0.80765027"
          sodipodi:ry="0.80765027"
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z" />
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z" />
       <path
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
          sodipodi:ry="0.80765027"
          sodipodi:rx="0.80765027"
          sodipodi:cy="974.35913"
@@ -8355,9 +8355,9 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
          sodipodi:cy="974.35913"
          sodipodi:rx="0.80765027"
          sodipodi:ry="0.80765027"
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z" />
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z" />
       <path
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
          sodipodi:ry="0.80765027"
          sodipodi:rx="0.80765027"
          sodipodi:cy="974.35913"
@@ -8379,9 +8379,9 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
          sodipodi:cy="974.35913"
          sodipodi:rx="0.80765027"
          sodipodi:ry="0.80765027"
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z" />
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z" />
       <path
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
          sodipodi:ry="0.80765027"
          sodipodi:rx="0.80765027"
          sodipodi:cy="974.35913"
@@ -8403,9 +8403,9 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
          sodipodi:cy="974.35913"
          sodipodi:rx="0.80765027"
          sodipodi:ry="0.80765027"
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z" />
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z" />
       <path
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
          sodipodi:ry="0.80765027"
          sodipodi:rx="0.80765027"
          sodipodi:cy="974.35913"
@@ -8729,7 +8729,7 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
        style="stroke:#fdf6e3">
       <path
          transform="translate(-5.0566046,-3.6519626)"
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
          sodipodi:ry="0.80765027"
          sodipodi:rx="0.80765027"
          sodipodi:cy="974.35913"
@@ -8749,7 +8749,7 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
        id="use6516">
       <path
          transform="translate(-5.0566046,-3.6519626)"
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
          sodipodi:ry="0.80765027"
          sodipodi:rx="0.80765027"
          sodipodi:cy="974.35913"
@@ -8769,7 +8769,7 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
        id="use6518">
       <path
          transform="translate(-5.0566046,-3.6519626)"
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
          sodipodi:ry="0.80765027"
          sodipodi:rx="0.80765027"
          sodipodi:cy="974.35913"
@@ -8789,7 +8789,7 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
        id="use6520">
       <path
          transform="translate(-5.0566046,-3.6519626)"
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
          sodipodi:ry="0.80765027"
          sodipodi:rx="0.80765027"
          sodipodi:cy="974.35913"
@@ -8809,7 +8809,7 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
        id="use6522">
       <path
          transform="translate(-5.0566046,-3.6519626)"
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
          sodipodi:ry="0.80765027"
          sodipodi:rx="0.80765027"
          sodipodi:cy="974.35913"
@@ -10158,7 +10158,7 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
            sodipodi:cy="974.35913"
            sodipodi:rx="0.80765027"
            sodipodi:ry="0.80765027"
-           d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+           d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
            transform="translate(-5.0566046,-3.6519626)" />
         <path
            inkscape:connector-curvature="0"
@@ -10187,7 +10187,7 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
            sodipodi:cy="974.35913"
            sodipodi:rx="0.80765027"
            sodipodi:ry="0.80765027"
-           d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+           d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
            transform="translate(-5.0566046,-3.6519626)" />
         <path
            inkscape:connector-curvature="0"
@@ -10216,7 +10216,7 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
            sodipodi:cy="974.35913"
            sodipodi:rx="0.80765027"
            sodipodi:ry="0.80765027"
-           d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+           d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
            transform="translate(-5.0566046,-3.6519626)" />
         <path
            inkscape:connector-curvature="0"
@@ -10245,7 +10245,7 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
            sodipodi:cy="974.35913"
            sodipodi:rx="0.80765027"
            sodipodi:ry="0.80765027"
-           d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+           d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
            transform="translate(-5.0566046,-3.6519626)" />
         <path
            inkscape:connector-curvature="0"
@@ -10274,7 +10274,7 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
            sodipodi:cy="974.35913"
            sodipodi:rx="0.80765027"
            sodipodi:ry="0.80765027"
-           d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+           d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
            transform="translate(-5.0566046,-3.6519626)" />
         <path
            inkscape:connector-curvature="0"
@@ -10303,7 +10303,7 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
            sodipodi:cy="974.35913"
            sodipodi:rx="0.80765027"
            sodipodi:ry="0.80765027"
-           d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+           d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
            transform="translate(-5.0566046,-3.6519626)" />
         <path
            inkscape:connector-curvature="0"
@@ -11748,15 +11748,15 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
        sodipodi:linespacing="105%"
        id="text5727-3"
        y="983.23254"
-       x="1263.8875"
+       x="1264.5858"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
          y="983.23254"
-         x="1263.8875"
+         x="1264.5858"
          sodipodi:role="line"
-         id="tspan5729-0">Reuilly-Diderot</tspan></text>
+         id="tspan5729-0">Montgallet</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
@@ -13928,73 +13928,60 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
          id="tspan8111">d'Orsay</tspan></text>
     <text
-       transform="scale(0.97182532,1.0289915)"
-       xml:space="preserve"
-       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       x="1728.3708"
-       y="998.18231"
-       id="text8113"
-       sodipodi:linespacing="105%"><tspan
-         id="tspan8115"
-         sodipodi:role="line"
-         x="1728.3708"
-         y="998.18231"
-         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Val de Fontenay</tspan></text>
-    <text
        sodipodi:linespacing="105%"
        id="text8117"
-       y="1065.1685"
-       x="1764.2947"
+       y="996.57428"
+       x="1731.7047"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         y="1065.1685"
-         x="1764.2947"
+         y="996.57428"
+         x="1731.7047"
          sodipodi:role="line"
          id="tspan8119">Fontenay-sous-bois</tspan></text>
     <text
        transform="scale(0.97182532,1.0289915)"
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       x="1716.8568"
-       y="1183.9166"
+       x="1767.6041"
+       y="1065.1959"
        id="text8121"
        sodipodi:linespacing="105%"><tspan
          id="tspan8123"
          sodipodi:role="line"
-         x="1716.8568"
-         y="1183.9166"
+         x="1767.6041"
+         y="1065.1959"
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Nogent-sur-Marne</tspan></text>
     <text
        sodipodi:linespacing="105%"
        id="text8125"
-       y="1308.7544"
-       x="1761.9918"
+       y="1183.8778"
+       x="1717.297"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         y="1308.7544"
-         x="1761.9918"
+         y="1183.8778"
+         x="1717.297"
          sodipodi:role="line"
          id="tspan8127">Joinville-le-pont</tspan></text>
     <text
        transform="scale(0.97182532,1.0289915)"
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       x="1846.2745"
-       y="1332.243"
+       x="1763.4028"
+       y="1299.7047"
        id="text8129"
        sodipodi:linespacing="105%"><tspan
          id="tspan8131"
          sodipodi:role="line"
-         x="1846.2745"
-         y="1332.243"
+         x="1763.4028"
+         y="1299.7047"
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Saint-Maur</tspan><tspan
          sodipodi:role="line"
-         x="1846.2745"
-         y="1339.5901"
+         x="1763.4028"
+         y="1307.0518"
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
          id="tspan8133">Créteil</tspan></text>
     <text
@@ -14189,6 +14176,19 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
          x="1530.7728"
          y="1674.7548"
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Villeneuve Prairie</tspan></text>
+    <text
+       transform="scale(0.97182532,1.0289915)"
+       xml:space="preserve"
+       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
+       x="1847.7344"
+       y="1333.3359"
+       id="text8129-1"
+       sodipodi:linespacing="105%"><tspan
+         sodipodi:role="line"
+         x="1847.7344"
+         y="1333.3359"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#586e75;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
+         id="tspan8133-9">Le parc de Saint-Maur</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -17423,7 +17423,7 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
        transform="translate(-27.366072,3.7243767)">
       <path
          transform="matrix(0.97320172,0,0,0.97320172,1.6702522,15.117897)"
-         d="m 67.52457,588.401 a 11.335059,11.335059 0 1 1 -22.670119,0 11.335059,11.335059 0 1 1 22.670119,0 z"
+         d="m 67.52457,588.401 c 0,6.26018 -5.074879,11.33506 -11.33506,11.33506 -6.26018,0 -11.335059,-5.07488 -11.335059,-11.33506 0,-6.26018 5.074879,-11.33506 11.335059,-11.33506 6.260181,0 11.33506,5.07488 11.33506,11.33506 z"
          sodipodi:ry="11.335059"
          sodipodi:rx="11.335059"
          sodipodi:cy="588.401"
@@ -17477,7 +17477,7 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
        transform="translate(-23.835585,857.9813)">
       <path
          transform="matrix(0.97320172,0,0,0.97320172,1.6702522,15.117897)"
-         d="m 67.52457,588.401 a 11.335059,11.335059 0 1 1 -22.670119,0 11.335059,11.335059 0 1 1 22.670119,0 z"
+         d="m 67.52457,588.401 c 0,6.26018 -5.074879,11.33506 -11.33506,11.33506 -6.26018,0 -11.335059,-5.07488 -11.335059,-11.33506 0,-6.26018 5.074879,-11.33506 11.335059,-11.33506 6.260181,0 11.33506,5.07488 11.33506,11.33506 z"
          sodipodi:ry="11.335059"
          sodipodi:rx="11.335059"
          sodipodi:cy="588.401"
@@ -17528,7 +17528,7 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
          sodipodi:cy="588.401"
          sodipodi:rx="11.335059"
          sodipodi:ry="11.335059"
-         d="m 67.52457,588.401 a 11.335059,11.335059 0 1 1 -22.670119,0 11.335059,11.335059 0 1 1 22.670119,0 z"
+         d="m 67.52457,588.401 c 0,6.26018 -5.074879,11.33506 -11.33506,11.33506 -6.26018,0 -11.335059,-5.07488 -11.335059,-11.33506 0,-6.26018 5.074879,-11.33506 11.335059,-11.33506 6.260181,0 11.33506,5.07488 11.33506,11.33506 z"
          transform="matrix(0.97320172,0,0,0.97320172,1.6702522,15.117897)" />
       <text
          xml:space="preserve"
@@ -17558,7 +17558,7 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
        transform="translate(1807.0416,-389.62586)">
       <path
          transform="matrix(0.97320172,0,0,0.97320172,1.6702522,15.117897)"
-         d="m 67.52457,588.401 a 11.335059,11.335059 0 1 1 -22.670119,0 11.335059,11.335059 0 1 1 22.670119,0 z"
+         d="m 67.52457,588.401 c 0,6.26018 -5.074879,11.33506 -11.33506,11.33506 -6.26018,0 -11.335059,-5.07488 -11.335059,-11.33506 0,-6.26018 5.074879,-11.33506 11.335059,-11.33506 6.260181,0 11.33506,5.07488 11.33506,11.33506 z"
          sodipodi:ry="11.335059"
          sodipodi:rx="11.335059"
          sodipodi:cy="588.401"
@@ -17609,7 +17609,7 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
          sodipodi:cy="588.401"
          sodipodi:rx="11.335059"
          sodipodi:ry="11.335059"
-         d="m 67.52457,588.401 a 11.335059,11.335059 0 1 1 -22.670119,0 11.335059,11.335059 0 1 1 22.670119,0 z"
+         d="m 67.52457,588.401 c 0,6.26018 -5.074879,11.33506 -11.33506,11.33506 -6.26018,0 -11.335059,-5.07488 -11.335059,-11.33506 0,-6.26018 5.074879,-11.33506 11.335059,-11.33506 6.260181,0 11.33506,5.07488 11.33506,11.33506 z"
          transform="matrix(0.97320172,0,0,0.97320172,1.6702522,15.117897)" />
       <text
          xml:space="preserve"
