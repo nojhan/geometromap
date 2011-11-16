@@ -114,12 +114,12 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
      pagecolor="#fdf6e3"
      id="base"
      showgrid="false"
-     inkscape:zoom="2.5575253"
-     inkscape:cx="878.70764"
-     inkscape:cy="571.15706"
+     inkscape:zoom="1.2787626"
+     inkscape:cx="855.67819"
+     inkscape:cy="683.16006"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:current-layer="layer25"
+     inkscape:current-layer="layer31"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="0"
@@ -947,7 +947,7 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
        id="use7045"
        width="1"
        height="1"
-       transform="translate(-654.55297,-163.74509)" />
+       transform="translate(-613.10665,-196.58934)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -18363,7 +18363,7 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
        transform="translate(-681.45682,-329.95164)" />
     <g
        style="display:inline"
-       transform="translate(-469.21834,690.00647)"
+       transform="translate(-510.66466,722.85072)"
        id="use7715-4">
       <rect
          style="color:#000000;fill:none;stroke:#cb4b16;stroke-width:1.50000012;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
