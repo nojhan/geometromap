@@ -81,8 +81,14 @@ Ethan Schoonover</dc:title>
             <rdf:li>correspondance</rdf:li>
           </rdf:Bag>
         </dc:subject>
-        <dc:description>Geographically accurate Paris metro map.
-Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarized</dc:description>
+        <dc:description>Cette carte a plusieurs caractéristiques qui vont plus loin que le simple esthétisme :
+* chaque station est placée à sa position géographique réelle,
+* la palette de couleurs a été conçue avec soin pour être la plus agréable à lire par un être humain, sur fond clair comme sur fond sombre (http://ethanschoonover.com/solarized),
+* elle est utilisable par les daltoniens,
+* elle est dans un format vectoriel ouvert, dédié au web,
+* aucun élément graphique ne pose de problème de droit d'auteur.
+
+Les lignes de trams sont positionnées grâce aux données géographiques du projet Open Street Map.</dc:description>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
@@ -114,9 +120,9 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
      pagecolor="#fdf6e3"
      id="base"
      showgrid="false"
-     inkscape:zoom="2.1412204"
-     inkscape:cx="181.41568"
-     inkscape:cy="1042.9666"
+     inkscape:zoom="0.55254237"
+     inkscape:cx="363.54601"
+     inkscape:cy="885"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="layer40"
