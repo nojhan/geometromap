@@ -102,8 +102,8 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:window-height="1175"
-     inkscape:window-width="952"
+     inkscape:window-height="1158"
+     inkscape:window-width="1912"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      guidetolerance="10.0"
@@ -114,12 +114,12 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
      pagecolor="#fdf6e3"
      id="base"
      showgrid="false"
-     inkscape:zoom="2.17844"
-     inkscape:cx="390.15391"
-     inkscape:cy="1042.634"
-     inkscape:window-x="960"
+     inkscape:zoom="2.1412204"
+     inkscape:cx="181.41568"
+     inkscape:cy="1042.9666"
+     inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:current-layer="layer41"
+     inkscape:current-layer="layer40"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="0"
@@ -974,8 +974,17 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
            id="tspan8128"
            x="1615.5044"
            y="520.39709"
-           style="font-size:15.99999905px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#d33682;fill-opacity:1;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold">3</tspan></text>
+           style="font-size:15.99999905px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#d33682;fill-opacity:1;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold">2</tspan></text>
     </g>
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#use7045-4"
+       id="use8157"
+       width="1"
+       height="1"
+       transform="translate(-339.52857,-544.39381)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -988,30 +997,6 @@ Use the &quot;solarized&quot; color palette: http://ethanschoonover.com/solarize
        id="path7605"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsssssssscccssssssscccccccccscssccssccsssssssscc" />
-    <g
-       id="use7045-4-3"
-       transform="translate(-1341.2166,79.479013)"
-       style="display:inline">
-      <rect
-         y="504.11499"
-         x="1609.0623"
-         height="21.58816"
-         width="21.58816"
-         id="rect8123-0"
-         style="color:#000000;fill:none;stroke:#d33682;stroke-width:1.50000012;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <text
-         xml:space="preserve"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#d33682;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
-         x="1615.5044"
-         y="520.39709"
-         id="text8126-3"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan8128-0"
-           x="1615.5044"
-           y="520.39709"
-           style="font-size:15.99999905px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#d33682;fill-opacity:1;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold">3</tspan></text>
-    </g>
   </g>
   <g
      inkscape:groupmode="layer"
