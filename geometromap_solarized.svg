@@ -120,12 +120,12 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
      pagecolor="#fdf6e3"
      id="base"
      showgrid="false"
-     inkscape:zoom="1.0916898"
-     inkscape:cx="729.76933"
-     inkscape:cy="671.58386"
+     inkscape:zoom="1.5628258"
+     inkscape:cx="1269.4159"
+     inkscape:cy="495.84089"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:current-layer="layer42"
+     inkscape:current-layer="layer31"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="0"
@@ -299,11 +299,6 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
   </defs>
   <g
      inkscape:groupmode="layer"
-     id="layer38"
-     inkscape:label="Sources"
-     style="display:inline" />
-  <g
-     inkscape:groupmode="layer"
      id="layer31"
      inkscape:label="Zones (sombre)"
      style="display:inline">
@@ -430,6 +425,11 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer38"
+     inkscape:label="Sources"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
      id="layer30"
      inkscape:label="Paris intra-muros (sombre)"
      style="display:inline">
@@ -469,7 +469,7 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
          inkscape:connector-curvature="0"
          id="path6860"
          d="m 1303.4151,1178.1319 13.1842,-14.6426 0,-65.3584 -13.1842,-14.6425"
-         style="fill:none;stroke:#586e75;stroke-width:4.03849983px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;stroke:#063b50;stroke-width:4.03849983000000012px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
       <use
          height="1770"
          width="1927"
@@ -817,6 +817,222 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
        xlink:href="#g6868"
        id="use6882-5-7-7-0-8-0-9-6-5-6-15-9-8-8-1"
        transform="matrix(-0.55570056,-1.4499836,1.4499836,-0.55570056,-585.7331,3582.3028)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g6868"
+       id="use6882-5-7-7-0-8-0-9-6-5-6-15-9-8-8-1-0"
+       transform="matrix(0.40270778,-1.499694,1.499694,0.40270778,-1870.9763,2563.0085)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g6868"
+       id="use6882-5-7-7-0-8-0-9-6-5-6-15-3"
+       transform="matrix(0.95794632,0.18466284,-0.18466284,0.95794632,-707.15608,-203.31246)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g6868"
+       id="use6882-5-7-7-0-8-0-9-6-5-6-15-3-0"
+       transform="matrix(0.68681119,0.69285778,-0.69285778,0.68681119,203.91079,-623.1318)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g6868"
+       id="use6882-5-7-7-0-8-0-9-6-5-6-15-3-0-4"
+       transform="matrix(0.95763916,0.18624919,-0.18624919,0.95763916,-713.62022,-377.56483)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g6868"
+       id="use6882-5-7-7-0-8-0-9-6-5-6-15-3-0-4-4"
+       transform="matrix(0.48824656,0.84461637,-0.84461637,0.48824656,654.71939,-801.52119)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g6868"
+       id="use6882-5-7-7-0-8-0-9-6-5-6-15-3-0-4-4-4"
+       transform="matrix(0.16779162,1.3280361,-1.3280361,0.16779162,1705.0705,-1109.4085)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g6868"
+       id="use6882-5-7-7-0-8-0-9-6-5-6-15-3-0-4-4-47"
+       transform="matrix(0.48824656,0.84461637,-0.84461637,0.48824656,804.71622,-975.56329)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g6868"
+       id="use6882-5-7-7-0-8-0-9-6-5-6-15-3-0-4-4-47-6"
+       transform="matrix(-0.10612672,1.5000243,-1.5000243,-0.10612672,2367.1544,-1156.495)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g6868"
+       id="use6882-5-7-7-0-8-0-9-6-5-6-15-3-0-4-4-47-6-3"
+       transform="matrix(-0.10612672,1.5000243,-1.5000243,-0.10612672,2434.7822,-1200.6924)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g6868"
+       id="use6882-5-7-7-0-8-0-9-6-5-6-15-3-0-4-4-47-6-3-1"
+       transform="matrix(0.28111185,1.2306227,-1.2306227,0.28111185,1698.4485,-1356.9081)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g6868"
+       id="use6882-5-7-7-0-8-0-9-6-5-6-15-3-0-4-4-47-6-3-1-7"
+       transform="matrix(-0.02527695,1.2620686,-1.2620686,-0.02527695,2120.5732,-1042.7762)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g6868"
+       id="use6882-5-7-7-0-8-0-9-6-5-6-15-3-0-4-4-47-6-3-1-7-5"
+       transform="matrix(-0.43681518,1.1843347,-1.1843347,-0.43681518,2595.4762,-513.82205)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g6868"
+       id="use6882-5-7-7-0-8-0-9-6-5-6-15-3-0-4-4-47-6-3-1-7-5-9"
+       transform="matrix(-0.29794152,1.2266569,-1.2266569,-0.29794152,2541.2992,-761.86384)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g6868"
+       id="use6882-5-7-7-0-8-0-9-6-5-6-15-3-0-4-4-47-6-3-1-7-5-9-6"
+       transform="matrix(-0.29794152,1.2266569,-1.2266569,-0.29794152,2578.6268,-778.5811)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g6868"
+       id="use6882-5-7-7-0-8-0-9-6-5-6-15-3-0-4-4-47-6-3-1-7-5-9-6-2"
+       transform="matrix(0.25936068,1.4561919,-1.4561919,0.25936068,2225.1932,-1750.3162)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g6868"
+       id="use6882-1"
+       transform="matrix(0.91572362,-0.40180872,0.40180872,0.91572362,-316.1352,645.29903)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g6868"
+       id="use6882-1-7"
+       transform="matrix(0.91572362,-0.40180872,0.40180872,0.91572362,-306.7433,650.80463)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g6868"
+       id="use6882-1-7-8"
+       transform="matrix(0.22321731,-0.9747687,0.9747687,0.22321731,-42.324111,2193.3148)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g6868"
+       id="use6882-1-7-8-5"
+       transform="matrix(0.58126263,-0.81371601,0.81371601,0.58126263,-267.021,1573.4839)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g6868"
+       id="use6882-1-7-8-5-7"
+       transform="matrix(0.81371601,0.58126263,-0.58126263,0.81371601,1023.9755,-386.0896)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g6868"
+       id="use6882-1-7-8-5-7-4"
+       transform="matrix(0.99605006,-0.08879341,0.08879341,0.99605006,67.649271,374.58262)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g6868"
+       id="use6882-1-7-8-5-7-4-1"
+       transform="matrix(1.0423288,0.43658465,-0.43658465,1.0423288,597.40195,-133.2013)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g6868"
+       id="use6882-1-7-8-5-7-4-1-8"
+       transform="matrix(1.1039893,0.24137748,-0.24137748,1.1039893,284.20369,116.5015)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g6868"
+       id="use6882-1-7-8-5-7-4-1-8-5"
+       transform="matrix(0.93859123,-0.09313568,0.09313568,0.93859123,167.48509,840.76638)"
        width="1927"
        height="1770" />
   </g>
@@ -6073,7 +6289,7 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
        id="g6551"
        style="stroke:#073642">
       <path
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
          sodipodi:ry="0.80765027"
          sodipodi:rx="0.80765027"
          sodipodi:cy="974.35913"
@@ -6090,7 +6306,7 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
          sodipodi:cy="974.35913"
          sodipodi:rx="0.80765027"
          sodipodi:ry="0.80765027"
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z" />
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z" />
     </g>
     <use
        style="display:inline"
@@ -6362,7 +6578,7 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
          sodipodi:cy="974.35913"
          sodipodi:rx="0.80765027"
          sodipodi:ry="0.80765027"
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
          transform="translate(-5.0566046,-3.6519626)" />
       <path
          inkscape:connector-curvature="0"
@@ -7223,7 +7439,7 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
          style="stroke:#073642">
         <path
            transform="translate(-5.0566046,-3.6519626)"
-           d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+           d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
            sodipodi:ry="0.80765027"
            sodipodi:rx="0.80765027"
            sodipodi:cy="974.35913"
@@ -14351,7 +14567,7 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
        transform="translate(-27.366072,3.7243767)">
       <path
          transform="matrix(0.97320172,0,0,0.97320172,1.6702522,15.117897)"
-         d="m 67.52457,588.401 a 11.335059,11.335059 0 1 1 -22.670119,0 11.335059,11.335059 0 1 1 22.670119,0 z"
+         d="m 67.52457,588.401 c 0,6.26018 -5.074879,11.33506 -11.33506,11.33506 -6.26018,0 -11.335059,-5.07488 -11.335059,-11.33506 0,-6.26018 5.074879,-11.33506 11.335059,-11.33506 6.260181,0 11.33506,5.07488 11.33506,11.33506 z"
          sodipodi:ry="11.335059"
          sodipodi:rx="11.335059"
          sodipodi:cy="588.401"
@@ -14405,7 +14621,7 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
        transform="translate(-23.835585,857.9813)">
       <path
          transform="matrix(0.97320172,0,0,0.97320172,1.6702522,15.117897)"
-         d="m 67.52457,588.401 a 11.335059,11.335059 0 1 1 -22.670119,0 11.335059,11.335059 0 1 1 22.670119,0 z"
+         d="m 67.52457,588.401 c 0,6.26018 -5.074879,11.33506 -11.33506,11.33506 -6.26018,0 -11.335059,-5.07488 -11.335059,-11.33506 0,-6.26018 5.074879,-11.33506 11.335059,-11.33506 6.260181,0 11.33506,5.07488 11.33506,11.33506 z"
          sodipodi:ry="11.335059"
          sodipodi:rx="11.335059"
          sodipodi:cy="588.401"
@@ -14456,7 +14672,7 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
          sodipodi:cy="588.401"
          sodipodi:rx="11.335059"
          sodipodi:ry="11.335059"
-         d="m 67.52457,588.401 a 11.335059,11.335059 0 1 1 -22.670119,0 11.335059,11.335059 0 1 1 22.670119,0 z"
+         d="m 67.52457,588.401 c 0,6.26018 -5.074879,11.33506 -11.33506,11.33506 -6.26018,0 -11.335059,-5.07488 -11.335059,-11.33506 0,-6.26018 5.074879,-11.33506 11.335059,-11.33506 6.260181,0 11.33506,5.07488 11.33506,11.33506 z"
          transform="matrix(0.97320172,0,0,0.97320172,1.6702522,15.117897)" />
       <text
          xml:space="preserve"
@@ -14486,7 +14702,7 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
        transform="translate(1807.0416,-389.62586)">
       <path
          transform="matrix(0.97320172,0,0,0.97320172,1.6702522,15.117897)"
-         d="m 67.52457,588.401 a 11.335059,11.335059 0 1 1 -22.670119,0 11.335059,11.335059 0 1 1 22.670119,0 z"
+         d="m 67.52457,588.401 c 0,6.26018 -5.074879,11.33506 -11.33506,11.33506 -6.26018,0 -11.335059,-5.07488 -11.335059,-11.33506 0,-6.26018 5.074879,-11.33506 11.335059,-11.33506 6.260181,0 11.33506,5.07488 11.33506,11.33506 z"
          sodipodi:ry="11.335059"
          sodipodi:rx="11.335059"
          sodipodi:cy="588.401"
@@ -14537,7 +14753,7 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
          sodipodi:cy="588.401"
          sodipodi:rx="11.335059"
          sodipodi:ry="11.335059"
-         d="m 67.52457,588.401 a 11.335059,11.335059 0 1 1 -22.670119,0 11.335059,11.335059 0 1 1 22.670119,0 z"
+         d="m 67.52457,588.401 c 0,6.26018 -5.074879,11.33506 -11.33506,11.33506 -6.26018,0 -11.335059,-5.07488 -11.335059,-11.33506 0,-6.26018 5.074879,-11.33506 11.335059,-11.33506 6.260181,0 11.33506,5.07488 11.33506,11.33506 z"
          transform="matrix(0.97320172,0,0,0.97320172,1.6702522,15.117897)" />
       <text
          xml:space="preserve"
