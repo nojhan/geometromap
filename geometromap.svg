@@ -120,12 +120,12 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
      pagecolor="#fdf6e3"
      id="base"
      showgrid="false"
-     inkscape:zoom="4.2239773"
-     inkscape:cx="1036.1358"
-     inkscape:cy="1144.3369"
+     inkscape:zoom="2.986803"
+     inkscape:cx="1109.9938"
+     inkscape:cy="753.29069"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:current-layer="layer28"
+     inkscape:current-layer="layer31"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="0"
@@ -8955,21 +8955,16 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
     <text
        sodipodi:linespacing="105%"
        id="text5653-5"
-       y="1041.6925"
-       x="1157.4126"
+       y="1045.5969"
+       x="1157.0681"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#839496;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        xml:space="preserve"
        transform="scale(0.97182532,1.0289915)"><tspan
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#839496;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         y="1041.6925"
-         x="1157.4126"
+         y="1045.5969"
+         x="1157.0681"
          sodipodi:role="line"
-         id="tspan5655-6">Parc de</tspan><tspan
-         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#839496;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         y="1049.0396"
-         x="1157.4126"
-         sodipodi:role="line"
-         id="tspan5657-7">Bercy</tspan></text>
+         id="tspan5657-7">Quai de la gare</tspan></text>
     <text
        sodipodi:linespacing="105%"
        id="text5659-3"
