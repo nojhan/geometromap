@@ -1,1 +1,3 @@
-To update the PDF from the SVG files, type `make`. You need inskcape installed.
+Pour exporter les fichiers SVG en PDF, taper `make`. Vous devez avor make, inkscape et pdftk d'installés.
+
+To export the SVG files to PDF, type `make`. You need make, inskcape and pdftk installed.
