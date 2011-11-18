@@ -120,12 +120,12 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
      pagecolor="#fdf6e3"
      id="base"
      showgrid="false"
-     inkscape:zoom="8.8406779"
-     inkscape:cx="95.851378"
-     inkscape:cy="1543.6999"
+     inkscape:zoom="8.4479545"
+     inkscape:cx="1092.5476"
+     inkscape:cy="773.61147"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:current-layer="layer24"
+     inkscape:current-layer="layer37"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="0"
@@ -5390,7 +5390,7 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
        id="path5110"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;fill:#6c71c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.69156688;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#268bd2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.69156687999999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 1112.1562,1003.7812 c 0.1569,1.4987 0.9295,2.9046 1.9605,3.8846 0.9203,0.7797 2.2238,1.4043 3.5083,1.553 0.4761,-0.193 0.112,-0.905 0.2188,-1.3188 0,-1.4667 -1e-4,-2.9333 0,-4.4 -1.9063,0 -3.8125,0 -5.7188,0 0.01,0.094 0.021,0.1875 0.031,0.2812 z"
        id="path5112"
        inkscape:connector-curvature="0" />
@@ -9049,7 +9049,7 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
          sodipodi:role="line"
          x="1454.9115"
          y="1240.6263"
-         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#839496;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Écoles Vétérinaire de Maisons-Alfort</tspan></text>
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#839496;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">École Vétérinaire de Maisons-Alfort</tspan></text>
     <text
        sodipodi:linespacing="105%"
        id="text5683-9"
@@ -15488,7 +15488,7 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="czc" />
     <use
-       style="display:inline"
+       style="display:inline;fill:#eee8d5"
        height="1770"
        width="1927"
        transform="translate(-1711.4797,-1296.2291)"
