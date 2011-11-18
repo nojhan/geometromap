@@ -120,12 +120,12 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
      pagecolor="#fdf6e3"
      id="base"
      showgrid="false"
-     inkscape:zoom="0.74670074"
-     inkscape:cx="617.5717"
-     inkscape:cy="792.31001"
+     inkscape:zoom="8.8406779"
+     inkscape:cx="95.851378"
+     inkscape:cy="1543.6999"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:current-layer="layer31"
+     inkscape:current-layer="layer24"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="0"
@@ -320,14 +320,14 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#586e75;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
-       x="154.08902"
-       y="243.51514"
+       x="168.56755"
+       y="292.88452"
        id="text7101"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan7103"
-         x="154.08902"
-         y="243.51514"
+         x="168.56755"
+         y="292.88452"
          style="font-size:6px;fill:#586e75">© nojhan / CC-BY-SA</tspan></text>
     <text
        xml:space="preserve"
@@ -15331,9 +15331,9 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
        style="color:#000000;fill:#002b36;stroke:#586e75;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#Arrow1Sstart);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect7782"
        width="174.95813"
-       height="193.66714"
-       x="43.719219"
-       y="42.708862"
+       height="263.138"
+       x="58.197746"
+       y="22.103041"
        rx="8.1518555"
        ry="8.1518555" />
     <use
@@ -15344,7 +15344,7 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
        id="use5723"
        width="1"
        height="1"
-       transform="translate(-773.39031,-1035.3273)" />
+       transform="translate(-758.91179,-1024.4165)" />
     <use
        style="display:inline"
        x="0"
@@ -15353,7 +15353,7 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
        id="use5725"
        width="1"
        height="1"
-       transform="translate(-773.39031,-1035.3273)" />
+       transform="translate(-758.91179,-1024.4165)" />
     <use
        style="display:inline"
        x="0"
@@ -15362,53 +15362,53 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
        id="use5727"
        width="1"
        height="1"
-       transform="translate(-773.39031,-1035.3273)" />
+       transform="translate(-758.91179,-1024.4165)" />
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#839496;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
-       x="88.94931"
-       y="165.03244"
+       x="103.42784"
+       y="175.94322"
        id="text5753"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5755"
-         x="88.94931"
-         y="165.03244"
+         x="103.42784"
+         y="175.94322"
          style="font-size:8px">Correspondance avec le tramway</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:end;text-decoration:none;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#839496;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-       x="140.52898"
-       y="65.029167"
+       x="155.00751"
+       y="44.216286"
        id="text5753-7"
        sodipodi:linespacing="105%"><tspan
          sodipodi:role="line"
          id="tspan5755-6"
-         x="140.52898"
-         y="65.029167"
+         x="155.00751"
+         y="44.216286"
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:end;text-decoration:none;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#839496;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Station de métro</tspan></text>
     <text
        sodipodi:linespacing="105%"
        id="text6900"
-       y="88.210075"
-       x="137.41307"
+       y="67.397194"
+       x="151.8916"
        style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:end;text-decoration:none;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#839496;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
        xml:space="preserve"><tspan
          style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:end;text-decoration:none;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#839496;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
-         y="88.210075"
-         x="137.41307"
+         y="67.397194"
+         x="151.8916"
          id="tspan6902"
          sodipodi:role="line">Station de RER</tspan></text>
     <text
        sodipodi:linespacing="103%"
        id="text6900-0"
-       y="113.90997"
-       x="89.153969"
+       y="124.82075"
+       x="103.6325"
        style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#93a1a1;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
        xml:space="preserve"><tspan
          style="font-size:6.99714231px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#93a1a1;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-         y="113.90997"
-         x="89.153969"
+         y="124.82075"
+         x="103.6325"
          id="tspan6902-9"
          sodipodi:role="line">Station de correspondance</tspan></text>
     <rect
@@ -15416,22 +15416,22 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
        id="rect8632"
        width="53.717335"
        height="15.708028"
-       x="-102.87994"
-       y="-50.764084"
+       x="-117.35847"
+       y="-29.9512"
        rx="7.8540139"
        ry="7.8540139"
        transform="scale(-1,-1)" />
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#93a1a1;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
-       x="53.174019"
-       y="46.417133"
+       x="67.65255"
+       y="25.60425"
        id="text6975"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6977"
-         x="53.174019"
-         y="46.417133">Légende</tspan></text>
+         x="67.65255"
+         y="25.60425">Légende</tspan></text>
     <use
        style="display:inline"
        xlink:href="#path2608"
@@ -15440,10 +15440,10 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
        y="0"
        x="0"
        id="use2648-7"
-       transform="matrix(1.25,0,0,1.25,-792.87309,-1497.2278)" />
+       transform="matrix(1.25,0,0,1.25,-778.39457,-1486.317)" />
     <g
        id="g7054"
-       transform="translate(-12.157465,-14.331585)">
+       transform="translate(2.3210629,-3.4208125)">
       <rect
          ry="5.4656982"
          rx="5.4656982"
@@ -15473,17 +15473,17 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
        y="0"
        xlink:href="#g4931"
        id="use6353-9-6"
-       transform="translate(-640.57001,-1185.5605)"
+       transform="translate(-626.09149,-1174.6497)"
        width="1927"
        height="1770" />
     <path
        style="color:#000000;fill:none;stroke:#2aa198;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 75.117726,144.46365 10.363483,4.53403"
+       d="m 89.596254,155.37442 10.363483,4.53403"
        id="path7031"
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;fill:none;stroke:#dc322f;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.25, 1.25;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 58.219935,78.142923 c 0,0 6.424113,-0.828862 6.599798,7.424772 0.175684,8.253631 7.894451,7.606061 7.894451,7.606061"
+       d="m 72.698463,57.33004 c 0,0 6.424113,-0.828862 6.599798,7.424772 0.175684,8.253631 7.894451,7.606061 7.894451,7.606061"
        id="path5807-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="czc" />
@@ -15491,14 +15491,14 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
        style="display:inline"
        height="1770"
        width="1927"
-       transform="translate(-1725.9583,-1275.4162)"
+       transform="translate(-1711.4797,-1296.2291)"
        id="use8319-7-6"
        xlink:href="#path6329"
        y="0"
        x="0" />
     <path
        style="color:#000000;fill:none;stroke:#b58900;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 56.543369,55.806323 c 0,0 6.424113,-0.828862 6.599798,7.424772 0.175684,8.253633 6.599016,7.606063 6.599016,7.606063"
+       d="m 71.021897,34.99344 c 0,0 6.424113,-0.828862 6.599798,7.424772 0.175684,8.253633 6.599016,7.606063 6.599016,7.606063"
        id="path5807"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="czc" />
@@ -15510,16 +15510,16 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
        y="0"
        x="0"
        id="use3671-7"
-       transform="matrix(1.25,0,0,1.25,-419.96295,-705.58739)" />
+       transform="matrix(1.25,0,0,1.25,-405.48443,-726.40028)" />
     <path
        style="color:#000000;fill:none;stroke:#b58900;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 55.97306,103.26796 20.526903,16.40486"
+       d="m 70.451588,114.17873 20.526903,16.40486"
        id="path5807-63"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        style="color:#000000;fill:none;stroke:#dc322f;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.25, 1.25;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 77.410938,108.20039 -22.509346,12.7408"
+       d="M 91.889466,119.11116 69.38012,131.85196"
        id="path5807-6-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -15527,69 +15527,139 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path6973"
-       d="m 72.46126,101.66494 c -3.228978,7.92551 -12.174406,11.52583 -20.006589,12.05381"
+       d="m 86.939788,112.57571 c -3.228978,7.92551 -12.174406,11.52583 -20.006589,12.05381"
        style="color:#000000;fill:none;stroke:#6c71c4;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <path
        id="path5066-0"
        style="fill:#073642;fill-opacity:1;stroke:#93a1a1;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;display:inline"
-       d="m 73.578481,111.68293 c 0,4.3491 -3.5257,7.875 -7.875,7.875 -4.3491,0 -7.875,-3.5259 -7.875,-7.875 0,-4.3493 3.5259,-7.875 7.875,-7.875 4.3493,0 7.875,3.5257 7.875,7.875 z"
+       d="m 88.057009,122.5937 c 0,4.3491 -3.5257,7.875 -7.875,7.875 -4.3491,0 -7.875,-3.5259 -7.875,-7.875 0,-4.3493 3.5259,-7.875 7.875,-7.875 4.3493,0 7.875,3.5257 7.875,7.875 z"
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;fill:#b58900;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.69156688;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 64.885281,105.6209 c -1.2973,0.2034 -2.5423,0.87019 -3.4405,1.70057 -0.7489,0.77713 -1.2161,1.67324 -1.5792,2.70999 -0.4292,1.59577 -0.1982,3.43868 0.8009,4.77694 1.5729,-1.13542 3.1458,-2.27083 4.7188,-3.40625 0.034,-1.84261 -0.082,-3.70247 0.031,-5.53125 -0.022,-0.228 -0.2407,-0.34844 -0.5312,-0.25 z"
+       d="m 79.363809,116.53167 c -1.2973,0.2034 -2.5423,0.87019 -3.4405,1.70057 -0.7489,0.77713 -1.2161,1.67324 -1.5792,2.70999 -0.4292,1.59577 -0.1982,3.43868 0.8009,4.77694 1.5729,-1.13542 3.1458,-2.27083 4.7188,-3.40625 0.034,-1.84261 -0.082,-3.70247 0.031,-5.53125 -0.022,-0.228 -0.2407,-0.34844 -0.5312,-0.25 z"
        id="path5136-8"
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;fill:#6c71c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.69156688;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 66.010281,111.40215 c 1.6979,0.94792 3.3958,1.89583 5.0937,2.84375 0.9795,-1.91095 0.6979,-4.41205 -0.5,-6.0625 -0.4323,-0.51092 -0.7418,-1.00667 -1.3145,-1.34088 -0.9497,-0.70478 -2.0865,-1.19341 -3.2792,-1.25287 -1e-4,1.9375 0,3.875 0,5.8125 z"
+       d="m 80.488809,122.31292 c 1.6979,0.94792 3.3958,1.89583 5.0937,2.84375 0.9795,-1.91095 0.6979,-4.41205 -0.5,-6.0625 -0.4323,-0.51092 -0.7418,-1.00667 -1.3145,-1.34088 -0.9497,-0.70478 -2.0865,-1.19341 -3.2792,-1.25287 -1e-4,1.9375 0,3.875 0,5.8125 z"
        id="path5138-8"
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;fill:#cb4b16;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.69156688;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 61.322681,115.2459 c -0.5778,0.0774 0.053,0.70822 0.2813,0.78125 1.2506,1.17462 3.2591,1.84224 5.0625,1.53125 1.1601,-0.15077 2.2515,-0.88143 3.1072,-1.50258 0.3062,-0.38237 0.874,-0.70296 0.799,-1.18492 -0.3839,-0.43049 -1.0372,-0.49605 -1.494,-0.86977 -1.1374,-0.64758 -2.2748,-1.29515 -3.4122,-1.94273 -1.4479,1.0625 -2.8958,2.125 -4.3438,3.1875 z"
+       d="m 75.801209,126.15667 c -0.5778,0.0774 0.053,0.70822 0.2813,0.78125 1.2506,1.17462 3.2591,1.84224 5.0625,1.53125 1.1601,-0.15077 2.2515,-0.88143 3.1072,-1.50258 0.3062,-0.38237 0.874,-0.70296 0.799,-1.18492 -0.3839,-0.43049 -1.0372,-0.49605 -1.494,-0.86977 -1.1374,-0.64758 -2.2748,-1.29515 -3.4122,-1.94273 -1.4479,1.0625 -2.8958,2.125 -4.3438,3.1875 z"
        id="path5140-5"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#073642;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.99999999, 5.99999995;stroke-dashoffset:0;display:inline"
-       d="m 82.550025,199.26996 -1.473227,1.35935 -0.41209,-0.01 -0.72116,0.43948 -0.855087,0.14309 -0.762374,0.63368 -0.628435,0.30661 -0.958108,0.52126 -0.690262,0.51104 -2.894938,1.43088 -0.432694,0.1022 -0.546026,0.0205 -0.803577,-0.11243 -0.453296,-0.695 -0.133933,-0.0511 -0.494507,0.48035 -0.515116,0.29641 -0.504814,-0.0613 0,0.27596 -0.133927,-0.0203 -0.164837,-0.16353 -0.309068,-0.1022 -1.823507,-0.0613 -0.03093,-0.50082 -2.421037,-0.83809 -2.864035,-0.9403 -2.493154,-0.84831 -0.834484,-0.40884 -0.906601,-0.695 -1.153856,-0.62346 -0.236953,0.48038 -0.989019,0.98118 -0.999322,-0.01 0,-1.24692 0.49451,-0.35772 -0.473904,-0.41905 -1.040532,0.23507 -1.380507,-0.23507 -0.175138,-0.41904 -0.58723,-0.77677 -0.01029,-1.02207 -0.07212,-0.2964 0.257558,-0.51103 0,-0.25552 0.693149,-0.84991 0.37154,-0.23609 0.657018,-1.06418 0.493373,-1.12362 0.485284,-1.53754 -0.129183,-0.42249 2.302008,-3.51007 0.47477,-0.31992 0.112251,-0.76845 0.206045,-1.12427 0.144232,-0.42927 0.525417,-0.62346 1.514435,-1.15493 0.62844,-0.0613 2.462245,-1.96237 2.235595,-1.01184 0.370883,-0.23508 0.247254,-0.18396 2.627084,-0.0716 2.245895,-0.0408 1.153856,-0.092 2.750716,-0.1022 1.771987,-0.0205 2.070756,-0.01 0.875699,0.28618 0.236948,0.0306 0.25756,0.13288 0.669649,0.62346 0.473907,1.15493 0.164835,0.80744 0.04124,0.7461 0.0721,0.36795 0.02057,0.91986 0.360579,0.63367 0.216356,0.25552 0.56662,0.26574 0.855088,0.28618 0.63875,1.27758 0.20605,0.75632 0.08238,2.30987 0.03096,1.51266 0.20605,0.99141 0.02067,0.77676 0.25756,1.71707 -0.03096,0.80743 -0.381182,2.12591 -0.298764,1.31846 z"
+       d="m 97.028553,210.18073 -1.473227,1.35935 -0.41209,-0.01 -0.72116,0.43948 -0.855087,0.14309 -0.762374,0.63368 -0.628435,0.30661 -0.958108,0.52126 -0.690262,0.51104 -2.894938,1.43088 -0.432694,0.1022 -0.546026,0.0205 -0.803577,-0.11243 -0.453296,-0.695 -0.133933,-0.0511 -0.494507,0.48035 -0.515116,0.29641 -0.504814,-0.0613 0,0.27596 -0.133927,-0.0203 -0.164837,-0.16353 -0.309068,-0.1022 -1.823507,-0.0613 -0.03093,-0.50082 -2.421037,-0.83809 -2.864035,-0.9403 -2.493154,-0.84831 -0.834484,-0.40884 -0.906601,-0.695 -1.153856,-0.62346 -0.236953,0.48038 -0.989019,0.98118 -0.999322,-0.01 0,-1.24692 0.49451,-0.35772 -0.473904,-0.41905 -1.040532,0.23507 -1.380507,-0.23507 -0.175138,-0.41904 -0.58723,-0.77677 -0.01029,-1.02207 -0.07212,-0.2964 0.257558,-0.51103 0,-0.25552 0.693149,-0.84991 0.37154,-0.23609 0.657018,-1.06418 0.493373,-1.12362 0.485284,-1.53754 -0.129183,-0.42249 2.302008,-3.51007 0.47477,-0.31992 0.112251,-0.76845 0.206045,-1.12427 0.144232,-0.42927 0.525417,-0.62346 1.514435,-1.15493 0.62844,-0.0613 2.462245,-1.96237 2.235595,-1.01184 0.370883,-0.23508 0.247254,-0.18396 2.627084,-0.0716 2.245895,-0.0408 1.153856,-0.092 2.750716,-0.1022 1.771987,-0.0205 2.070756,-0.01 0.875699,0.28618 0.236948,0.0306 0.25756,0.13288 0.669649,0.62346 0.473907,1.15493 0.164835,0.80744 0.04124,0.7461 0.0721,0.36795 0.02057,0.91986 0.360579,0.63367 0.216356,0.25552 0.56662,0.26574 0.855088,0.28618 0.63875,1.27758 0.20605,0.75632 0.08238,2.30987 0.03096,1.51266 0.20605,0.99141 0.02067,0.77676 0.25756,1.71707 -0.03096,0.80743 -0.381182,2.12591 -0.298764,1.31846 z"
        id="path9491-8"
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#839496;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
-       x="88.94931"
-       y="196.9445"
+       x="103.42784"
+       y="207.85529"
        id="text5753-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5755-2"
-         x="88.94931"
-         y="196.9445"
+         x="103.42784"
+         y="207.85529"
          style="font-size:8px">Paris intra-muros</tspan></text>
     <text
+       xml:space="preserve"
+       style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:end;text-decoration:none;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#839496;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
+       x="151.8916"
+       y="92.965508"
+       id="text6723"
+       sodipodi:linespacing="105%"><tspan
+         sodipodi:role="line"
+         id="tspan6725"
+         x="151.8916"
+         y="92.965508"
+         style="font-size:6.99714231px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:end;text-decoration:none;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#839496;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic">Station de Tram</tspan></text>
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:none;stroke:#268bd2;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 72.947278,84.874617 c 0,0 1.05923,-0.0864 2.09375,0.4375 1.03452,0.52393 2.173225,1.45565 2.25,5.0625 0.101127,4.75097 2.735082,7.58058 5.21875,8.6875 2.483668,1.106923 4.84375,0.875 4.84375,0.875 m -0.3125,-4 c 0,0 -1.486613,0.10145 -2.90625,-0.53125 -1.419637,-0.6327 -2.769193,-1.62233 -2.84375,-5.125 -0.09891,-4.64678 -2.247292,-7.43745 -4.46875,-8.5625 -2.221458,-1.12505 -4.375,-0.8125 -4.375,-0.8125"
+       id="path6727"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccssccsssc" />
+    <rect
+       style="color:#000000;fill:#268bd2;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect6735"
+       width="8.7049599"
+       height="8.7049599"
+       x="74.911041"
+       y="86.37236"
+       rx="0"
+       ry="0" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g6868"
+       id="use6882-5-7-7-0-8-0-9-6-5-6-15-3-0-4-4-47-6-7"
+       transform="matrix(0.86164781,0.61838365,-0.61838365,0.86164781,-248.36139,-1539.7426)"
+       width="1927"
+       height="1770" />
+    <text
        sodipodi:linespacing="125%"
-       id="text7216"
-       y="225.09863"
-       x="88.94931"
+       id="text6755"
+       y="231.38289"
+       x="103.42784"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#839496;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
        xml:space="preserve"><tspan
          style="font-size:8px"
-         y="225.09863"
-         x="88.94931"
-         id="tspan7218"
-         sodipodi:role="line">Zones RER</tspan></text>
+         y="231.38289"
+         x="103.42784"
+         id="tspan6757"
+         sodipodi:role="line">Pont</tspan></text>
     <text
-       sodipodi:linespacing="125%"
-       id="use6174-5-9"
-       y="229.43669"
-       x="59.372288"
-       style="font-size:21.37791824px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#073642;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       xml:space="preserve"><tspan
-         y="229.43669"
-         x="59.372288"
-         id="tspan6721"
-         sodipodi:role="line">1</tspan></text>
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#839496;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="103.42784"
+       y="264.64572"
+       id="text6761"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6763"
+         x="103.42784"
+         y="264.64572"
+         style="font-size:8px">Limite de zone RER</tspan></text>
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#text8309-7"
+       id="use6266-3-1-8-8-4-7-6-4"
+       transform="translate(-1206.8963,-1075.2859)"
+       width="1927"
+       height="1770" />
+    <path
+       style="color:#000000;fill:none;stroke:#2aa198;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.25, 1.25;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 66.682959,261.36326 33.799221,-0.166"
+       id="path5807-6-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#g6177"
+       id="use6182-7-9-4-2-5-10-4-5-2-1"
+       transform="matrix(-0.52522426,0.85096387,-0.85096387,-0.52522426,1769.25,-113.12127)"
+       width="1927"
+       height="1770" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#text8301-1"
+       id="use6184-5-8-9-0-6-3-7-9-1-8"
+       transform="translate(-1121.778,-991.34722)"
+       width="1927"
+       height="1770" />
   </g>
   <g
      inkscape:groupmode="layer"
