@@ -1,0 +1,1 @@
+To update the PDF from the SVG files, type `make`. You need inskcape installed.
