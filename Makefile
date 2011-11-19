@@ -1,17 +1,21 @@
-MAPS=geometromap
 
-TMPDFs=$(addprefix tmp_, $(addsuffix .pdf, $(MAPS)))
-PDFs=$(addsuffix .pdf, $(MAPS))
+TF="nometadata.pdf"
 
-all: $(PDFs)
+all: colors geometromap.pdf geometromap_light.pdf
+
+colors: geometromap.svg geometromap_light.svg
+
+pdf: geometromap.pdf geometromap_light.pdf
+
+%_light.svg: %.svg 
+	bash switch_colors.sh $<
 
 %.pdf: %.svg meta.data
-	inkscape -A tmp_$@ $<
-	pdftk tmp_$@ update_info meta.data output $@
+	inkscape -A $(TF) $<
+	pdftk $(TF) update_info meta.data output $@
 
-cleantmp:
-	 rm -f $(TMPDFs)
-
-clean: cleantmp
-	rm -f $(PDFs)
+clean:
+	rm -f $(TF)
+	rm -f geometromap_light.svg
+	rm -f geometromap.pdf geometromap_light.pdf
 
