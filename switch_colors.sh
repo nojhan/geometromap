@@ -28,7 +28,7 @@ for f in $1; do
 
     sed s/$base03/$base3/gi <$tmp1 >$tmp2
     sed s/$base02/$base2/gi <$tmp2 >$tmp1
-    sed s/$base0/$base00/gi  <$tmp1 >$tmp2
+    sed s/$base0/$base00/gi <$tmp1 >$tmp2
     sed s/$base1/$base01/gi <$tmp2 >$tmp1
 
     cp $tmp1 ${fn}_light.svg

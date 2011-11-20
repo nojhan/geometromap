@@ -109,7 +109,7 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
   </metadata>
   <sodipodi:namedview
      inkscape:window-height="1158"
-     inkscape:window-width="1031"
+     inkscape:window-width="1912"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      guidetolerance="10.0"
@@ -1940,7 +1940,7 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
        width="1927"
        height="1770" />
     <g
-       transform="matrix(-0.4327883,0.9014956,0.9014956,0.4327883,-272.06742,-1018.7446)"
+       transform="matrix(-0.4327883,0.9014956,0.9014956,0.4327883,-271.93694,-1018.2227)"
        id="use6182-7-9-0-3-4-4-1-5">
       <rect
          style="color:#000000;fill:#002b36;fill-opacity:1;fill-rule:nonzero;stroke:#586e75;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -1976,7 +1976,7 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
        y="0"
        xlink:href="#use6182-7-9-0-3-4-4-1-5"
        id="use5311"
-       transform="translate(22.692982,11.309573)"
+       transform="translate(22.562497,10.787634)"
        width="1927"
        height="1770" />
   </g>
@@ -6750,7 +6750,7 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
        id="g6551"
        style="stroke:#073642">
       <path
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
          sodipodi:ry="0.80765027"
          sodipodi:rx="0.80765027"
          sodipodi:cy="974.35913"
@@ -6767,7 +6767,7 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
          sodipodi:cy="974.35913"
          sodipodi:rx="0.80765027"
          sodipodi:ry="0.80765027"
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z" />
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z" />
     </g>
     <use
        style="display:inline"
@@ -7039,7 +7039,7 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
          sodipodi:cy="974.35913"
          sodipodi:rx="0.80765027"
          sodipodi:ry="0.80765027"
-         d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+         d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
          transform="translate(-5.0566046,-3.6519626)" />
       <path
          inkscape:connector-curvature="0"
@@ -7900,7 +7900,7 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
          style="stroke:#073642">
         <path
            transform="translate(-5.0566046,-3.6519626)"
-           d="m 672.56198,974.35913 a 0.80765027,0.80765027 0 1 1 -1.6153,0 0.80765027,0.80765027 0 1 1 1.6153,0 z"
+           d="m 672.56198,974.35913 c 0,0.44605 -0.36159,0.80765 -0.80765,0.80765 -0.44605,0 -0.80765,-0.3616 -0.80765,-0.80765 0,-0.44605 0.3616,-0.80765 0.80765,-0.80765 0.44606,0 0.80765,0.3616 0.80765,0.80765 z"
            sodipodi:ry="0.80765027"
            sodipodi:rx="0.80765027"
            sodipodi:cy="974.35913"
@@ -15027,7 +15027,7 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
        transform="translate(-27.366072,3.7243767)">
       <path
          transform="matrix(0.97320172,0,0,0.97320172,1.6702522,15.117897)"
-         d="m 67.52457,588.401 a 11.335059,11.335059 0 1 1 -22.670119,0 11.335059,11.335059 0 1 1 22.670119,0 z"
+         d="m 67.52457,588.401 c 0,6.26018 -5.074879,11.33506 -11.33506,11.33506 -6.26018,0 -11.335059,-5.07488 -11.335059,-11.33506 0,-6.26018 5.074879,-11.33506 11.335059,-11.33506 6.260181,0 11.33506,5.07488 11.33506,11.33506 z"
          sodipodi:ry="11.335059"
          sodipodi:rx="11.335059"
          sodipodi:cy="588.401"
@@ -15081,7 +15081,7 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
        transform="translate(-23.835585,857.9813)">
       <path
          transform="matrix(0.97320172,0,0,0.97320172,1.6702522,15.117897)"
-         d="m 67.52457,588.401 a 11.335059,11.335059 0 1 1 -22.670119,0 11.335059,11.335059 0 1 1 22.670119,0 z"
+         d="m 67.52457,588.401 c 0,6.26018 -5.074879,11.33506 -11.33506,11.33506 -6.26018,0 -11.335059,-5.07488 -11.335059,-11.33506 0,-6.26018 5.074879,-11.33506 11.335059,-11.33506 6.260181,0 11.33506,5.07488 11.33506,11.33506 z"
          sodipodi:ry="11.335059"
          sodipodi:rx="11.335059"
          sodipodi:cy="588.401"
@@ -15132,7 +15132,7 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
          sodipodi:cy="588.401"
          sodipodi:rx="11.335059"
          sodipodi:ry="11.335059"
-         d="m 67.52457,588.401 a 11.335059,11.335059 0 1 1 -22.670119,0 11.335059,11.335059 0 1 1 22.670119,0 z"
+         d="m 67.52457,588.401 c 0,6.26018 -5.074879,11.33506 -11.33506,11.33506 -6.26018,0 -11.335059,-5.07488 -11.335059,-11.33506 0,-6.26018 5.074879,-11.33506 11.335059,-11.33506 6.260181,0 11.33506,5.07488 11.33506,11.33506 z"
          transform="matrix(0.97320172,0,0,0.97320172,1.6702522,15.117897)" />
       <text
          xml:space="preserve"
@@ -15162,7 +15162,7 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
        transform="translate(1807.0416,-389.62586)">
       <path
          transform="matrix(0.97320172,0,0,0.97320172,1.6702522,15.117897)"
-         d="m 67.52457,588.401 a 11.335059,11.335059 0 1 1 -22.670119,0 11.335059,11.335059 0 1 1 22.670119,0 z"
+         d="m 67.52457,588.401 c 0,6.26018 -5.074879,11.33506 -11.33506,11.33506 -6.26018,0 -11.335059,-5.07488 -11.335059,-11.33506 0,-6.26018 5.074879,-11.33506 11.335059,-11.33506 6.260181,0 11.33506,5.07488 11.33506,11.33506 z"
          sodipodi:ry="11.335059"
          sodipodi:rx="11.335059"
          sodipodi:cy="588.401"
@@ -15213,7 +15213,7 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
          sodipodi:cy="588.401"
          sodipodi:rx="11.335059"
          sodipodi:ry="11.335059"
-         d="m 67.52457,588.401 a 11.335059,11.335059 0 1 1 -22.670119,0 11.335059,11.335059 0 1 1 22.670119,0 z"
+         d="m 67.52457,588.401 c 0,6.26018 -5.074879,11.33506 -11.33506,11.33506 -6.26018,0 -11.335059,-5.07488 -11.335059,-11.33506 0,-6.26018 5.074879,-11.33506 11.335059,-11.33506 6.260181,0 11.33506,5.07488 11.33506,11.33506 z"
          transform="matrix(0.97320172,0,0,0.97320172,1.6702522,15.117897)" />
       <text
          xml:space="preserve"
