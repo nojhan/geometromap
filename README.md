@@ -3,7 +3,7 @@ Carte géographiquement réaliste du métro de Paris
 
 Distribuee sous licence Creative Commons Attribtion Partage a l'identique. Cette carte a plusieurs caracteristiques qui vont plus loin que le simple esthetisme : chaque station est placee a sa position geographique reelle, la palette de couleurs a ete conçue avec soin pour être la plus agreable a lire par un être humain, sur fond clair comme sur fond sombre, elle est utilisable par les daltoniens, elle est dans un format vectoriel ouvert, dedie au web, aucun element graphique ne pose de problème de droit d'auteur
 
-Auteur : nojhan <nojhan@gmail.com>
+Mainteneur : nojhan <nojhan@gmail.com>
 
 
 CONVERSIONS
@@ -24,8 +24,9 @@ Cette licence vous donne le droit de partager l'œuvre (reproduire, distribuer e
 à des fins commerciales. Si vous modifiez, transformez ou adaptez cette oeuvre, vous n'avez le droit de distribuer votre
 création que sous une licence identique ou similaire à celle-ci.
 
-Vous pouvez donc distribuer facilement l'image (sous forme bitmap), mais vous devez attribuer l'image à son auteur
-(« nojhan ») et en indiquer la licence (« CC-BY-SA », optionnellement avec un lien). Par exemple : « © nojhan — CC-BY-SA ».
+Vous pouvez donc distribuer facilement l'image (sous forme bitmap), mais vous devez attribuer l'image à ses auteurs
+(« nojhan, Metropolitan, Pmx ») et en indiquer la licence (« CC-BY-SA », optionnellement avec un lien).
+Par exemple : « © nojhan, Metropolitan, Pmx — CC-BY-SA ».
 
 
 ## Code source
@@ -37,7 +38,7 @@ Cette licence vous donne le droit de partager le code source (reproduire, distri
 à des fins commerciales. Si vous modifiez, transformez ou adaptez le code source, vous n'avez le droit de distribuer votre
 création que sous une licence identique à celle-ci.
 
-Vous pouvez donc distribuer facilement le plan (sous forme SVG), mais vous devez en attribuer la paternité à son auteur
-(« nojhan <nojhan@gmail.com> »), en indiquer la licence (« AGPLv3 », optionnellement avec un lien) et donner aux utilisateurs
+Vous pouvez donc distribuer facilement le plan (sous forme SVG), mais vous devez en attribuer la paternité à ses auteurs
+(« nojhan, Metropolitan, Pmx »), en indiquer la licence (« AGPLv3 », optionnellement avec un lien) et donner aux utilisateurs
 de votre application dérivée les moyens d'en télécharger le code source.
 
