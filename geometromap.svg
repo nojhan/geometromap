@@ -15,7 +15,7 @@
      height="1770"
      id="svg2"
      sodipodi:version="0.32"
-     inkscape:version="0.48.2 r9819"
+     inkscape:version="0.48.3.1 r9886"
      sodipodi:docname="geometromap.svg"
      inkscape:output_extension="org.inkscape.output.svg.inkscape"
      style="display:inline"
@@ -108,8 +108,8 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
         </rdf:RDF>
     </metadata>
     <sodipodi:namedview
-         inkscape:window-height="1158"
-         inkscape:window-width="1912"
+         inkscape:window-height="1126"
+         inkscape:window-width="1914"
          inkscape:pageshadow="2"
          inkscape:pageopacity="1"
          guidetolerance="10.0"
@@ -120,11 +120,11 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
          pagecolor="#fdf6e3"
          id="base"
          showgrid="false"
-         inkscape:zoom="0.55254237"
-         inkscape:cx="1084.5414"
-         inkscape:cy="903.69321"
-         inkscape:window-x="0"
-         inkscape:window-y="0"
+         inkscape:zoom="1.1050847"
+         inkscape:cx="1426.3767"
+         inkscape:cy="1250.9124"
+         inkscape:window-x="1280"
+         inkscape:window-y="44"
          inkscape:current-layer="layer31"
          showguides="true"
          inkscape:guide-bbox="true"
@@ -1043,7 +1043,7 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
             <path
                  id="path3312"
                  style="fill:none;stroke:#d33682;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.25, 1.25;stroke-dashoffset:0;marker-start:none;marker-end:url(#Arrow1Send)"
-                 d="m 1542.1016,523.91013 c 71.6263,10.02229 195.6113,77.88484 217.1574,137.83475 11.968,33.29997 24.6005,70.19401 29.9072,107.13516 7.739,53.87219 11.5523,107.84459 20.6501,150.91658 8.2747,47.52532 29.9862,93.75548 31.1178,141.85648 1.0271,35.3066 26.5164,97.2086 59.0208,111.1531"
+                 d="M 1636.0989,538.04932 C 1715.0776,554.40597 1737.7129,601.79497 1759.259,661.74488 1771.227,695.04485 1783.8595,731.93889 1789.1662,768.88004 1796.9052,822.75223 1800.7185,876.72463 1809.8163,919.79662 1818.091,967.32194 1839.8025,1013.5521 1840.9341,1061.6531 1841.9612,1096.9597 1867.4505,1158.8617 1899.9549,1172.8062"
                  inkscape:connector-curvature="0"
                  sodipodi:nodetypes="cssccc" />
         </g>
@@ -1545,12 +1545,12 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
         <text
              sodipodi:linespacing="125%"
              id="use6266-3-1"
-             y="603.82483"
-             x="1685.6262"
+             y="604.61664"
+             x="1717.1848"
              style="font-size:13.7665596px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
              xml:space="preserve"><tspan
-                 y="603.82483"
-                 x="1685.6262"
+                 y="604.61664"
+                 x="1717.1848"
                  id="tspan5430"
                  sodipodi:role="line">3</tspan></text>
         <use
@@ -1559,7 +1559,7 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
              y="0"
              xlink:href="#g6177"
              id="use6182-7-9-4-2"
-             transform="matrix(-0.02883534,0.99958419,0.99958419,0.02883534,481.04643,-656.2862)"
+             transform="matrix(-0.37392995,0.92745696,0.92745696,0.37392995,1020.2274,-996.1652)"
              width="1927"
              height="1770" />
         <use
@@ -1568,29 +1568,29 @@ Les lignes de trams sont positionnées grâce aux données géographiques du pro
              y="0"
              xlink:href="#g6177"
              id="use6182-7-9-4-2-3"
-             transform="matrix(0.66535279,-0.74652908,0.74652908,0.66535279,-26.210241,626.04832)"
+             transform="matrix(0.66535279,-0.74652908,0.74652908,0.66535279,6.8189003,632.83513)"
              width="1927"
              height="1770" />
         <text
              sodipodi:linespacing="125%"
              id="use6266-3-1-9"
-             y="548.36249"
-             x="1710.5782"
+             y="555.14929"
+             x="1743.6074"
              style="font-size:13.7665596px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
              xml:space="preserve"><tspan
-                 y="548.36249"
-                 x="1710.5782"
+                 y="555.14929"
+                 x="1743.6074"
                  id="tspan5434"
                  sodipodi:role="line">3</tspan></text>
         <text
              sodipodi:linespacing="125%"
              id="use6184-5-8-9-0"
-             y="567.82434"
-             x="1679.3223"
+             y="570.08661"
+             x="1714.1613"
              style="font-size:13.7665596px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
              xml:space="preserve"><tspan
-                 y="567.82434"
-                 x="1679.3223"
+                 y="570.08661"
+                 x="1714.1613"
                  id="tspan5370"
                  sodipodi:role="line">2</tspan></text>
         <text
